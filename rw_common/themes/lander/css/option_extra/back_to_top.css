@@ -1,0 +1,30 @@
+#up {	
+	z-index: 100;
+	 position: fixed;
+	overflow: visible;
+	display: block;
+	height: 44px;
+	width: 44px;
+	margin: 0;
+	bottom: 15px;
+	padding: 0;
+	right: 15px;
+}
+#up [class^="fa fa-"]{
+	font-size: 46px;
+	-webkit-font-smoothing: none;
+	-webkit-font-smoothing: subpixel-antialiased;
+	-webkit-font-smoothing: antialiased;	
+	margin-right: auto;
+	margin-left: auto;
+	position: absolute;
+	right: 0;
+	top: 0;
+	line-height: 39px;
+	text-align: center;
+	color: #feffff;
+	background-color: rgba(86,86,86,0.4456636);
+	width: 100%;
+	height: 100%;
+	padding: 0;
+}

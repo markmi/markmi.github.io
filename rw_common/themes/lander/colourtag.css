@@ -1,0 +1,45 @@
+/* buttons */
+#drop [class^="fa fa-"], #drop.boxopened:after, #drop:after {color: #FFFFFF;}
+#drop:hover [class^="fa fa-"] {color: #FFFFFF;}
+body {background-color: #5D6868;}
+/* Toolbar */
+#navcontainer_opacity {background-color: #F4F4F4;}
+#navcontainer ul li {background-color: #404E56;
+border-color: #333E44;}
+/*#navcontainer ul li {border-color: #46555E;}*/
+#navcontainer a:link, #navcontainer a:visited {color: #FFFFFF;}
+#navcontainer a:hover, #navcontainer #current, #navcontainer .current, #navcontainer ul #current, #navcontainer ul .current, #navcontainer a:active, #navcontainer .currentAncestor, #navcontainer ul #currentAncestor, #navcontainer ul .currentAncestor, #navcontainer #currentAncestor {
+color: #C5EAEB;}
+/* Container */
+#global_width{background-color: #F4F4F4;}
+#pageHeader h1, #pageHeader h2, #pageHeader h1 [class^="fa fa-"], #pageHeader h2 [class^="fa fa-"] {color: #FFFFFF;}
+#contentContainer, #contentContainer [class^="fa fa-"], #contentContainer [class*="fa fa-"]{color: #464646;}
+#contentContainer a:link [class^="fa fa-"], #contentContainer a:visited [class^="fa fa-"] {color: #3F5D7C;}
+#contentContainer a:hover [class^="fa fa-"], #contentContainer a:active [class^="fa fa-"] {color: #373E3E;}
+a:link, a:visited {color: #3F5D7C;}
+a:hover, a:active {color: #373E3E;}
+#opacity_wrapper {border-color: #C3C3C3;}
+/* Breadcrumbcontainer */
+#breadcrumbcontainer li  {color: #AAAAAA;}
+#breadcrumbcontainer a:link [class^="fa fa-"], #breadcrumbcontainer a:link [class*="fa fa-"], #breadcrumbcontainer a:visited  [class^="fa fa-"], #breadcrumbcontainer a:visited  [class*="fa fa-"], #breadcrumbcontainer li:before {color: #3F5D7C;}
+#breadcrumbcontainer a:hover [class^="fa fa-"], #breadcrumbcontainer a:hover [class*="fa fa-"], #breadcrumbcontainer a:active   [class^="fa fa-"], #breadcrumbcontainer a:active  [class*="fa fa-"] {color: #373E3E;}
+#opacity_background{ background-color: #F4F4F4;}
+.filesharing-item, .rw-sitemap ul li, .blog-entry-date { background-color: #F1F1F1; border-color: #E7E7E7;}
+#footer p, #footer a, #footer [class^="fa fa-"], #footer [class*="fa fa-"] {	color: #8E9998;}
+#footer a:link, #footer a:visited, #footer a:link [class^="fa fa-"], #footer a:visited [class^="fa fa-"], .footer_breadcrumbcontainer li:before  {color: #A8B4B3;}
+/* RW pages */
+.photo-frame, .exif-data, .photo-navigation,{border-color: #424242;}
+.blog-archive-link-enabled, .blog-category-link-enabled, .blog-entry-permalink a:visited {color: #373E3E;}
+.thumbnail-frame:hover {color: #373E3E;}
+.album-title,. movie-page-title, blockquote {color: #464646;}
+/* Sidebar */
+#sidebar blockquote, #sidebarContainer .standout, blockquote, #sidebarContainer .standout, #sidebar blockquote, #sidebarContainer {
+color: #DBDBDB; }
+#sidebarContainer h1, #sidebarContainer h2, #sidebarContainer h3, #sidebarContainer h4, #sidebarContainer h5, #sidebarContainer h6, #sidebarContainer .sideHeader, #sidebarContainer #sidebar, #sidebarContainer, #sidebarContainer #sidebar [class^="fa fa-"], #sidebarContainer #sidebar [class*="fa fa-"] {color: #DBDBDB;}
+#sidebarContainer a {color: #C5EAEB;}
+#sidebarContainer a:hover, #sidebarContainer a:active {color: #FFFFFF;}
+#sidebarContainer, #sidebarBackground {background-color: #404E56;}
+#sidebarContainer #sidebar a:link [class^="fa fa-"], #sidebarContainer #sidebar a:visited [class^="fa fa-"] {color: #C5EAEB;}
+#sidebarContainer #sidebar a:hover [class^="fa fa-"], #sidebarContainer #sidebar a:active [class^="fa fa-"] {color: #FFFFFF;}
+/* Blog plugin in sidebar */
+#blog-archives, #blog-categories, ul.blog-tag-cloud {background-color: #333E44;}

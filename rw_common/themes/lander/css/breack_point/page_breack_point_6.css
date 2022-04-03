@@ -1,0 +1,26 @@
+@media all and (max-width: 5200px) {
+#sidebarContainer {
+	width: 100% !important;
+	float: none !important;
+}
+#contentContainer #content{
+	width: 90% !important;
+	float: none !important;
+	padding-left: 5%;
+	padding-right: 5%;
+}
+#sidebarContainer #sidebar {width: auto;
+	padding-right: 25px;
+	padding-left: 25px;
+	padding-bottom: 25px;
+}
+#sidebarBackground {display: none;}
+#sidebarContainer #sidebar, #sidebarContainer {display: none;}
+
+}
+@media all and (max-width: 1200px) {
+#contentContainer #content{
+	padding-top: 5% !important;
+	padding-left: 5% !important;
+ }
+}

@@ -1,0 +1,5 @@
+#headerbox {height: 600px;}
+@media only screen and (max-width: 768px) { #headerbox {height: 400px;} }
+@media only screen and (max-width: 480px) { #headerbox {height: 280px;} }
+#pageHeader{padding-top: 55px;}
+@media only screen and (max-width: 768px) { #pageHeader{padding-top: 0px;} }

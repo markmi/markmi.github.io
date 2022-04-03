@@ -1,0 +1,3 @@
+#headerbox {height: 400px;}
+#pageHeader{padding-top: 0px;}
+@media only screen and (max-width: 480px) { #headerbox {height: 280px;} #pageHeader{padding-top: 0px;}}
