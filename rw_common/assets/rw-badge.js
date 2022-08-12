@@ -94,6 +94,7 @@ class RapidWeaverBadge extends HTMLElement {
     delay: 1000,
     url: null,
     target: '_self',
+    hideOn: null
   }
 
   constructor() {
@@ -113,8 +114,34 @@ class RapidWeaverBadge extends HTMLElement {
     this.addTransitions();
     this.setPosition();
     this.setTheme();
+    this.addHiddenStyles();
     window.matchMedia("(prefers-color-scheme: dark)")
       .addEventListener("change",   e => this.setTheme());
+  }
+
+  /**
+   * @returns {string}
+   * @private
+   * @memberof RapidWeaverBadge
+   * @description Work out when to show/hide the badge
+  **/
+  addHiddenStyles() {
+    const styleNode = Array.from(this.shadowRoot.childNodes)
+      .filter(childNode => childNode.nodeName === 'STYLE');
+
+    if (Array.isArray(this.hideWhen)) {
+      this.hideWhen.forEach(hideWhen => {
+        styleNode[0].innerHTML += `
+          @media ${hideWhen} {
+            #rapidweaverBadge {
+              display: none !important;
+              visibility: hidden !important;
+            }
+          }
+        `;
+      });
+    }
+
   }
 
   /**
@@ -339,6 +366,16 @@ class RapidWeaverBadge extends HTMLElement {
     return !target ? this.$defaults.target : target;
   }
 
+  /**
+   * @returns {array}
+   * @private
+   * @memberof RapidWeaverBadge
+   * @description Get the hide-on attribute
+  **/
+   get hideWhen() {
+    const hideWhen = this.getAttribute("hide-when");
+    return !hideWhen ? this.$defaults.hideWhen : hideWhen.split(',');
+  }
 }
 
 window.customElements.define('rapidweaver-badge', RapidWeaverBadge);
