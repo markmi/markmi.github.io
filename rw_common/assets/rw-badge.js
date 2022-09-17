@@ -95,7 +95,7 @@ class RapidWeaverBadge extends HTMLElement {
     url: null,
     target: '_self',
     hideOn: null
-  }
+  };
 
   constructor() {
     super();
