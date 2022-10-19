@@ -1,0 +1,687 @@
+"Notes"	"Ten-Year Age Groups"	"Ten-Year Age Groups Code"	"Year"	"Year Code"	"Month"	"Month Code"	Deaths	Population	Crude Rate
+	"< 1 year"	"1"	"2018"	"2018"	"Jan., 2018"	"2018/01"	453	Not Applicable	Not Applicable
+	"< 1 year"	"1"	"2018"	"2018"	"Feb., 2018"	"2018/02"	406	Not Applicable	Not Applicable
+	"< 1 year"	"1"	"2018"	"2018"	"Mar., 2018"	"2018/03"	429	Not Applicable	Not Applicable
+	"< 1 year"	"1"	"2018"	"2018"	"Apr., 2018"	"2018/04"	404	Not Applicable	Not Applicable
+	"< 1 year"	"1"	"2018"	"2018"	"May, 2018"	"2018/05"	426	Not Applicable	Not Applicable
+	"< 1 year"	"1"	"2018"	"2018"	"Jun., 2018"	"2018/06"	406	Not Applicable	Not Applicable
+	"< 1 year"	"1"	"2018"	"2018"	"Jul., 2018"	"2018/07"	411	Not Applicable	Not Applicable
+	"< 1 year"	"1"	"2018"	"2018"	"Aug., 2018"	"2018/08"	418	Not Applicable	Not Applicable
+	"< 1 year"	"1"	"2018"	"2018"	"Sep., 2018"	"2018/09"	403	Not Applicable	Not Applicable
+	"< 1 year"	"1"	"2018"	"2018"	"Oct., 2018"	"2018/10"	430	Not Applicable	Not Applicable
+	"< 1 year"	"1"	"2018"	"2018"	"Nov., 2018"	"2018/11"	407	Not Applicable	Not Applicable
+	"< 1 year"	"1"	"2018"	"2018"	"Dec., 2018"	"2018/12"	398	Not Applicable	Not Applicable
+	"< 1 year"	"1"	"2019"	"2019"	"Jan., 2019"	"2019/01"	403	Not Applicable	Not Applicable
+	"< 1 year"	"1"	"2019"	"2019"	"Feb., 2019"	"2019/02"	402	Not Applicable	Not Applicable
+	"< 1 year"	"1"	"2019"	"2019"	"Mar., 2019"	"2019/03"	394	Not Applicable	Not Applicable
+	"< 1 year"	"1"	"2019"	"2019"	"Apr., 2019"	"2019/04"	363	Not Applicable	Not Applicable
+	"< 1 year"	"1"	"2019"	"2019"	"May, 2019"	"2019/05"	423	Not Applicable	Not Applicable
+	"< 1 year"	"1"	"2019"	"2019"	"Jun., 2019"	"2019/06"	437	Not Applicable	Not Applicable
+	"< 1 year"	"1"	"2019"	"2019"	"Jul., 2019"	"2019/07"	404	Not Applicable	Not Applicable
+	"< 1 year"	"1"	"2019"	"2019"	"Aug., 2019"	"2019/08"	364	Not Applicable	Not Applicable
+	"< 1 year"	"1"	"2019"	"2019"	"Sep., 2019"	"2019/09"	376	Not Applicable	Not Applicable
+	"< 1 year"	"1"	"2019"	"2019"	"Oct., 2019"	"2019/10"	360	Not Applicable	Not Applicable
+	"< 1 year"	"1"	"2019"	"2019"	"Nov., 2019"	"2019/11"	385	Not Applicable	Not Applicable
+	"< 1 year"	"1"	"2019"	"2019"	"Dec., 2019"	"2019/12"	408	Not Applicable	Not Applicable
+	"< 1 year"	"1"	"2020"	"2020"	"Jan., 2020"	"2020/01"	392	Not Applicable	Not Applicable
+	"< 1 year"	"1"	"2020"	"2020"	"Feb., 2020"	"2020/02"	357	Not Applicable	Not Applicable
+	"< 1 year"	"1"	"2020"	"2020"	"Mar., 2020"	"2020/03"	362	Not Applicable	Not Applicable
+	"< 1 year"	"1"	"2020"	"2020"	"Apr., 2020"	"2020/04"	364	Not Applicable	Not Applicable
+	"< 1 year"	"1"	"2020"	"2020"	"May, 2020"	"2020/05"	385	Not Applicable	Not Applicable
+	"< 1 year"	"1"	"2020"	"2020"	"Jun., 2020"	"2020/06"	386	Not Applicable	Not Applicable
+	"< 1 year"	"1"	"2020"	"2020"	"Jul., 2020"	"2020/07"	372	Not Applicable	Not Applicable
+	"< 1 year"	"1"	"2020"	"2020"	"Aug., 2020"	"2020/08"	350	Not Applicable	Not Applicable
+	"< 1 year"	"1"	"2020"	"2020"	"Sep., 2020"	"2020/09"	359	Not Applicable	Not Applicable
+	"< 1 year"	"1"	"2020"	"2020"	"Oct., 2020"	"2020/10"	355	Not Applicable	Not Applicable
+	"< 1 year"	"1"	"2020"	"2020"	"Nov., 2020"	"2020/11"	341	Not Applicable	Not Applicable
+	"< 1 year"	"1"	"2020"	"2020"	"Dec., 2020"	"2020/12"	345	Not Applicable	Not Applicable
+	"< 1 year"	"1"	"2021 (provisional)"	"2021"	"Jan., 2021 (provisional)"	"2021/01"	384	Not Applicable	Not Applicable
+	"< 1 year"	"1"	"2021 (provisional)"	"2021"	"Feb., 2021 (provisional)"	"2021/02"	300	Not Applicable	Not Applicable
+	"< 1 year"	"1"	"2021 (provisional)"	"2021"	"Mar., 2021 (provisional)"	"2021/03"	347	Not Applicable	Not Applicable
+	"< 1 year"	"1"	"2021 (provisional)"	"2021"	"Apr., 2021 (provisional)"	"2021/04"	343	Not Applicable	Not Applicable
+	"< 1 year"	"1"	"2021 (provisional)"	"2021"	"May, 2021 (provisional)"	"2021/05"	364	Not Applicable	Not Applicable
+	"< 1 year"	"1"	"2021 (provisional)"	"2021"	"Jun., 2021 (provisional)"	"2021/06"	388	Not Applicable	Not Applicable
+	"< 1 year"	"1"	"2021 (provisional)"	"2021"	"Jul., 2021 (provisional)"	"2021/07"	386	Not Applicable	Not Applicable
+	"< 1 year"	"1"	"2021 (provisional)"	"2021"	"Aug., 2021 (provisional)"	"2021/08"	370	Not Applicable	Not Applicable
+	"< 1 year"	"1"	"2021 (provisional)"	"2021"	"Sep., 2021 (provisional)"	"2021/09"	355	Not Applicable	Not Applicable
+	"< 1 year"	"1"	"2021 (provisional)"	"2021"	"Oct., 2021 (provisional)"	"2021/10"	381	Not Applicable	Not Applicable
+	"< 1 year"	"1"	"2021 (provisional)"	"2021"	"Nov., 2021 (provisional)"	"2021/11"	341	Not Applicable	Not Applicable
+	"< 1 year"	"1"	"2021 (provisional)"	"2021"	"Dec., 2021 (provisional)"	"2021/12"	358	Not Applicable	Not Applicable
+	"< 1 year"	"1"	"2022 (provisional and partial)"	"2022"	"Jan., 2022 (provisional)"	"2022/01"	362	Not Applicable	Not Applicable
+	"< 1 year"	"1"	"2022 (provisional and partial)"	"2022"	"Feb., 2022 (provisional)"	"2022/02"	291	Not Applicable	Not Applicable
+	"< 1 year"	"1"	"2022 (provisional and partial)"	"2022"	"Mar., 2022 (provisional)"	"2022/03"	357	Not Applicable	Not Applicable
+	"< 1 year"	"1"	"2022 (provisional and partial)"	"2022"	"Apr., 2022 (provisional)"	"2022/04"	351	Not Applicable	Not Applicable
+	"< 1 year"	"1"	"2022 (provisional and partial)"	"2022"	"May, 2022 (provisional)"	"2022/05"	379	Not Applicable	Not Applicable
+	"< 1 year"	"1"	"2022 (provisional and partial)"	"2022"	"Jun., 2022 (provisional)"	"2022/06"	361	Not Applicable	Not Applicable
+	"< 1 year"	"1"	"2022 (provisional and partial)"	"2022"	"Jul., 2022 (provisional)"	"2022/07"	368	Not Applicable	Not Applicable
+	"< 1 year"	"1"	"2022 (provisional and partial)"	"2022"	"Aug., 2022 (provisional)"	"2022/08"	332	Not Applicable	Not Applicable
+	"< 1 year"	"1"	"2022 (provisional and partial)"	"2022"	"Sep., 2022 (provisional)"	"2022/09"	192	Not Applicable	Not Applicable
+	"< 1 year"	"1"	"2022 (provisional and partial)"	"2022"	"Oct., 2022 (provisional and partial)"	"2022/10"	Suppressed	Not Applicable	Not Applicable
+	"1-4 years"	"1-4"	"2018"	"2018"	"Jan., 2018"	"2018/01"	91	Not Applicable	Not Applicable
+	"1-4 years"	"1-4"	"2018"	"2018"	"Feb., 2018"	"2018/02"	77	Not Applicable	Not Applicable
+	"1-4 years"	"1-4"	"2018"	"2018"	"Mar., 2018"	"2018/03"	81	Not Applicable	Not Applicable
+	"1-4 years"	"1-4"	"2018"	"2018"	"Apr., 2018"	"2018/04"	73	Not Applicable	Not Applicable
+	"1-4 years"	"1-4"	"2018"	"2018"	"May, 2018"	"2018/05"	110	Not Applicable	Not Applicable
+	"1-4 years"	"1-4"	"2018"	"2018"	"Jun., 2018"	"2018/06"	98	Not Applicable	Not Applicable
+	"1-4 years"	"1-4"	"2018"	"2018"	"Jul., 2018"	"2018/07"	102	Not Applicable	Not Applicable
+	"1-4 years"	"1-4"	"2018"	"2018"	"Aug., 2018"	"2018/08"	98	Not Applicable	Not Applicable
+	"1-4 years"	"1-4"	"2018"	"2018"	"Sep., 2018"	"2018/09"	77	Not Applicable	Not Applicable
+	"1-4 years"	"1-4"	"2018"	"2018"	"Oct., 2018"	"2018/10"	68	Not Applicable	Not Applicable
+	"1-4 years"	"1-4"	"2018"	"2018"	"Nov., 2018"	"2018/11"	85	Not Applicable	Not Applicable
+	"1-4 years"	"1-4"	"2018"	"2018"	"Dec., 2018"	"2018/12"	73	Not Applicable	Not Applicable
+	"1-4 years"	"1-4"	"2019"	"2019"	"Jan., 2019"	"2019/01"	81	Not Applicable	Not Applicable
+	"1-4 years"	"1-4"	"2019"	"2019"	"Feb., 2019"	"2019/02"	68	Not Applicable	Not Applicable
+	"1-4 years"	"1-4"	"2019"	"2019"	"Mar., 2019"	"2019/03"	68	Not Applicable	Not Applicable
+	"1-4 years"	"1-4"	"2019"	"2019"	"Apr., 2019"	"2019/04"	88	Not Applicable	Not Applicable
+	"1-4 years"	"1-4"	"2019"	"2019"	"May, 2019"	"2019/05"	94	Not Applicable	Not Applicable
+	"1-4 years"	"1-4"	"2019"	"2019"	"Jun., 2019"	"2019/06"	89	Not Applicable	Not Applicable
+	"1-4 years"	"1-4"	"2019"	"2019"	"Jul., 2019"	"2019/07"	91	Not Applicable	Not Applicable
+	"1-4 years"	"1-4"	"2019"	"2019"	"Aug., 2019"	"2019/08"	71	Not Applicable	Not Applicable
+	"1-4 years"	"1-4"	"2019"	"2019"	"Sep., 2019"	"2019/09"	64	Not Applicable	Not Applicable
+	"1-4 years"	"1-4"	"2019"	"2019"	"Oct., 2019"	"2019/10"	76	Not Applicable	Not Applicable
+	"1-4 years"	"1-4"	"2019"	"2019"	"Nov., 2019"	"2019/11"	66	Not Applicable	Not Applicable
+	"1-4 years"	"1-4"	"2019"	"2019"	"Dec., 2019"	"2019/12"	81	Not Applicable	Not Applicable
+	"1-4 years"	"1-4"	"2020"	"2020"	"Jan., 2020"	"2020/01"	74	Not Applicable	Not Applicable
+	"1-4 years"	"1-4"	"2020"	"2020"	"Feb., 2020"	"2020/02"	82	Not Applicable	Not Applicable
+	"1-4 years"	"1-4"	"2020"	"2020"	"Mar., 2020"	"2020/03"	79	Not Applicable	Not Applicable
+	"1-4 years"	"1-4"	"2020"	"2020"	"Apr., 2020"	"2020/04"	53	Not Applicable	Not Applicable
+	"1-4 years"	"1-4"	"2020"	"2020"	"May, 2020"	"2020/05"	101	Not Applicable	Not Applicable
+	"1-4 years"	"1-4"	"2020"	"2020"	"Jun., 2020"	"2020/06"	82	Not Applicable	Not Applicable
+	"1-4 years"	"1-4"	"2020"	"2020"	"Jul., 2020"	"2020/07"	92	Not Applicable	Not Applicable
+	"1-4 years"	"1-4"	"2020"	"2020"	"Aug., 2020"	"2020/08"	70	Not Applicable	Not Applicable
+	"1-4 years"	"1-4"	"2020"	"2020"	"Sep., 2020"	"2020/09"	73	Not Applicable	Not Applicable
+	"1-4 years"	"1-4"	"2020"	"2020"	"Oct., 2020"	"2020/10"	70	Not Applicable	Not Applicable
+	"1-4 years"	"1-4"	"2020"	"2020"	"Nov., 2020"	"2020/11"	66	Not Applicable	Not Applicable
+	"1-4 years"	"1-4"	"2020"	"2020"	"Dec., 2020"	"2020/12"	61	Not Applicable	Not Applicable
+	"1-4 years"	"1-4"	"2021 (provisional)"	"2021"	"Jan., 2021 (provisional)"	"2021/01"	53	Not Applicable	Not Applicable
+	"1-4 years"	"1-4"	"2021 (provisional)"	"2021"	"Feb., 2021 (provisional)"	"2021/02"	58	Not Applicable	Not Applicable
+	"1-4 years"	"1-4"	"2021 (provisional)"	"2021"	"Mar., 2021 (provisional)"	"2021/03"	80	Not Applicable	Not Applicable
+	"1-4 years"	"1-4"	"2021 (provisional)"	"2021"	"Apr., 2021 (provisional)"	"2021/04"	78	Not Applicable	Not Applicable
+	"1-4 years"	"1-4"	"2021 (provisional)"	"2021"	"May, 2021 (provisional)"	"2021/05"	84	Not Applicable	Not Applicable
+	"1-4 years"	"1-4"	"2021 (provisional)"	"2021"	"Jun., 2021 (provisional)"	"2021/06"	92	Not Applicable	Not Applicable
+	"1-4 years"	"1-4"	"2021 (provisional)"	"2021"	"Jul., 2021 (provisional)"	"2021/07"	78	Not Applicable	Not Applicable
+	"1-4 years"	"1-4"	"2021 (provisional)"	"2021"	"Aug., 2021 (provisional)"	"2021/08"	94	Not Applicable	Not Applicable
+	"1-4 years"	"1-4"	"2021 (provisional)"	"2021"	"Sep., 2021 (provisional)"	"2021/09"	91	Not Applicable	Not Applicable
+	"1-4 years"	"1-4"	"2021 (provisional)"	"2021"	"Oct., 2021 (provisional)"	"2021/10"	73	Not Applicable	Not Applicable
+	"1-4 years"	"1-4"	"2021 (provisional)"	"2021"	"Nov., 2021 (provisional)"	"2021/11"	67	Not Applicable	Not Applicable
+	"1-4 years"	"1-4"	"2021 (provisional)"	"2021"	"Dec., 2021 (provisional)"	"2021/12"	79	Not Applicable	Not Applicable
+	"1-4 years"	"1-4"	"2022 (provisional and partial)"	"2022"	"Jan., 2022 (provisional)"	"2022/01"	69	Not Applicable	Not Applicable
+	"1-4 years"	"1-4"	"2022 (provisional and partial)"	"2022"	"Feb., 2022 (provisional)"	"2022/02"	72	Not Applicable	Not Applicable
+	"1-4 years"	"1-4"	"2022 (provisional and partial)"	"2022"	"Mar., 2022 (provisional)"	"2022/03"	81	Not Applicable	Not Applicable
+	"1-4 years"	"1-4"	"2022 (provisional and partial)"	"2022"	"Apr., 2022 (provisional)"	"2022/04"	80	Not Applicable	Not Applicable
+	"1-4 years"	"1-4"	"2022 (provisional and partial)"	"2022"	"May, 2022 (provisional)"	"2022/05"	106	Not Applicable	Not Applicable
+	"1-4 years"	"1-4"	"2022 (provisional and partial)"	"2022"	"Jun., 2022 (provisional)"	"2022/06"	92	Not Applicable	Not Applicable
+	"1-4 years"	"1-4"	"2022 (provisional and partial)"	"2022"	"Jul., 2022 (provisional)"	"2022/07"	98	Not Applicable	Not Applicable
+	"1-4 years"	"1-4"	"2022 (provisional and partial)"	"2022"	"Aug., 2022 (provisional)"	"2022/08"	64	Not Applicable	Not Applicable
+	"1-4 years"	"1-4"	"2022 (provisional and partial)"	"2022"	"Sep., 2022 (provisional)"	"2022/09"	51	Not Applicable	Not Applicable
+	"1-4 years"	"1-4"	"2022 (provisional and partial)"	"2022"	"Oct., 2022 (provisional and partial)"	"2022/10"	Suppressed	Not Applicable	Not Applicable
+	"5-14 years"	"5-14"	"2018"	"2018"	"Jan., 2018"	"2018/01"	120	Not Applicable	Not Applicable
+	"5-14 years"	"5-14"	"2018"	"2018"	"Feb., 2018"	"2018/02"	118	Not Applicable	Not Applicable
+	"5-14 years"	"5-14"	"2018"	"2018"	"Mar., 2018"	"2018/03"	131	Not Applicable	Not Applicable
+	"5-14 years"	"5-14"	"2018"	"2018"	"Apr., 2018"	"2018/04"	121	Not Applicable	Not Applicable
+	"5-14 years"	"5-14"	"2018"	"2018"	"May, 2018"	"2018/05"	131	Not Applicable	Not Applicable
+	"5-14 years"	"5-14"	"2018"	"2018"	"Jun., 2018"	"2018/06"	138	Not Applicable	Not Applicable
+	"5-14 years"	"5-14"	"2018"	"2018"	"Jul., 2018"	"2018/07"	125	Not Applicable	Not Applicable
+	"5-14 years"	"5-14"	"2018"	"2018"	"Aug., 2018"	"2018/08"	107	Not Applicable	Not Applicable
+	"5-14 years"	"5-14"	"2018"	"2018"	"Sep., 2018"	"2018/09"	120	Not Applicable	Not Applicable
+	"5-14 years"	"5-14"	"2018"	"2018"	"Oct., 2018"	"2018/10"	127	Not Applicable	Not Applicable
+	"5-14 years"	"5-14"	"2018"	"2018"	"Nov., 2018"	"2018/11"	133	Not Applicable	Not Applicable
+	"5-14 years"	"5-14"	"2018"	"2018"	"Dec., 2018"	"2018/12"	128	Not Applicable	Not Applicable
+	"5-14 years"	"5-14"	"2019"	"2019"	"Jan., 2019"	"2019/01"	135	Not Applicable	Not Applicable
+	"5-14 years"	"5-14"	"2019"	"2019"	"Feb., 2019"	"2019/02"	114	Not Applicable	Not Applicable
+	"5-14 years"	"5-14"	"2019"	"2019"	"Mar., 2019"	"2019/03"	116	Not Applicable	Not Applicable
+	"5-14 years"	"5-14"	"2019"	"2019"	"Apr., 2019"	"2019/04"	119	Not Applicable	Not Applicable
+	"5-14 years"	"5-14"	"2019"	"2019"	"May, 2019"	"2019/05"	124	Not Applicable	Not Applicable
+	"5-14 years"	"5-14"	"2019"	"2019"	"Jun., 2019"	"2019/06"	141	Not Applicable	Not Applicable
+	"5-14 years"	"5-14"	"2019"	"2019"	"Jul., 2019"	"2019/07"	147	Not Applicable	Not Applicable
+	"5-14 years"	"5-14"	"2019"	"2019"	"Aug., 2019"	"2019/08"	115	Not Applicable	Not Applicable
+	"5-14 years"	"5-14"	"2019"	"2019"	"Sep., 2019"	"2019/09"	126	Not Applicable	Not Applicable
+	"5-14 years"	"5-14"	"2019"	"2019"	"Oct., 2019"	"2019/10"	122	Not Applicable	Not Applicable
+	"5-14 years"	"5-14"	"2019"	"2019"	"Nov., 2019"	"2019/11"	119	Not Applicable	Not Applicable
+	"5-14 years"	"5-14"	"2019"	"2019"	"Dec., 2019"	"2019/12"	145	Not Applicable	Not Applicable
+	"5-14 years"	"5-14"	"2020"	"2020"	"Jan., 2020"	"2020/01"	128	Not Applicable	Not Applicable
+	"5-14 years"	"5-14"	"2020"	"2020"	"Feb., 2020"	"2020/02"	125	Not Applicable	Not Applicable
+	"5-14 years"	"5-14"	"2020"	"2020"	"Mar., 2020"	"2020/03"	131	Not Applicable	Not Applicable
+	"5-14 years"	"5-14"	"2020"	"2020"	"Apr., 2020"	"2020/04"	109	Not Applicable	Not Applicable
+	"5-14 years"	"5-14"	"2020"	"2020"	"May, 2020"	"2020/05"	146	Not Applicable	Not Applicable
+	"5-14 years"	"5-14"	"2020"	"2020"	"Jun., 2020"	"2020/06"	142	Not Applicable	Not Applicable
+	"5-14 years"	"5-14"	"2020"	"2020"	"Jul., 2020"	"2020/07"	133	Not Applicable	Not Applicable
+	"5-14 years"	"5-14"	"2020"	"2020"	"Aug., 2020"	"2020/08"	135	Not Applicable	Not Applicable
+	"5-14 years"	"5-14"	"2020"	"2020"	"Sep., 2020"	"2020/09"	122	Not Applicable	Not Applicable
+	"5-14 years"	"5-14"	"2020"	"2020"	"Oct., 2020"	"2020/10"	143	Not Applicable	Not Applicable
+	"5-14 years"	"5-14"	"2020"	"2020"	"Nov., 2020"	"2020/11"	135	Not Applicable	Not Applicable
+	"5-14 years"	"5-14"	"2020"	"2020"	"Dec., 2020"	"2020/12"	120	Not Applicable	Not Applicable
+	"5-14 years"	"5-14"	"2021 (provisional)"	"2021"	"Jan., 2021 (provisional)"	"2021/01"	121	Not Applicable	Not Applicable
+	"5-14 years"	"5-14"	"2021 (provisional)"	"2021"	"Feb., 2021 (provisional)"	"2021/02"	102	Not Applicable	Not Applicable
+	"5-14 years"	"5-14"	"2021 (provisional)"	"2021"	"Mar., 2021 (provisional)"	"2021/03"	136	Not Applicable	Not Applicable
+	"5-14 years"	"5-14"	"2021 (provisional)"	"2021"	"Apr., 2021 (provisional)"	"2021/04"	114	Not Applicable	Not Applicable
+	"5-14 years"	"5-14"	"2021 (provisional)"	"2021"	"May, 2021 (provisional)"	"2021/05"	141	Not Applicable	Not Applicable
+	"5-14 years"	"5-14"	"2021 (provisional)"	"2021"	"Jun., 2021 (provisional)"	"2021/06"	135	Not Applicable	Not Applicable
+	"5-14 years"	"5-14"	"2021 (provisional)"	"2021"	"Jul., 2021 (provisional)"	"2021/07"	145	Not Applicable	Not Applicable
+	"5-14 years"	"5-14"	"2021 (provisional)"	"2021"	"Aug., 2021 (provisional)"	"2021/08"	138	Not Applicable	Not Applicable
+	"5-14 years"	"5-14"	"2021 (provisional)"	"2021"	"Sep., 2021 (provisional)"	"2021/09"	153	Not Applicable	Not Applicable
+	"5-14 years"	"5-14"	"2021 (provisional)"	"2021"	"Oct., 2021 (provisional)"	"2021/10"	120	Not Applicable	Not Applicable
+	"5-14 years"	"5-14"	"2021 (provisional)"	"2021"	"Nov., 2021 (provisional)"	"2021/11"	116	Not Applicable	Not Applicable
+	"5-14 years"	"5-14"	"2021 (provisional)"	"2021"	"Dec., 2021 (provisional)"	"2021/12"	139	Not Applicable	Not Applicable
+	"5-14 years"	"5-14"	"2022 (provisional and partial)"	"2022"	"Jan., 2022 (provisional)"	"2022/01"	119	Not Applicable	Not Applicable
+	"5-14 years"	"5-14"	"2022 (provisional and partial)"	"2022"	"Feb., 2022 (provisional)"	"2022/02"	117	Not Applicable	Not Applicable
+	"5-14 years"	"5-14"	"2022 (provisional and partial)"	"2022"	"Mar., 2022 (provisional)"	"2022/03"	132	Not Applicable	Not Applicable
+	"5-14 years"	"5-14"	"2022 (provisional and partial)"	"2022"	"Apr., 2022 (provisional)"	"2022/04"	134	Not Applicable	Not Applicable
+	"5-14 years"	"5-14"	"2022 (provisional and partial)"	"2022"	"May, 2022 (provisional)"	"2022/05"	138	Not Applicable	Not Applicable
+	"5-14 years"	"5-14"	"2022 (provisional and partial)"	"2022"	"Jun., 2022 (provisional)"	"2022/06"	130	Not Applicable	Not Applicable
+	"5-14 years"	"5-14"	"2022 (provisional and partial)"	"2022"	"Jul., 2022 (provisional)"	"2022/07"	155	Not Applicable	Not Applicable
+	"5-14 years"	"5-14"	"2022 (provisional and partial)"	"2022"	"Aug., 2022 (provisional)"	"2022/08"	137	Not Applicable	Not Applicable
+	"5-14 years"	"5-14"	"2022 (provisional and partial)"	"2022"	"Sep., 2022 (provisional)"	"2022/09"	82	Not Applicable	Not Applicable
+	"5-14 years"	"5-14"	"2022 (provisional and partial)"	"2022"	"Oct., 2022 (provisional and partial)"	"2022/10"	Suppressed	Not Applicable	Not Applicable
+	"15-24 years"	"15-24"	"2018"	"2018"	"Jan., 2018"	"2018/01"	1001	Not Applicable	Not Applicable
+	"15-24 years"	"15-24"	"2018"	"2018"	"Feb., 2018"	"2018/02"	829	Not Applicable	Not Applicable
+	"15-24 years"	"15-24"	"2018"	"2018"	"Mar., 2018"	"2018/03"	962	Not Applicable	Not Applicable
+	"15-24 years"	"15-24"	"2018"	"2018"	"Apr., 2018"	"2018/04"	859	Not Applicable	Not Applicable
+	"15-24 years"	"15-24"	"2018"	"2018"	"May, 2018"	"2018/05"	985	Not Applicable	Not Applicable
+	"15-24 years"	"15-24"	"2018"	"2018"	"Jun., 2018"	"2018/06"	925	Not Applicable	Not Applicable
+	"15-24 years"	"15-24"	"2018"	"2018"	"Jul., 2018"	"2018/07"	1012	Not Applicable	Not Applicable
+	"15-24 years"	"15-24"	"2018"	"2018"	"Aug., 2018"	"2018/08"	945	Not Applicable	Not Applicable
+	"15-24 years"	"15-24"	"2018"	"2018"	"Sep., 2018"	"2018/09"	932	Not Applicable	Not Applicable
+	"15-24 years"	"15-24"	"2018"	"2018"	"Oct., 2018"	"2018/10"	996	Not Applicable	Not Applicable
+	"15-24 years"	"15-24"	"2018"	"2018"	"Nov., 2018"	"2018/11"	821	Not Applicable	Not Applicable
+	"15-24 years"	"15-24"	"2018"	"2018"	"Dec., 2018"	"2018/12"	817	Not Applicable	Not Applicable
+	"15-24 years"	"15-24"	"2019"	"2019"	"Jan., 2019"	"2019/01"	843	Not Applicable	Not Applicable
+	"15-24 years"	"15-24"	"2019"	"2019"	"Feb., 2019"	"2019/02"	718	Not Applicable	Not Applicable
+	"15-24 years"	"15-24"	"2019"	"2019"	"Mar., 2019"	"2019/03"	879	Not Applicable	Not Applicable
+	"15-24 years"	"15-24"	"2019"	"2019"	"Apr., 2019"	"2019/04"	777	Not Applicable	Not Applicable
+	"15-24 years"	"15-24"	"2019"	"2019"	"May, 2019"	"2019/05"	932	Not Applicable	Not Applicable
+	"15-24 years"	"15-24"	"2019"	"2019"	"Jun., 2019"	"2019/06"	879	Not Applicable	Not Applicable
+	"15-24 years"	"15-24"	"2019"	"2019"	"Jul., 2019"	"2019/07"	915	Not Applicable	Not Applicable
+	"15-24 years"	"15-24"	"2019"	"2019"	"Aug., 2019"	"2019/08"	891	Not Applicable	Not Applicable
+	"15-24 years"	"15-24"	"2019"	"2019"	"Sep., 2019"	"2019/09"	897	Not Applicable	Not Applicable
+	"15-24 years"	"15-24"	"2019"	"2019"	"Oct., 2019"	"2019/10"	875	Not Applicable	Not Applicable
+	"15-24 years"	"15-24"	"2019"	"2019"	"Nov., 2019"	"2019/11"	873	Not Applicable	Not Applicable
+	"15-24 years"	"15-24"	"2019"	"2019"	"Dec., 2019"	"2019/12"	870	Not Applicable	Not Applicable
+	"15-24 years"	"15-24"	"2020"	"2020"	"Jan., 2020"	"2020/01"	840	Not Applicable	Not Applicable
+	"15-24 years"	"15-24"	"2020"	"2020"	"Feb., 2020"	"2020/02"	809	Not Applicable	Not Applicable
+	"15-24 years"	"15-24"	"2020"	"2020"	"Mar., 2020"	"2020/03"	944	Not Applicable	Not Applicable
+	"15-24 years"	"15-24"	"2020"	"2020"	"Apr., 2020"	"2020/04"	924	Not Applicable	Not Applicable
+	"15-24 years"	"15-24"	"2020"	"2020"	"May, 2020"	"2020/05"	1054	Not Applicable	Not Applicable
+	"15-24 years"	"15-24"	"2020"	"2020"	"Jun., 2020"	"2020/06"	1037	Not Applicable	Not Applicable
+	"15-24 years"	"15-24"	"2020"	"2020"	"Jul., 2020"	"2020/07"	1113	Not Applicable	Not Applicable
+	"15-24 years"	"15-24"	"2020"	"2020"	"Aug., 2020"	"2020/08"	1085	Not Applicable	Not Applicable
+	"15-24 years"	"15-24"	"2020"	"2020"	"Sep., 2020"	"2020/09"	964	Not Applicable	Not Applicable
+	"15-24 years"	"15-24"	"2020"	"2020"	"Oct., 2020"	"2020/10"	992	Not Applicable	Not Applicable
+	"15-24 years"	"15-24"	"2020"	"2020"	"Nov., 2020"	"2020/11"	921	Not Applicable	Not Applicable
+	"15-24 years"	"15-24"	"2020"	"2020"	"Dec., 2020"	"2020/12"	963	Not Applicable	Not Applicable
+	"15-24 years"	"15-24"	"2021 (provisional)"	"2021"	"Jan., 2021 (provisional)"	"2021/01"	1049	Not Applicable	Not Applicable
+	"15-24 years"	"15-24"	"2021 (provisional)"	"2021"	"Feb., 2021 (provisional)"	"2021/02"	805	Not Applicable	Not Applicable
+	"15-24 years"	"15-24"	"2021 (provisional)"	"2021"	"Mar., 2021 (provisional)"	"2021/03"	994	Not Applicable	Not Applicable
+	"15-24 years"	"15-24"	"2021 (provisional)"	"2021"	"Apr., 2021 (provisional)"	"2021/04"	1023	Not Applicable	Not Applicable
+	"15-24 years"	"15-24"	"2021 (provisional)"	"2021"	"May, 2021 (provisional)"	"2021/05"	1072	Not Applicable	Not Applicable
+	"15-24 years"	"15-24"	"2021 (provisional)"	"2021"	"Jun., 2021 (provisional)"	"2021/06"	1020	Not Applicable	Not Applicable
+	"15-24 years"	"15-24"	"2021 (provisional)"	"2021"	"Jul., 2021 (provisional)"	"2021/07"	1010	Not Applicable	Not Applicable
+	"15-24 years"	"15-24"	"2021 (provisional)"	"2021"	"Aug., 2021 (provisional)"	"2021/08"	1056	Not Applicable	Not Applicable
+	"15-24 years"	"15-24"	"2021 (provisional)"	"2021"	"Sep., 2021 (provisional)"	"2021/09"	1079	Not Applicable	Not Applicable
+	"15-24 years"	"15-24"	"2021 (provisional)"	"2021"	"Oct., 2021 (provisional)"	"2021/10"	1069	Not Applicable	Not Applicable
+	"15-24 years"	"15-24"	"2021 (provisional)"	"2021"	"Nov., 2021 (provisional)"	"2021/11"	947	Not Applicable	Not Applicable
+	"15-24 years"	"15-24"	"2021 (provisional)"	"2021"	"Dec., 2021 (provisional)"	"2021/12"	960	Not Applicable	Not Applicable
+	"15-24 years"	"15-24"	"2022 (provisional and partial)"	"2022"	"Jan., 2022 (provisional)"	"2022/01"	911	Not Applicable	Not Applicable
+	"15-24 years"	"15-24"	"2022 (provisional and partial)"	"2022"	"Feb., 2022 (provisional)"	"2022/02"	850	Not Applicable	Not Applicable
+	"15-24 years"	"15-24"	"2022 (provisional and partial)"	"2022"	"Mar., 2022 (provisional)"	"2022/03"	899	Not Applicable	Not Applicable
+	"15-24 years"	"15-24"	"2022 (provisional and partial)"	"2022"	"Apr., 2022 (provisional)"	"2022/04"	824	Not Applicable	Not Applicable
+	"15-24 years"	"15-24"	"2022 (provisional and partial)"	"2022"	"May, 2022 (provisional)"	"2022/05"	942	Not Applicable	Not Applicable
+	"15-24 years"	"15-24"	"2022 (provisional and partial)"	"2022"	"Jun., 2022 (provisional)"	"2022/06"	910	Not Applicable	Not Applicable
+	"15-24 years"	"15-24"	"2022 (provisional and partial)"	"2022"	"Jul., 2022 (provisional)"	"2022/07"	885	Not Applicable	Not Applicable
+	"15-24 years"	"15-24"	"2022 (provisional and partial)"	"2022"	"Aug., 2022 (provisional)"	"2022/08"	881	Not Applicable	Not Applicable
+	"15-24 years"	"15-24"	"2022 (provisional and partial)"	"2022"	"Sep., 2022 (provisional)"	"2022/09"	451	Not Applicable	Not Applicable
+	"15-24 years"	"15-24"	"2022 (provisional and partial)"	"2022"	"Oct., 2022 (provisional and partial)"	"2022/10"	Suppressed	Not Applicable	Not Applicable
+	"25-34 years"	"25-34"	"2018"	"2018"	"Jan., 2018"	"2018/01"	2021	Not Applicable	Not Applicable
+	"25-34 years"	"25-34"	"2018"	"2018"	"Feb., 2018"	"2018/02"	1748	Not Applicable	Not Applicable
+	"25-34 years"	"25-34"	"2018"	"2018"	"Mar., 2018"	"2018/03"	2054	Not Applicable	Not Applicable
+	"25-34 years"	"25-34"	"2018"	"2018"	"Apr., 2018"	"2018/04"	1936	Not Applicable	Not Applicable
+	"25-34 years"	"25-34"	"2018"	"2018"	"May, 2018"	"2018/05"	2047	Not Applicable	Not Applicable
+	"25-34 years"	"25-34"	"2018"	"2018"	"Jun., 2018"	"2018/06"	2099	Not Applicable	Not Applicable
+	"25-34 years"	"25-34"	"2018"	"2018"	"Jul., 2018"	"2018/07"	2074	Not Applicable	Not Applicable
+	"25-34 years"	"25-34"	"2018"	"2018"	"Aug., 2018"	"2018/08"	2025	Not Applicable	Not Applicable
+	"25-34 years"	"25-34"	"2018"	"2018"	"Sep., 2018"	"2018/09"	2045	Not Applicable	Not Applicable
+	"25-34 years"	"25-34"	"2018"	"2018"	"Oct., 2018"	"2018/10"	1970	Not Applicable	Not Applicable
+	"25-34 years"	"25-34"	"2018"	"2018"	"Nov., 2018"	"2018/11"	1871	Not Applicable	Not Applicable
+	"25-34 years"	"25-34"	"2018"	"2018"	"Dec., 2018"	"2018/12"	1870	Not Applicable	Not Applicable
+	"25-34 years"	"25-34"	"2019"	"2019"	"Jan., 2019"	"2019/01"	1793	Not Applicable	Not Applicable
+	"25-34 years"	"25-34"	"2019"	"2019"	"Feb., 2019"	"2019/02"	1708	Not Applicable	Not Applicable
+	"25-34 years"	"25-34"	"2019"	"2019"	"Mar., 2019"	"2019/03"	2022	Not Applicable	Not Applicable
+	"25-34 years"	"25-34"	"2019"	"2019"	"Apr., 2019"	"2019/04"	1847	Not Applicable	Not Applicable
+	"25-34 years"	"25-34"	"2019"	"2019"	"May, 2019"	"2019/05"	1922	Not Applicable	Not Applicable
+	"25-34 years"	"25-34"	"2019"	"2019"	"Jun., 2019"	"2019/06"	1925	Not Applicable	Not Applicable
+	"25-34 years"	"25-34"	"2019"	"2019"	"Jul., 2019"	"2019/07"	2061	Not Applicable	Not Applicable
+	"25-34 years"	"25-34"	"2019"	"2019"	"Aug., 2019"	"2019/08"	2074	Not Applicable	Not Applicable
+	"25-34 years"	"25-34"	"2019"	"2019"	"Sep., 2019"	"2019/09"	1929	Not Applicable	Not Applicable
+	"25-34 years"	"25-34"	"2019"	"2019"	"Oct., 2019"	"2019/10"	2038	Not Applicable	Not Applicable
+	"25-34 years"	"25-34"	"2019"	"2019"	"Nov., 2019"	"2019/11"	1896	Not Applicable	Not Applicable
+	"25-34 years"	"25-34"	"2019"	"2019"	"Dec., 2019"	"2019/12"	1950	Not Applicable	Not Applicable
+	"25-34 years"	"25-34"	"2020"	"2020"	"Jan., 2020"	"2020/01"	2037	Not Applicable	Not Applicable
+	"25-34 years"	"25-34"	"2020"	"2020"	"Feb., 2020"	"2020/02"	1940	Not Applicable	Not Applicable
+	"25-34 years"	"25-34"	"2020"	"2020"	"Mar., 2020"	"2020/03"	2100	Not Applicable	Not Applicable
+	"25-34 years"	"25-34"	"2020"	"2020"	"Apr., 2020"	"2020/04"	2326	Not Applicable	Not Applicable
+	"25-34 years"	"25-34"	"2020"	"2020"	"May, 2020"	"2020/05"	2465	Not Applicable	Not Applicable
+	"25-34 years"	"25-34"	"2020"	"2020"	"Jun., 2020"	"2020/06"	2451	Not Applicable	Not Applicable
+	"25-34 years"	"25-34"	"2020"	"2020"	"Jul., 2020"	"2020/07"	2437	Not Applicable	Not Applicable
+	"25-34 years"	"25-34"	"2020"	"2020"	"Aug., 2020"	"2020/08"	2462	Not Applicable	Not Applicable
+	"25-34 years"	"25-34"	"2020"	"2020"	"Sep., 2020"	"2020/09"	2254	Not Applicable	Not Applicable
+	"25-34 years"	"25-34"	"2020"	"2020"	"Oct., 2020"	"2020/10"	2246	Not Applicable	Not Applicable
+	"25-34 years"	"25-34"	"2020"	"2020"	"Nov., 2020"	"2020/11"	2212	Not Applicable	Not Applicable
+	"25-34 years"	"25-34"	"2020"	"2020"	"Dec., 2020"	"2020/12"	2350	Not Applicable	Not Applicable
+	"25-34 years"	"25-34"	"2021 (provisional)"	"2021"	"Jan., 2021 (provisional)"	"2021/01"	2386	Not Applicable	Not Applicable
+	"25-34 years"	"25-34"	"2021 (provisional)"	"2021"	"Feb., 2021 (provisional)"	"2021/02"	2130	Not Applicable	Not Applicable
+	"25-34 years"	"25-34"	"2021 (provisional)"	"2021"	"Mar., 2021 (provisional)"	"2021/03"	2383	Not Applicable	Not Applicable
+	"25-34 years"	"25-34"	"2021 (provisional)"	"2021"	"Apr., 2021 (provisional)"	"2021/04"	2398	Not Applicable	Not Applicable
+	"25-34 years"	"25-34"	"2021 (provisional)"	"2021"	"May, 2021 (provisional)"	"2021/05"	2450	Not Applicable	Not Applicable
+	"25-34 years"	"25-34"	"2021 (provisional)"	"2021"	"Jun., 2021 (provisional)"	"2021/06"	2391	Not Applicable	Not Applicable
+	"25-34 years"	"25-34"	"2021 (provisional)"	"2021"	"Jul., 2021 (provisional)"	"2021/07"	2501	Not Applicable	Not Applicable
+	"25-34 years"	"25-34"	"2021 (provisional)"	"2021"	"Aug., 2021 (provisional)"	"2021/08"	2804	Not Applicable	Not Applicable
+	"25-34 years"	"25-34"	"2021 (provisional)"	"2021"	"Sep., 2021 (provisional)"	"2021/09"	2724	Not Applicable	Not Applicable
+	"25-34 years"	"25-34"	"2021 (provisional)"	"2021"	"Oct., 2021 (provisional)"	"2021/10"	2604	Not Applicable	Not Applicable
+	"25-34 years"	"25-34"	"2021 (provisional)"	"2021"	"Nov., 2021 (provisional)"	"2021/11"	2326	Not Applicable	Not Applicable
+	"25-34 years"	"25-34"	"2021 (provisional)"	"2021"	"Dec., 2021 (provisional)"	"2021/12"	2504	Not Applicable	Not Applicable
+	"25-34 years"	"25-34"	"2022 (provisional and partial)"	"2022"	"Jan., 2022 (provisional)"	"2022/01"	2456	Not Applicable	Not Applicable
+	"25-34 years"	"25-34"	"2022 (provisional and partial)"	"2022"	"Feb., 2022 (provisional)"	"2022/02"	2093	Not Applicable	Not Applicable
+	"25-34 years"	"25-34"	"2022 (provisional and partial)"	"2022"	"Mar., 2022 (provisional)"	"2022/03"	2260	Not Applicable	Not Applicable
+	"25-34 years"	"25-34"	"2022 (provisional and partial)"	"2022"	"Apr., 2022 (provisional)"	"2022/04"	2082	Not Applicable	Not Applicable
+	"25-34 years"	"25-34"	"2022 (provisional and partial)"	"2022"	"May, 2022 (provisional)"	"2022/05"	2078	Not Applicable	Not Applicable
+	"25-34 years"	"25-34"	"2022 (provisional and partial)"	"2022"	"Jun., 2022 (provisional)"	"2022/06"	2163	Not Applicable	Not Applicable
+	"25-34 years"	"25-34"	"2022 (provisional and partial)"	"2022"	"Jul., 2022 (provisional)"	"2022/07"	2277	Not Applicable	Not Applicable
+	"25-34 years"	"25-34"	"2022 (provisional and partial)"	"2022"	"Aug., 2022 (provisional)"	"2022/08"	2106	Not Applicable	Not Applicable
+	"25-34 years"	"25-34"	"2022 (provisional and partial)"	"2022"	"Sep., 2022 (provisional)"	"2022/09"	1249	Not Applicable	Not Applicable
+	"25-34 years"	"25-34"	"2022 (provisional and partial)"	"2022"	"Oct., 2022 (provisional and partial)"	"2022/10"	Suppressed	Not Applicable	Not Applicable
+	"35-44 years"	"35-44"	"2018"	"2018"	"Jan., 2018"	"2018/01"	2656	Not Applicable	Not Applicable
+	"35-44 years"	"35-44"	"2018"	"2018"	"Feb., 2018"	"2018/02"	2386	Not Applicable	Not Applicable
+	"35-44 years"	"35-44"	"2018"	"2018"	"Mar., 2018"	"2018/03"	2618	Not Applicable	Not Applicable
+	"35-44 years"	"35-44"	"2018"	"2018"	"Apr., 2018"	"2018/04"	2519	Not Applicable	Not Applicable
+	"35-44 years"	"35-44"	"2018"	"2018"	"May, 2018"	"2018/05"	2569	Not Applicable	Not Applicable
+	"35-44 years"	"35-44"	"2018"	"2018"	"Jun., 2018"	"2018/06"	2646	Not Applicable	Not Applicable
+	"35-44 years"	"35-44"	"2018"	"2018"	"Jul., 2018"	"2018/07"	2698	Not Applicable	Not Applicable
+	"35-44 years"	"35-44"	"2018"	"2018"	"Aug., 2018"	"2018/08"	2680	Not Applicable	Not Applicable
+	"35-44 years"	"35-44"	"2018"	"2018"	"Sep., 2018"	"2018/09"	2648	Not Applicable	Not Applicable
+	"35-44 years"	"35-44"	"2018"	"2018"	"Oct., 2018"	"2018/10"	2586	Not Applicable	Not Applicable
+	"35-44 years"	"35-44"	"2018"	"2018"	"Nov., 2018"	"2018/11"	2425	Not Applicable	Not Applicable
+	"35-44 years"	"35-44"	"2018"	"2018"	"Dec., 2018"	"2018/12"	2631	Not Applicable	Not Applicable
+	"35-44 years"	"35-44"	"2019"	"2019"	"Jan., 2019"	"2019/01"	2664	Not Applicable	Not Applicable
+	"35-44 years"	"35-44"	"2019"	"2019"	"Feb., 2019"	"2019/02"	2339	Not Applicable	Not Applicable
+	"35-44 years"	"35-44"	"2019"	"2019"	"Mar., 2019"	"2019/03"	2674	Not Applicable	Not Applicable
+	"35-44 years"	"35-44"	"2019"	"2019"	"Apr., 2019"	"2019/04"	2606	Not Applicable	Not Applicable
+	"35-44 years"	"35-44"	"2019"	"2019"	"May, 2019"	"2019/05"	2708	Not Applicable	Not Applicable
+	"35-44 years"	"35-44"	"2019"	"2019"	"Jun., 2019"	"2019/06"	2660	Not Applicable	Not Applicable
+	"35-44 years"	"35-44"	"2019"	"2019"	"Jul., 2019"	"2019/07"	2792	Not Applicable	Not Applicable
+	"35-44 years"	"35-44"	"2019"	"2019"	"Aug., 2019"	"2019/08"	2726	Not Applicable	Not Applicable
+	"35-44 years"	"35-44"	"2019"	"2019"	"Sep., 2019"	"2019/09"	2734	Not Applicable	Not Applicable
+	"35-44 years"	"35-44"	"2019"	"2019"	"Oct., 2019"	"2019/10"	2603	Not Applicable	Not Applicable
+	"35-44 years"	"35-44"	"2019"	"2019"	"Nov., 2019"	"2019/11"	2673	Not Applicable	Not Applicable
+	"35-44 years"	"35-44"	"2019"	"2019"	"Dec., 2019"	"2019/12"	2778	Not Applicable	Not Applicable
+	"35-44 years"	"35-44"	"2020"	"2020"	"Jan., 2020"	"2020/01"	2840	Not Applicable	Not Applicable
+	"35-44 years"	"35-44"	"2020"	"2020"	"Feb., 2020"	"2020/02"	2624	Not Applicable	Not Applicable
+	"35-44 years"	"35-44"	"2020"	"2020"	"Mar., 2020"	"2020/03"	3029	Not Applicable	Not Applicable
+	"35-44 years"	"35-44"	"2020"	"2020"	"Apr., 2020"	"2020/04"	3186	Not Applicable	Not Applicable
+	"35-44 years"	"35-44"	"2020"	"2020"	"May, 2020"	"2020/05"	3457	Not Applicable	Not Applicable
+	"35-44 years"	"35-44"	"2020"	"2020"	"Jun., 2020"	"2020/06"	3085	Not Applicable	Not Applicable
+	"35-44 years"	"35-44"	"2020"	"2020"	"Jul., 2020"	"2020/07"	3627	Not Applicable	Not Applicable
+	"35-44 years"	"35-44"	"2020"	"2020"	"Aug., 2020"	"2020/08"	3414	Not Applicable	Not Applicable
+	"35-44 years"	"35-44"	"2020"	"2020"	"Sep., 2020"	"2020/09"	3157	Not Applicable	Not Applicable
+	"35-44 years"	"35-44"	"2020"	"2020"	"Oct., 2020"	"2020/10"	3184	Not Applicable	Not Applicable
+	"35-44 years"	"35-44"	"2020"	"2020"	"Nov., 2020"	"2020/11"	3295	Not Applicable	Not Applicable
+	"35-44 years"	"35-44"	"2020"	"2020"	"Dec., 2020"	"2020/12"	3371	Not Applicable	Not Applicable
+	"35-44 years"	"35-44"	"2021 (provisional)"	"2021"	"Jan., 2021 (provisional)"	"2021/01"	3645	Not Applicable	Not Applicable
+	"35-44 years"	"35-44"	"2021 (provisional)"	"2021"	"Feb., 2021 (provisional)"	"2021/02"	3057	Not Applicable	Not Applicable
+	"35-44 years"	"35-44"	"2021 (provisional)"	"2021"	"Mar., 2021 (provisional)"	"2021/03"	3417	Not Applicable	Not Applicable
+	"35-44 years"	"35-44"	"2021 (provisional)"	"2021"	"Apr., 2021 (provisional)"	"2021/04"	3429	Not Applicable	Not Applicable
+	"35-44 years"	"35-44"	"2021 (provisional)"	"2021"	"May, 2021 (provisional)"	"2021/05"	3551	Not Applicable	Not Applicable
+	"35-44 years"	"35-44"	"2021 (provisional)"	"2021"	"Jun., 2021 (provisional)"	"2021/06"	3643	Not Applicable	Not Applicable
+	"35-44 years"	"35-44"	"2021 (provisional)"	"2021"	"Jul., 2021 (provisional)"	"2021/07"	3657	Not Applicable	Not Applicable
+	"35-44 years"	"35-44"	"2021 (provisional)"	"2021"	"Aug., 2021 (provisional)"	"2021/08"	4366	Not Applicable	Not Applicable
+	"35-44 years"	"35-44"	"2021 (provisional)"	"2021"	"Sep., 2021 (provisional)"	"2021/09"	4564	Not Applicable	Not Applicable
+	"35-44 years"	"35-44"	"2021 (provisional)"	"2021"	"Oct., 2021 (provisional)"	"2021/10"	4118	Not Applicable	Not Applicable
+	"35-44 years"	"35-44"	"2021 (provisional)"	"2021"	"Nov., 2021 (provisional)"	"2021/11"	3829	Not Applicable	Not Applicable
+	"35-44 years"	"35-44"	"2021 (provisional)"	"2021"	"Dec., 2021 (provisional)"	"2021/12"	4016	Not Applicable	Not Applicable
+	"35-44 years"	"35-44"	"2022 (provisional and partial)"	"2022"	"Jan., 2022 (provisional)"	"2022/01"	4112	Not Applicable	Not Applicable
+	"35-44 years"	"35-44"	"2022 (provisional and partial)"	"2022"	"Feb., 2022 (provisional)"	"2022/02"	3295	Not Applicable	Not Applicable
+	"35-44 years"	"35-44"	"2022 (provisional and partial)"	"2022"	"Mar., 2022 (provisional)"	"2022/03"	3456	Not Applicable	Not Applicable
+	"35-44 years"	"35-44"	"2022 (provisional and partial)"	"2022"	"Apr., 2022 (provisional)"	"2022/04"	3233	Not Applicable	Not Applicable
+	"35-44 years"	"35-44"	"2022 (provisional and partial)"	"2022"	"May, 2022 (provisional)"	"2022/05"	3398	Not Applicable	Not Applicable
+	"35-44 years"	"35-44"	"2022 (provisional and partial)"	"2022"	"Jun., 2022 (provisional)"	"2022/06"	3350	Not Applicable	Not Applicable
+	"35-44 years"	"35-44"	"2022 (provisional and partial)"	"2022"	"Jul., 2022 (provisional)"	"2022/07"	3350	Not Applicable	Not Applicable
+	"35-44 years"	"35-44"	"2022 (provisional and partial)"	"2022"	"Aug., 2022 (provisional)"	"2022/08"	3172	Not Applicable	Not Applicable
+	"35-44 years"	"35-44"	"2022 (provisional and partial)"	"2022"	"Sep., 2022 (provisional)"	"2022/09"	2004	Not Applicable	Not Applicable
+	"35-44 years"	"35-44"	"2022 (provisional and partial)"	"2022"	"Oct., 2022 (provisional and partial)"	"2022/10"	Suppressed	Not Applicable	Not Applicable
+	"45-54 years"	"45-54"	"2018"	"2018"	"Jan., 2018"	"2018/01"	6159	Not Applicable	Not Applicable
+	"45-54 years"	"45-54"	"2018"	"2018"	"Feb., 2018"	"2018/02"	5291	Not Applicable	Not Applicable
+	"45-54 years"	"45-54"	"2018"	"2018"	"Mar., 2018"	"2018/03"	5702	Not Applicable	Not Applicable
+	"45-54 years"	"45-54"	"2018"	"2018"	"Apr., 2018"	"2018/04"	5214	Not Applicable	Not Applicable
+	"45-54 years"	"45-54"	"2018"	"2018"	"May, 2018"	"2018/05"	5462	Not Applicable	Not Applicable
+	"45-54 years"	"45-54"	"2018"	"2018"	"Jun., 2018"	"2018/06"	5382	Not Applicable	Not Applicable
+	"45-54 years"	"45-54"	"2018"	"2018"	"Jul., 2018"	"2018/07"	5665	Not Applicable	Not Applicable
+	"45-54 years"	"45-54"	"2018"	"2018"	"Aug., 2018"	"2018/08"	5466	Not Applicable	Not Applicable
+	"45-54 years"	"45-54"	"2018"	"2018"	"Sep., 2018"	"2018/09"	5245	Not Applicable	Not Applicable
+	"45-54 years"	"45-54"	"2018"	"2018"	"Oct., 2018"	"2018/10"	5383	Not Applicable	Not Applicable
+	"45-54 years"	"45-54"	"2018"	"2018"	"Nov., 2018"	"2018/11"	5087	Not Applicable	Not Applicable
+	"45-54 years"	"45-54"	"2018"	"2018"	"Dec., 2018"	"2018/12"	5537	Not Applicable	Not Applicable
+	"45-54 years"	"45-54"	"2019"	"2019"	"Jan., 2019"	"2019/01"	5663	Not Applicable	Not Applicable
+	"45-54 years"	"45-54"	"2019"	"2019"	"Feb., 2019"	"2019/02"	5151	Not Applicable	Not Applicable
+	"45-54 years"	"45-54"	"2019"	"2019"	"Mar., 2019"	"2019/03"	5495	Not Applicable	Not Applicable
+	"45-54 years"	"45-54"	"2019"	"2019"	"Apr., 2019"	"2019/04"	5220	Not Applicable	Not Applicable
+	"45-54 years"	"45-54"	"2019"	"2019"	"May, 2019"	"2019/05"	5289	Not Applicable	Not Applicable
+	"45-54 years"	"45-54"	"2019"	"2019"	"Jun., 2019"	"2019/06"	5201	Not Applicable	Not Applicable
+	"45-54 years"	"45-54"	"2019"	"2019"	"Jul., 2019"	"2019/07"	5498	Not Applicable	Not Applicable
+	"45-54 years"	"45-54"	"2019"	"2019"	"Aug., 2019"	"2019/08"	5196	Not Applicable	Not Applicable
+	"45-54 years"	"45-54"	"2019"	"2019"	"Sep., 2019"	"2019/09"	4956	Not Applicable	Not Applicable
+	"45-54 years"	"45-54"	"2019"	"2019"	"Oct., 2019"	"2019/10"	5276	Not Applicable	Not Applicable
+	"45-54 years"	"45-54"	"2019"	"2019"	"Nov., 2019"	"2019/11"	5076	Not Applicable	Not Applicable
+	"45-54 years"	"45-54"	"2019"	"2019"	"Dec., 2019"	"2019/12"	5347	Not Applicable	Not Applicable
+	"45-54 years"	"45-54"	"2020"	"2020"	"Jan., 2020"	"2020/01"	5639	Not Applicable	Not Applicable
+	"45-54 years"	"45-54"	"2020"	"2020"	"Feb., 2020"	"2020/02"	5123	Not Applicable	Not Applicable
+	"45-54 years"	"45-54"	"2020"	"2020"	"Mar., 2020"	"2020/03"	5583	Not Applicable	Not Applicable
+	"45-54 years"	"45-54"	"2020"	"2020"	"Apr., 2020"	"2020/04"	5912	Not Applicable	Not Applicable
+	"45-54 years"	"45-54"	"2020"	"2020"	"May, 2020"	"2020/05"	6123	Not Applicable	Not Applicable
+	"45-54 years"	"45-54"	"2020"	"2020"	"Jun., 2020"	"2020/06"	5773	Not Applicable	Not Applicable
+	"45-54 years"	"45-54"	"2020"	"2020"	"Jul., 2020"	"2020/07"	6071	Not Applicable	Not Applicable
+	"45-54 years"	"45-54"	"2020"	"2020"	"Aug., 2020"	"2020/08"	6089	Not Applicable	Not Applicable
+	"45-54 years"	"45-54"	"2020"	"2020"	"Sep., 2020"	"2020/09"	5824	Not Applicable	Not Applicable
+	"45-54 years"	"45-54"	"2020"	"2020"	"Oct., 2020"	"2020/10"	5797	Not Applicable	Not Applicable
+	"45-54 years"	"45-54"	"2020"	"2020"	"Nov., 2020"	"2020/11"	5830	Not Applicable	Not Applicable
+	"45-54 years"	"45-54"	"2020"	"2020"	"Dec., 2020"	"2020/12"	6765	Not Applicable	Not Applicable
+	"45-54 years"	"45-54"	"2021 (provisional)"	"2021"	"Jan., 2021 (provisional)"	"2021/01"	6843	Not Applicable	Not Applicable
+	"45-54 years"	"45-54"	"2021 (provisional)"	"2021"	"Feb., 2021 (provisional)"	"2021/02"	5780	Not Applicable	Not Applicable
+	"45-54 years"	"45-54"	"2021 (provisional)"	"2021"	"Mar., 2021 (provisional)"	"2021/03"	6188	Not Applicable	Not Applicable
+	"45-54 years"	"45-54"	"2021 (provisional)"	"2021"	"Apr., 2021 (provisional)"	"2021/04"	6027	Not Applicable	Not Applicable
+	"45-54 years"	"45-54"	"2021 (provisional)"	"2021"	"May, 2021 (provisional)"	"2021/05"	6069	Not Applicable	Not Applicable
+	"45-54 years"	"45-54"	"2021 (provisional)"	"2021"	"Jun., 2021 (provisional)"	"2021/06"	5887	Not Applicable	Not Applicable
+	"45-54 years"	"45-54"	"2021 (provisional)"	"2021"	"Jul., 2021 (provisional)"	"2021/07"	6295	Not Applicable	Not Applicable
+	"45-54 years"	"45-54"	"2021 (provisional)"	"2021"	"Aug., 2021 (provisional)"	"2021/08"	7870	Not Applicable	Not Applicable
+	"45-54 years"	"45-54"	"2021 (provisional)"	"2021"	"Sep., 2021 (provisional)"	"2021/09"	8495	Not Applicable	Not Applicable
+	"45-54 years"	"45-54"	"2021 (provisional)"	"2021"	"Oct., 2021 (provisional)"	"2021/10"	7460	Not Applicable	Not Applicable
+	"45-54 years"	"45-54"	"2021 (provisional)"	"2021"	"Nov., 2021 (provisional)"	"2021/11"	6622	Not Applicable	Not Applicable
+	"45-54 years"	"45-54"	"2021 (provisional)"	"2021"	"Dec., 2021 (provisional)"	"2021/12"	7373	Not Applicable	Not Applicable
+	"45-54 years"	"45-54"	"2022 (provisional and partial)"	"2022"	"Jan., 2022 (provisional)"	"2022/01"	7760	Not Applicable	Not Applicable
+	"45-54 years"	"45-54"	"2022 (provisional and partial)"	"2022"	"Feb., 2022 (provisional)"	"2022/02"	6115	Not Applicable	Not Applicable
+	"45-54 years"	"45-54"	"2022 (provisional and partial)"	"2022"	"Mar., 2022 (provisional)"	"2022/03"	5753	Not Applicable	Not Applicable
+	"45-54 years"	"45-54"	"2022 (provisional and partial)"	"2022"	"Apr., 2022 (provisional)"	"2022/04"	5304	Not Applicable	Not Applicable
+	"45-54 years"	"45-54"	"2022 (provisional and partial)"	"2022"	"May, 2022 (provisional)"	"2022/05"	5495	Not Applicable	Not Applicable
+	"45-54 years"	"45-54"	"2022 (provisional and partial)"	"2022"	"Jun., 2022 (provisional)"	"2022/06"	5428	Not Applicable	Not Applicable
+	"45-54 years"	"45-54"	"2022 (provisional and partial)"	"2022"	"Jul., 2022 (provisional)"	"2022/07"	5633	Not Applicable	Not Applicable
+	"45-54 years"	"45-54"	"2022 (provisional and partial)"	"2022"	"Aug., 2022 (provisional)"	"2022/08"	5248	Not Applicable	Not Applicable
+	"45-54 years"	"45-54"	"2022 (provisional and partial)"	"2022"	"Sep., 2022 (provisional)"	"2022/09"	3535	Not Applicable	Not Applicable
+	"45-54 years"	"45-54"	"2022 (provisional and partial)"	"2022"	"Oct., 2022 (provisional and partial)"	"2022/10"	Suppressed	Not Applicable	Not Applicable
+	"55-64 years"	"55-64"	"2018"	"2018"	"Jan., 2018"	"2018/01"	15416	Not Applicable	Not Applicable
+	"55-64 years"	"55-64"	"2018"	"2018"	"Feb., 2018"	"2018/02"	13246	Not Applicable	Not Applicable
+	"55-64 years"	"55-64"	"2018"	"2018"	"Mar., 2018"	"2018/03"	13892	Not Applicable	Not Applicable
+	"55-64 years"	"55-64"	"2018"	"2018"	"Apr., 2018"	"2018/04"	13066	Not Applicable	Not Applicable
+	"55-64 years"	"55-64"	"2018"	"2018"	"May, 2018"	"2018/05"	13399	Not Applicable	Not Applicable
+	"55-64 years"	"55-64"	"2018"	"2018"	"Jun., 2018"	"2018/06"	13018	Not Applicable	Not Applicable
+	"55-64 years"	"55-64"	"2018"	"2018"	"Jul., 2018"	"2018/07"	13288	Not Applicable	Not Applicable
+	"55-64 years"	"55-64"	"2018"	"2018"	"Aug., 2018"	"2018/08"	13311	Not Applicable	Not Applicable
+	"55-64 years"	"55-64"	"2018"	"2018"	"Sep., 2018"	"2018/09"	12571	Not Applicable	Not Applicable
+	"55-64 years"	"55-64"	"2018"	"2018"	"Oct., 2018"	"2018/10"	13412	Not Applicable	Not Applicable
+	"55-64 years"	"55-64"	"2018"	"2018"	"Nov., 2018"	"2018/11"	13215	Not Applicable	Not Applicable
+	"55-64 years"	"55-64"	"2018"	"2018"	"Dec., 2018"	"2018/12"	13984	Not Applicable	Not Applicable
+	"55-64 years"	"55-64"	"2019"	"2019"	"Jan., 2019"	"2019/01"	14307	Not Applicable	Not Applicable
+	"55-64 years"	"55-64"	"2019"	"2019"	"Feb., 2019"	"2019/02"	13047	Not Applicable	Not Applicable
+	"55-64 years"	"55-64"	"2019"	"2019"	"Mar., 2019"	"2019/03"	14218	Not Applicable	Not Applicable
+	"55-64 years"	"55-64"	"2019"	"2019"	"Apr., 2019"	"2019/04"	13121	Not Applicable	Not Applicable
+	"55-64 years"	"55-64"	"2019"	"2019"	"May, 2019"	"2019/05"	13501	Not Applicable	Not Applicable
+	"55-64 years"	"55-64"	"2019"	"2019"	"Jun., 2019"	"2019/06"	12932	Not Applicable	Not Applicable
+	"55-64 years"	"55-64"	"2019"	"2019"	"Jul., 2019"	"2019/07"	13303	Not Applicable	Not Applicable
+	"55-64 years"	"55-64"	"2019"	"2019"	"Aug., 2019"	"2019/08"	13047	Not Applicable	Not Applicable
+	"55-64 years"	"55-64"	"2019"	"2019"	"Sep., 2019"	"2019/09"	12617	Not Applicable	Not Applicable
+	"55-64 years"	"55-64"	"2019"	"2019"	"Oct., 2019"	"2019/10"	13138	Not Applicable	Not Applicable
+	"55-64 years"	"55-64"	"2019"	"2019"	"Nov., 2019"	"2019/11"	13253	Not Applicable	Not Applicable
+	"55-64 years"	"55-64"	"2019"	"2019"	"Dec., 2019"	"2019/12"	14030	Not Applicable	Not Applicable
+	"55-64 years"	"55-64"	"2020"	"2020"	"Jan., 2020"	"2020/01"	14407	Not Applicable	Not Applicable
+	"55-64 years"	"55-64"	"2020"	"2020"	"Feb., 2020"	"2020/02"	13483	Not Applicable	Not Applicable
+	"55-64 years"	"55-64"	"2020"	"2020"	"Mar., 2020"	"2020/03"	14506	Not Applicable	Not Applicable
+	"55-64 years"	"55-64"	"2020"	"2020"	"Apr., 2020"	"2020/04"	15207	Not Applicable	Not Applicable
+	"55-64 years"	"55-64"	"2020"	"2020"	"May, 2020"	"2020/05"	14859	Not Applicable	Not Applicable
+	"55-64 years"	"55-64"	"2020"	"2020"	"Jun., 2020"	"2020/06"	13935	Not Applicable	Not Applicable
+	"55-64 years"	"55-64"	"2020"	"2020"	"Jul., 2020"	"2020/07"	15076	Not Applicable	Not Applicable
+	"55-64 years"	"55-64"	"2020"	"2020"	"Aug., 2020"	"2020/08"	14839	Not Applicable	Not Applicable
+	"55-64 years"	"55-64"	"2020"	"2020"	"Sep., 2020"	"2020/09"	14038	Not Applicable	Not Applicable
+	"55-64 years"	"55-64"	"2020"	"2020"	"Oct., 2020"	"2020/10"	14762	Not Applicable	Not Applicable
+	"55-64 years"	"55-64"	"2020"	"2020"	"Nov., 2020"	"2020/11"	15517	Not Applicable	Not Applicable
+	"55-64 years"	"55-64"	"2020"	"2020"	"Dec., 2020"	"2020/12"	17970	Not Applicable	Not Applicable
+	"55-64 years"	"55-64"	"2021 (provisional)"	"2021"	"Jan., 2021 (provisional)"	"2021/01"	18190	Not Applicable	Not Applicable
+	"55-64 years"	"55-64"	"2021 (provisional)"	"2021"	"Feb., 2021 (provisional)"	"2021/02"	14680	Not Applicable	Not Applicable
+	"55-64 years"	"55-64"	"2021 (provisional)"	"2021"	"Mar., 2021 (provisional)"	"2021/03"	14956	Not Applicable	Not Applicable
+	"55-64 years"	"55-64"	"2021 (provisional)"	"2021"	"Apr., 2021 (provisional)"	"2021/04"	14885	Not Applicable	Not Applicable
+	"55-64 years"	"55-64"	"2021 (provisional)"	"2021"	"May, 2021 (provisional)"	"2021/05"	14938	Not Applicable	Not Applicable
+	"55-64 years"	"55-64"	"2021 (provisional)"	"2021"	"Jun., 2021 (provisional)"	"2021/06"	14209	Not Applicable	Not Applicable
+	"55-64 years"	"55-64"	"2021 (provisional)"	"2021"	"Jul., 2021 (provisional)"	"2021/07"	14640	Not Applicable	Not Applicable
+	"55-64 years"	"55-64"	"2021 (provisional)"	"2021"	"Aug., 2021 (provisional)"	"2021/08"	18099	Not Applicable	Not Applicable
+	"55-64 years"	"55-64"	"2021 (provisional)"	"2021"	"Sep., 2021 (provisional)"	"2021/09"	19155	Not Applicable	Not Applicable
+	"55-64 years"	"55-64"	"2021 (provisional)"	"2021"	"Oct., 2021 (provisional)"	"2021/10"	17742	Not Applicable	Not Applicable
+	"55-64 years"	"55-64"	"2021 (provisional)"	"2021"	"Nov., 2021 (provisional)"	"2021/11"	16552	Not Applicable	Not Applicable
+	"55-64 years"	"55-64"	"2021 (provisional)"	"2021"	"Dec., 2021 (provisional)"	"2021/12"	18594	Not Applicable	Not Applicable
+	"55-64 years"	"55-64"	"2022 (provisional and partial)"	"2022"	"Jan., 2022 (provisional)"	"2022/01"	20041	Not Applicable	Not Applicable
+	"55-64 years"	"55-64"	"2022 (provisional and partial)"	"2022"	"Feb., 2022 (provisional)"	"2022/02"	15478	Not Applicable	Not Applicable
+	"55-64 years"	"55-64"	"2022 (provisional and partial)"	"2022"	"Mar., 2022 (provisional)"	"2022/03"	14403	Not Applicable	Not Applicable
+	"55-64 years"	"55-64"	"2022 (provisional and partial)"	"2022"	"Apr., 2022 (provisional)"	"2022/04"	13239	Not Applicable	Not Applicable
+	"55-64 years"	"55-64"	"2022 (provisional and partial)"	"2022"	"May, 2022 (provisional)"	"2022/05"	13643	Not Applicable	Not Applicable
+	"55-64 years"	"55-64"	"2022 (provisional and partial)"	"2022"	"Jun., 2022 (provisional)"	"2022/06"	13468	Not Applicable	Not Applicable
+	"55-64 years"	"55-64"	"2022 (provisional and partial)"	"2022"	"Jul., 2022 (provisional)"	"2022/07"	13805	Not Applicable	Not Applicable
+	"55-64 years"	"55-64"	"2022 (provisional and partial)"	"2022"	"Aug., 2022 (provisional)"	"2022/08"	13006	Not Applicable	Not Applicable
+	"55-64 years"	"55-64"	"2022 (provisional and partial)"	"2022"	"Sep., 2022 (provisional)"	"2022/09"	8895	Not Applicable	Not Applicable
+	"55-64 years"	"55-64"	"2022 (provisional and partial)"	"2022"	"Oct., 2022 (provisional and partial)"	"2022/10"	Suppressed	Not Applicable	Not Applicable
+	"65-74 years"	"65-74"	"2018"	"2018"	"Jan., 2018"	"2018/01"	23304	Not Applicable	Not Applicable
+	"65-74 years"	"65-74"	"2018"	"2018"	"Feb., 2018"	"2018/02"	19591	Not Applicable	Not Applicable
+	"65-74 years"	"65-74"	"2018"	"2018"	"Mar., 2018"	"2018/03"	20797	Not Applicable	Not Applicable
+	"65-74 years"	"65-74"	"2018"	"2018"	"Apr., 2018"	"2018/04"	19818	Not Applicable	Not Applicable
+	"65-74 years"	"65-74"	"2018"	"2018"	"May, 2018"	"2018/05"	19445	Not Applicable	Not Applicable
+	"65-74 years"	"65-74"	"2018"	"2018"	"Jun., 2018"	"2018/06"	18647	Not Applicable	Not Applicable
+	"65-74 years"	"65-74"	"2018"	"2018"	"Jul., 2018"	"2018/07"	19008	Not Applicable	Not Applicable
+	"65-74 years"	"65-74"	"2018"	"2018"	"Aug., 2018"	"2018/08"	19251	Not Applicable	Not Applicable
+	"65-74 years"	"65-74"	"2018"	"2018"	"Sep., 2018"	"2018/09"	18705	Not Applicable	Not Applicable
+	"65-74 years"	"65-74"	"2018"	"2018"	"Oct., 2018"	"2018/10"	19830	Not Applicable	Not Applicable
+	"65-74 years"	"65-74"	"2018"	"2018"	"Nov., 2018"	"2018/11"	19829	Not Applicable	Not Applicable
+	"65-74 years"	"65-74"	"2018"	"2018"	"Dec., 2018"	"2018/12"	20957	Not Applicable	Not Applicable
+	"65-74 years"	"65-74"	"2019"	"2019"	"Jan., 2019"	"2019/01"	21785	Not Applicable	Not Applicable
+	"65-74 years"	"65-74"	"2019"	"2019"	"Feb., 2019"	"2019/02"	19818	Not Applicable	Not Applicable
+	"65-74 years"	"65-74"	"2019"	"2019"	"Mar., 2019"	"2019/03"	21802	Not Applicable	Not Applicable
+	"65-74 years"	"65-74"	"2019"	"2019"	"Apr., 2019"	"2019/04"	19862	Not Applicable	Not Applicable
+	"65-74 years"	"65-74"	"2019"	"2019"	"May, 2019"	"2019/05"	20205	Not Applicable	Not Applicable
+	"65-74 years"	"65-74"	"2019"	"2019"	"Jun., 2019"	"2019/06"	19355	Not Applicable	Not Applicable
+	"65-74 years"	"65-74"	"2019"	"2019"	"Jul., 2019"	"2019/07"	19806	Not Applicable	Not Applicable
+	"65-74 years"	"65-74"	"2019"	"2019"	"Aug., 2019"	"2019/08"	19811	Not Applicable	Not Applicable
+	"65-74 years"	"65-74"	"2019"	"2019"	"Sep., 2019"	"2019/09"	19032	Not Applicable	Not Applicable
+	"65-74 years"	"65-74"	"2019"	"2019"	"Oct., 2019"	"2019/10"	20352	Not Applicable	Not Applicable
+	"65-74 years"	"65-74"	"2019"	"2019"	"Nov., 2019"	"2019/11"	20578	Not Applicable	Not Applicable
+	"65-74 years"	"65-74"	"2019"	"2019"	"Dec., 2019"	"2019/12"	21406	Not Applicable	Not Applicable
+	"65-74 years"	"65-74"	"2020"	"2020"	"Jan., 2020"	"2020/01"	22612	Not Applicable	Not Applicable
+	"65-74 years"	"65-74"	"2020"	"2020"	"Feb., 2020"	"2020/02"	20750	Not Applicable	Not Applicable
+	"65-74 years"	"65-74"	"2020"	"2020"	"Mar., 2020"	"2020/03"	22788	Not Applicable	Not Applicable
+	"65-74 years"	"65-74"	"2020"	"2020"	"Apr., 2020"	"2020/04"	24645	Not Applicable	Not Applicable
+	"65-74 years"	"65-74"	"2020"	"2020"	"May, 2020"	"2020/05"	22279	Not Applicable	Not Applicable
+	"65-74 years"	"65-74"	"2020"	"2020"	"Jun., 2020"	"2020/06"	20885	Not Applicable	Not Applicable
+	"65-74 years"	"65-74"	"2020"	"2020"	"Jul., 2020"	"2020/07"	22884	Not Applicable	Not Applicable
+	"65-74 years"	"65-74"	"2020"	"2020"	"Aug., 2020"	"2020/08"	23187	Not Applicable	Not Applicable
+	"65-74 years"	"65-74"	"2020"	"2020"	"Sep., 2020"	"2020/09"	21802	Not Applicable	Not Applicable
+	"65-74 years"	"65-74"	"2020"	"2020"	"Oct., 2020"	"2020/10"	23533	Not Applicable	Not Applicable
+	"65-74 years"	"65-74"	"2020"	"2020"	"Nov., 2020"	"2020/11"	26015	Not Applicable	Not Applicable
+	"65-74 years"	"65-74"	"2020"	"2020"	"Dec., 2020"	"2020/12"	30843	Not Applicable	Not Applicable
+	"65-74 years"	"65-74"	"2021 (provisional)"	"2021"	"Jan., 2021 (provisional)"	"2021/01"	31430	Not Applicable	Not Applicable
+	"65-74 years"	"65-74"	"2021 (provisional)"	"2021"	"Feb., 2021 (provisional)"	"2021/02"	24641	Not Applicable	Not Applicable
+	"65-74 years"	"65-74"	"2021 (provisional)"	"2021"	"Mar., 2021 (provisional)"	"2021/03"	23714	Not Applicable	Not Applicable
+	"65-74 years"	"65-74"	"2021 (provisional)"	"2021"	"Apr., 2021 (provisional)"	"2021/04"	22804	Not Applicable	Not Applicable
+	"65-74 years"	"65-74"	"2021 (provisional)"	"2021"	"May, 2021 (provisional)"	"2021/05"	22865	Not Applicable	Not Applicable
+	"65-74 years"	"65-74"	"2021 (provisional)"	"2021"	"Jun., 2021 (provisional)"	"2021/06"	22077	Not Applicable	Not Applicable
+	"65-74 years"	"65-74"	"2021 (provisional)"	"2021"	"Jul., 2021 (provisional)"	"2021/07"	22767	Not Applicable	Not Applicable
+	"65-74 years"	"65-74"	"2021 (provisional)"	"2021"	"Aug., 2021 (provisional)"	"2021/08"	27187	Not Applicable	Not Applicable
+	"65-74 years"	"65-74"	"2021 (provisional)"	"2021"	"Sep., 2021 (provisional)"	"2021/09"	28547	Not Applicable	Not Applicable
+	"65-74 years"	"65-74"	"2021 (provisional)"	"2021"	"Oct., 2021 (provisional)"	"2021/10"	27274	Not Applicable	Not Applicable
+	"65-74 years"	"65-74"	"2021 (provisional)"	"2021"	"Nov., 2021 (provisional)"	"2021/11"	26162	Not Applicable	Not Applicable
+	"65-74 years"	"65-74"	"2021 (provisional)"	"2021"	"Dec., 2021 (provisional)"	"2021/12"	29414	Not Applicable	Not Applicable
+	"65-74 years"	"65-74"	"2022 (provisional and partial)"	"2022"	"Jan., 2022 (provisional)"	"2022/01"	32786	Not Applicable	Not Applicable
+	"65-74 years"	"65-74"	"2022 (provisional and partial)"	"2022"	"Feb., 2022 (provisional)"	"2022/02"	26023	Not Applicable	Not Applicable
+	"65-74 years"	"65-74"	"2022 (provisional and partial)"	"2022"	"Mar., 2022 (provisional)"	"2022/03"	23558	Not Applicable	Not Applicable
+	"65-74 years"	"65-74"	"2022 (provisional and partial)"	"2022"	"Apr., 2022 (provisional)"	"2022/04"	21343	Not Applicable	Not Applicable
+	"65-74 years"	"65-74"	"2022 (provisional and partial)"	"2022"	"May, 2022 (provisional)"	"2022/05"	21996	Not Applicable	Not Applicable
+	"65-74 years"	"65-74"	"2022 (provisional and partial)"	"2022"	"Jun., 2022 (provisional)"	"2022/06"	21419	Not Applicable	Not Applicable
+	"65-74 years"	"65-74"	"2022 (provisional and partial)"	"2022"	"Jul., 2022 (provisional)"	"2022/07"	22211	Not Applicable	Not Applicable
+	"65-74 years"	"65-74"	"2022 (provisional and partial)"	"2022"	"Aug., 2022 (provisional)"	"2022/08"	21909	Not Applicable	Not Applicable
+	"65-74 years"	"65-74"	"2022 (provisional and partial)"	"2022"	"Sep., 2022 (provisional)"	"2022/09"	15364	Not Applicable	Not Applicable
+	"65-74 years"	"65-74"	"2022 (provisional and partial)"	"2022"	"Oct., 2022 (provisional and partial)"	"2022/10"	Suppressed	Not Applicable	Not Applicable
+	"75-84 years"	"75-84"	"2018"	"2018"	"Jan., 2018"	"2018/01"	28326	Not Applicable	Not Applicable
+	"75-84 years"	"75-84"	"2018"	"2018"	"Feb., 2018"	"2018/02"	23434	Not Applicable	Not Applicable
+	"75-84 years"	"75-84"	"2018"	"2018"	"Mar., 2018"	"2018/03"	24611	Not Applicable	Not Applicable
+	"75-84 years"	"75-84"	"2018"	"2018"	"Apr., 2018"	"2018/04"	23163	Not Applicable	Not Applicable
+	"75-84 years"	"75-84"	"2018"	"2018"	"May, 2018"	"2018/05"	22713	Not Applicable	Not Applicable
+	"75-84 years"	"75-84"	"2018"	"2018"	"Jun., 2018"	"2018/06"	21476	Not Applicable	Not Applicable
+	"75-84 years"	"75-84"	"2018"	"2018"	"Jul., 2018"	"2018/07"	22384	Not Applicable	Not Applicable
+	"75-84 years"	"75-84"	"2018"	"2018"	"Aug., 2018"	"2018/08"	22023	Not Applicable	Not Applicable
+	"75-84 years"	"75-84"	"2018"	"2018"	"Sep., 2018"	"2018/09"	21729	Not Applicable	Not Applicable
+	"75-84 years"	"75-84"	"2018"	"2018"	"Oct., 2018"	"2018/10"	23351	Not Applicable	Not Applicable
+	"75-84 years"	"75-84"	"2018"	"2018"	"Nov., 2018"	"2018/11"	23198	Not Applicable	Not Applicable
+	"75-84 years"	"75-84"	"2018"	"2018"	"Dec., 2018"	"2018/12"	25058	Not Applicable	Not Applicable
+	"75-84 years"	"75-84"	"2019"	"2019"	"Jan., 2019"	"2019/01"	25952	Not Applicable	Not Applicable
+	"75-84 years"	"75-84"	"2019"	"2019"	"Feb., 2019"	"2019/02"	23661	Not Applicable	Not Applicable
+	"75-84 years"	"75-84"	"2019"	"2019"	"Mar., 2019"	"2019/03"	25620	Not Applicable	Not Applicable
+	"75-84 years"	"75-84"	"2019"	"2019"	"Apr., 2019"	"2019/04"	23907	Not Applicable	Not Applicable
+	"75-84 years"	"75-84"	"2019"	"2019"	"May, 2019"	"2019/05"	24139	Not Applicable	Not Applicable
+	"75-84 years"	"75-84"	"2019"	"2019"	"Jun., 2019"	"2019/06"	22593	Not Applicable	Not Applicable
+	"75-84 years"	"75-84"	"2019"	"2019"	"Jul., 2019"	"2019/07"	22928	Not Applicable	Not Applicable
+	"75-84 years"	"75-84"	"2019"	"2019"	"Aug., 2019"	"2019/08"	22856	Not Applicable	Not Applicable
+	"75-84 years"	"75-84"	"2019"	"2019"	"Sep., 2019"	"2019/09"	22518	Not Applicable	Not Applicable
+	"75-84 years"	"75-84"	"2019"	"2019"	"Oct., 2019"	"2019/10"	24170	Not Applicable	Not Applicable
+	"75-84 years"	"75-84"	"2019"	"2019"	"Nov., 2019"	"2019/11"	24104	Not Applicable	Not Applicable
+	"75-84 years"	"75-84"	"2019"	"2019"	"Dec., 2019"	"2019/12"	25883	Not Applicable	Not Applicable
+	"75-84 years"	"75-84"	"2020"	"2020"	"Jan., 2020"	"2020/01"	26674	Not Applicable	Not Applicable
+	"75-84 years"	"75-84"	"2020"	"2020"	"Feb., 2020"	"2020/02"	24596	Not Applicable	Not Applicable
+	"75-84 years"	"75-84"	"2020"	"2020"	"Mar., 2020"	"2020/03"	27402	Not Applicable	Not Applicable
+	"75-84 years"	"75-84"	"2020"	"2020"	"Apr., 2020"	"2020/04"	29969	Not Applicable	Not Applicable
+	"75-84 years"	"75-84"	"2020"	"2020"	"May, 2020"	"2020/05"	26486	Not Applicable	Not Applicable
+	"75-84 years"	"75-84"	"2020"	"2020"	"Jun., 2020"	"2020/06"	23967	Not Applicable	Not Applicable
+	"75-84 years"	"75-84"	"2020"	"2020"	"Jul., 2020"	"2020/07"	26508	Not Applicable	Not Applicable
+	"75-84 years"	"75-84"	"2020"	"2020"	"Aug., 2020"	"2020/08"	26839	Not Applicable	Not Applicable
+	"75-84 years"	"75-84"	"2020"	"2020"	"Sep., 2020"	"2020/09"	25460	Not Applicable	Not Applicable
+	"75-84 years"	"75-84"	"2020"	"2020"	"Oct., 2020"	"2020/10"	27857	Not Applicable	Not Applicable
+	"75-84 years"	"75-84"	"2020"	"2020"	"Nov., 2020"	"2020/11"	31874	Not Applicable	Not Applicable
+	"75-84 years"	"75-84"	"2020"	"2020"	"Dec., 2020"	"2020/12"	38725	Not Applicable	Not Applicable
+	"75-84 years"	"75-84"	"2021 (provisional)"	"2021"	"Jan., 2021 (provisional)"	"2021/01"	38247	Not Applicable	Not Applicable
+	"75-84 years"	"75-84"	"2021 (provisional)"	"2021"	"Feb., 2021 (provisional)"	"2021/02"	28253	Not Applicable	Not Applicable
+	"75-84 years"	"75-84"	"2021 (provisional)"	"2021"	"Mar., 2021 (provisional)"	"2021/03"	26711	Not Applicable	Not Applicable
+	"75-84 years"	"75-84"	"2021 (provisional)"	"2021"	"Apr., 2021 (provisional)"	"2021/04"	25396	Not Applicable	Not Applicable
+	"75-84 years"	"75-84"	"2021 (provisional)"	"2021"	"May, 2021 (provisional)"	"2021/05"	25362	Not Applicable	Not Applicable
+	"75-84 years"	"75-84"	"2021 (provisional)"	"2021"	"Jun., 2021 (provisional)"	"2021/06"	23849	Not Applicable	Not Applicable
+	"75-84 years"	"75-84"	"2021 (provisional)"	"2021"	"Jul., 2021 (provisional)"	"2021/07"	25270	Not Applicable	Not Applicable
+	"75-84 years"	"75-84"	"2021 (provisional)"	"2021"	"Aug., 2021 (provisional)"	"2021/08"	29407	Not Applicable	Not Applicable
+	"75-84 years"	"75-84"	"2021 (provisional)"	"2021"	"Sep., 2021 (provisional)"	"2021/09"	30220	Not Applicable	Not Applicable
+	"75-84 years"	"75-84"	"2021 (provisional)"	"2021"	"Oct., 2021 (provisional)"	"2021/10"	29766	Not Applicable	Not Applicable
+	"75-84 years"	"75-84"	"2021 (provisional)"	"2021"	"Nov., 2021 (provisional)"	"2021/11"	29838	Not Applicable	Not Applicable
+	"75-84 years"	"75-84"	"2021 (provisional)"	"2021"	"Dec., 2021 (provisional)"	"2021/12"	32865	Not Applicable	Not Applicable
+	"75-84 years"	"75-84"	"2022 (provisional and partial)"	"2022"	"Jan., 2022 (provisional)"	"2022/01"	38799	Not Applicable	Not Applicable
+	"75-84 years"	"75-84"	"2022 (provisional and partial)"	"2022"	"Feb., 2022 (provisional)"	"2022/02"	31247	Not Applicable	Not Applicable
+	"75-84 years"	"75-84"	"2022 (provisional and partial)"	"2022"	"Mar., 2022 (provisional)"	"2022/03"	28050	Not Applicable	Not Applicable
+	"75-84 years"	"75-84"	"2022 (provisional and partial)"	"2022"	"Apr., 2022 (provisional)"	"2022/04"	25669	Not Applicable	Not Applicable
+	"75-84 years"	"75-84"	"2022 (provisional and partial)"	"2022"	"May, 2022 (provisional)"	"2022/05"	26608	Not Applicable	Not Applicable
+	"75-84 years"	"75-84"	"2022 (provisional and partial)"	"2022"	"Jun., 2022 (provisional)"	"2022/06"	25707	Not Applicable	Not Applicable
+	"75-84 years"	"75-84"	"2022 (provisional and partial)"	"2022"	"Jul., 2022 (provisional)"	"2022/07"	26894	Not Applicable	Not Applicable
+	"75-84 years"	"75-84"	"2022 (provisional and partial)"	"2022"	"Aug., 2022 (provisional)"	"2022/08"	26571	Not Applicable	Not Applicable
+	"75-84 years"	"75-84"	"2022 (provisional and partial)"	"2022"	"Sep., 2022 (provisional)"	"2022/09"	18985	Not Applicable	Not Applicable
+	"75-84 years"	"75-84"	"2022 (provisional and partial)"	"2022"	"Oct., 2022 (provisional and partial)"	"2022/10"	Suppressed	Not Applicable	Not Applicable
+	"85+ years"	"85+"	"2018"	"2018"	"Jan., 2018"	"2018/01"	30653	Not Applicable	Not Applicable
+	"85+ years"	"85+"	"2018"	"2018"	"Feb., 2018"	"2018/02"	24750	Not Applicable	Not Applicable
+	"85+ years"	"85+"	"2018"	"2018"	"Mar., 2018"	"2018/03"	25623	Not Applicable	Not Applicable
+	"85+ years"	"85+"	"2018"	"2018"	"Apr., 2018"	"2018/04"	23832	Not Applicable	Not Applicable
+	"85+ years"	"85+"	"2018"	"2018"	"May, 2018"	"2018/05"	22922	Not Applicable	Not Applicable
+	"85+ years"	"85+"	"2018"	"2018"	"Jun., 2018"	"2018/06"	21770	Not Applicable	Not Applicable
+	"85+ years"	"85+"	"2018"	"2018"	"Jul., 2018"	"2018/07"	21848	Not Applicable	Not Applicable
+	"85+ years"	"85+"	"2018"	"2018"	"Aug., 2018"	"2018/08"	21835	Not Applicable	Not Applicable
+	"85+ years"	"85+"	"2018"	"2018"	"Sep., 2018"	"2018/09"	21525	Not Applicable	Not Applicable
+	"85+ years"	"85+"	"2018"	"2018"	"Oct., 2018"	"2018/10"	23549	Not Applicable	Not Applicable
+	"85+ years"	"85+"	"2018"	"2018"	"Nov., 2018"	"2018/11"	23697	Not Applicable	Not Applicable
+	"85+ years"	"85+"	"2018"	"2018"	"Dec., 2018"	"2018/12"	25322	Not Applicable	Not Applicable
+	"85+ years"	"85+"	"2019"	"2019"	"Jan., 2019"	"2019/01"	26496	Not Applicable	Not Applicable
+	"85+ years"	"85+"	"2019"	"2019"	"Feb., 2019"	"2019/02"	23921	Not Applicable	Not Applicable
+	"85+ years"	"85+"	"2019"	"2019"	"Mar., 2019"	"2019/03"	26165	Not Applicable	Not Applicable
+	"85+ years"	"85+"	"2019"	"2019"	"Apr., 2019"	"2019/04"	23754	Not Applicable	Not Applicable
+	"85+ years"	"85+"	"2019"	"2019"	"May, 2019"	"2019/05"	23633	Not Applicable	Not Applicable
+	"85+ years"	"85+"	"2019"	"2019"	"Jun., 2019"	"2019/06"	22257	Not Applicable	Not Applicable
+	"85+ years"	"85+"	"2019"	"2019"	"Jul., 2019"	"2019/07"	22426	Not Applicable	Not Applicable
+	"85+ years"	"85+"	"2019"	"2019"	"Aug., 2019"	"2019/08"	22491	Not Applicable	Not Applicable
+	"85+ years"	"85+"	"2019"	"2019"	"Sep., 2019"	"2019/09"	21920	Not Applicable	Not Applicable
+	"85+ years"	"85+"	"2019"	"2019"	"Oct., 2019"	"2019/10"	23959	Not Applicable	Not Applicable
+	"85+ years"	"85+"	"2019"	"2019"	"Nov., 2019"	"2019/11"	24248	Not Applicable	Not Applicable
+	"85+ years"	"85+"	"2019"	"2019"	"Dec., 2019"	"2019/12"	25782	Not Applicable	Not Applicable
+	"85+ years"	"85+"	"2020"	"2020"	"Jan., 2020"	"2020/01"	26438	Not Applicable	Not Applicable
+	"85+ years"	"85+"	"2020"	"2020"	"Feb., 2020"	"2020/02"	24608	Not Applicable	Not Applicable
+	"85+ years"	"85+"	"2020"	"2020"	"Mar., 2020"	"2020/03"	26619	Not Applicable	Not Applicable
+	"85+ years"	"85+"	"2020"	"2020"	"Apr., 2020"	"2020/04"	30800	Not Applicable	Not Applicable
+	"85+ years"	"85+"	"2020"	"2020"	"May, 2020"	"2020/05"	26018	Not Applicable	Not Applicable
+	"85+ years"	"85+"	"2020"	"2020"	"Jun., 2020"	"2020/06"	22799	Not Applicable	Not Applicable
+	"85+ years"	"85+"	"2020"	"2020"	"Jul., 2020"	"2020/07"	24695	Not Applicable	Not Applicable
+	"85+ years"	"85+"	"2020"	"2020"	"Aug., 2020"	"2020/08"	24858	Not Applicable	Not Applicable
+	"85+ years"	"85+"	"2020"	"2020"	"Sep., 2020"	"2020/09"	24228	Not Applicable	Not Applicable
+	"85+ years"	"85+"	"2020"	"2020"	"Oct., 2020"	"2020/10"	26758	Not Applicable	Not Applicable
+	"85+ years"	"85+"	"2020"	"2020"	"Nov., 2020"	"2020/11"	31219	Not Applicable	Not Applicable
+	"85+ years"	"85+"	"2020"	"2020"	"Dec., 2020"	"2020/12"	37802	Not Applicable	Not Applicable
+	"85+ years"	"85+"	"2021 (provisional)"	"2021"	"Jan., 2021 (provisional)"	"2021/01"	36230	Not Applicable	Not Applicable
+	"85+ years"	"85+"	"2021 (provisional)"	"2021"	"Feb., 2021 (provisional)"	"2021/02"	26232	Not Applicable	Not Applicable
+	"85+ years"	"85+"	"2021 (provisional)"	"2021"	"Mar., 2021 (provisional)"	"2021/03"	24684	Not Applicable	Not Applicable
+	"85+ years"	"85+"	"2021 (provisional)"	"2021"	"Apr., 2021 (provisional)"	"2021/04"	22845	Not Applicable	Not Applicable
+	"85+ years"	"85+"	"2021 (provisional)"	"2021"	"May, 2021 (provisional)"	"2021/05"	22657	Not Applicable	Not Applicable
+	"85+ years"	"85+"	"2021 (provisional)"	"2021"	"Jun., 2021 (provisional)"	"2021/06"	21695	Not Applicable	Not Applicable
+	"85+ years"	"85+"	"2021 (provisional)"	"2021"	"Jul., 2021 (provisional)"	"2021/07"	22790	Not Applicable	Not Applicable
+	"85+ years"	"85+"	"2021 (provisional)"	"2021"	"Aug., 2021 (provisional)"	"2021/08"	25980	Not Applicable	Not Applicable
+	"85+ years"	"85+"	"2021 (provisional)"	"2021"	"Sep., 2021 (provisional)"	"2021/09"	26086	Not Applicable	Not Applicable
+	"85+ years"	"85+"	"2021 (provisional)"	"2021"	"Oct., 2021 (provisional)"	"2021/10"	26585	Not Applicable	Not Applicable
+	"85+ years"	"85+"	"2021 (provisional)"	"2021"	"Nov., 2021 (provisional)"	"2021/11"	26895	Not Applicable	Not Applicable
+	"85+ years"	"85+"	"2021 (provisional)"	"2021"	"Dec., 2021 (provisional)"	"2021/12"	29284	Not Applicable	Not Applicable
+	"85+ years"	"85+"	"2022 (provisional and partial)"	"2022"	"Jan., 2022 (provisional)"	"2022/01"	35029	Not Applicable	Not Applicable
+	"85+ years"	"85+"	"2022 (provisional and partial)"	"2022"	"Feb., 2022 (provisional)"	"2022/02"	27438	Not Applicable	Not Applicable
+	"85+ years"	"85+"	"2022 (provisional and partial)"	"2022"	"Mar., 2022 (provisional)"	"2022/03"	24964	Not Applicable	Not Applicable
+	"85+ years"	"85+"	"2022 (provisional and partial)"	"2022"	"Apr., 2022 (provisional)"	"2022/04"	22780	Not Applicable	Not Applicable
+	"85+ years"	"85+"	"2022 (provisional and partial)"	"2022"	"May, 2022 (provisional)"	"2022/05"	23822	Not Applicable	Not Applicable
+	"85+ years"	"85+"	"2022 (provisional and partial)"	"2022"	"Jun., 2022 (provisional)"	"2022/06"	22692	Not Applicable	Not Applicable
+	"85+ years"	"85+"	"2022 (provisional and partial)"	"2022"	"Jul., 2022 (provisional)"	"2022/07"	23777	Not Applicable	Not Applicable
+	"85+ years"	"85+"	"2022 (provisional and partial)"	"2022"	"Aug., 2022 (provisional)"	"2022/08"	23977	Not Applicable	Not Applicable
+	"85+ years"	"85+"	"2022 (provisional and partial)"	"2022"	"Sep., 2022 (provisional)"	"2022/09"	17251	Not Applicable	Not Applicable
+	"85+ years"	"85+"	"2022 (provisional and partial)"	"2022"	"Oct., 2022 (provisional and partial)"	"2022/10"	Suppressed	Not Applicable	Not Applicable
+"---"
+"Dataset: Provisional Mortality Statistics, 2018 through Last Month"
+"Query Parameters:"
+"Title: USA10YrAgeGrpsYrMnth_2018+_Male_NHWhite"
+"Gender: Male"
+"Hispanic Origin: Not Hispanic or Latino"
+"Single Race 6: White"
+"Ten-Year Age Groups: < 1 year; 1-4 years; 5-14 years; 15-24 years; 25-34 years; 35-44 years; 45-54 years; 55-64 years; 65-74"
+"years; 75-84 years; 85+ years"
+"Group By: Ten-Year Age Groups; Year; Month"
+"Show Totals: Disabled"
+"Show Zero Values: True"
+"Show Suppressed: True"
+"Calculate Rates Per: 1,000,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/mcd-provisional.html for more information."
+"---"
+"Query Date: Oct 18, 2022 12:14:28 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
+"System, Provisional Mortality on CDC WONDER Online Database. Data are from the final Multiple Cause of Death Files, 2018-2020,"
+"and from provisional data for years 2021-2022, as compiled from data provided by the 57 vital statistics jurisdictions through"
+"the Vital Statistics Cooperative Program. Accessed at http://wonder.cdc.gov/mcd-icd10-provisional.html on Oct 18, 2022 12:14:28"
+"PM"
+"---"
+Messages:
+"1. Totals are not available for these results due to suppression constraints. More Information:"
+"http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
+"---"
+Caveats:
+"1. Population and rates are labeled 'Not Applicable' when location of Death's Occurrence, Autopsy, Place of Death, Weekday or"
+"Month are grouped by or limited, due to lack of a valid population. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd-provisional.html#NotApplicableRates."
+"2. Data are Suppressed when the data meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd-provisional.html#Assurance of Confidentiality."
+"3. Deaths of persons with Age ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among age groups,"
+"so are not included in age-specific counts, age-specific rates or in any age-adjusted rates. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd-provisional.html#Not Stated."
+"4. Deaths of persons with Hispanic origin ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among"
+"Hispanic Origin groups, so are not included in the Hispanic Origin specific counts and rates. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd-provisional.html#Not Stated."
+"5. Information included on the death certificate about the race and Hispanic ethnicity of the decedent is reported by the"
+"funeral director as provided by an informant, often the surviving next of kin, or, in the absence of an informant, on the basis"
+"of observation. Race and ethnicity information from the census is by self-report. To the extent that race and Hispanic origin"
+"are inconsistent between these two data sources, death rates will be biased. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd-provisional.html#Racial Differences."
+"6. Deaths occurring through October 01, 2022 as of October 11, 2022."

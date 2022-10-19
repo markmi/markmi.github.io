@@ -1,0 +1,677 @@
+Notes	Ten-Year Age Groups	Ten-Year Age Groups Code	Year	Year Code	Month	Month Code	Deaths	Population	Crude Rate
+	< 1 year	1	2018	2018	"Jan., 2018"	Jan-18	1078	Not Applicable	Not Applicable
+	< 1 year	1	2018	2018	"Feb., 2018"	Feb-18	926	Not Applicable	Not Applicable
+	< 1 year	1	2018	2018	"Mar., 2018"	Mar-18	1051	Not Applicable	Not Applicable
+	< 1 year	1	2018	2018	"Apr., 2018"	Apr-18	982	Not Applicable	Not Applicable
+	< 1 year	1	2018	2018	"May, 2018"	May-18	1022	Not Applicable	Not Applicable
+	< 1 year	1	2018	2018	"Jun., 2018"	Jun-18	951	Not Applicable	Not Applicable
+	< 1 year	1	2018	2018	"Jul., 2018"	Jul-18	1017	Not Applicable	Not Applicable
+	< 1 year	1	2018	2018	"Aug., 2018"	Aug-18	1018	Not Applicable	Not Applicable
+	< 1 year	1	2018	2018	"Sep., 2018"	Sep-18	1010	Not Applicable	Not Applicable
+	< 1 year	1	2018	2018	"Oct., 2018"	Oct-18	1037	Not Applicable	Not Applicable
+	< 1 year	1	2018	2018	"Nov., 2018"	Nov-18	962	Not Applicable	Not Applicable
+	< 1 year	1	2018	2018	"Dec., 2018"	Dec-18	1014	Not Applicable	Not Applicable
+	< 1 year	1	2019	2019	"Jan., 2019"	Jan-19	990	Not Applicable	Not Applicable
+	< 1 year	1	2019	2019	"Feb., 2019"	Feb-19	920	Not Applicable	Not Applicable
+	< 1 year	1	2019	2019	"Mar., 2019"	Mar-19	998	Not Applicable	Not Applicable
+	< 1 year	1	2019	2019	"Apr., 2019"	Apr-19	910	Not Applicable	Not Applicable
+	< 1 year	1	2019	2019	"May, 2019"	May-19	1030	Not Applicable	Not Applicable
+	< 1 year	1	2019	2019	"Jun., 2019"	Jun-19	1029	Not Applicable	Not Applicable
+	< 1 year	1	2019	2019	"Jul., 2019"	Jul-19	995	Not Applicable	Not Applicable
+	< 1 year	1	2019	2019	"Aug., 2019"	Aug-19	982	Not Applicable	Not Applicable
+	< 1 year	1	2019	2019	"Sep., 2019"	Sep-19	966	Not Applicable	Not Applicable
+	< 1 year	1	2019	2019	"Oct., 2019"	Oct-19	917	Not Applicable	Not Applicable
+	< 1 year	1	2019	2019	"Nov., 2019"	Nov-19	948	Not Applicable	Not Applicable
+	< 1 year	1	2019	2019	"Dec., 2019"	Dec-19	989	Not Applicable	Not Applicable
+	< 1 year	1	2020	2020	"Jan., 2020"	Jan-20	951	Not Applicable	Not Applicable
+	< 1 year	1	2020	2020	"Feb., 2020"	Feb-20	912	Not Applicable	Not Applicable
+	< 1 year	1	2020	2020	"Mar., 2020"	Mar-20	926	Not Applicable	Not Applicable
+	< 1 year	1	2020	2020	"Apr., 2020"	Apr-20	894	Not Applicable	Not Applicable
+	< 1 year	1	2020	2020	"May, 2020"	May-20	968	Not Applicable	Not Applicable
+	< 1 year	1	2020	2020	"Jun., 2020"	Jun-20	916	Not Applicable	Not Applicable
+	< 1 year	1	2020	2020	"Jul., 2020"	Jul-20	922	Not Applicable	Not Applicable
+	< 1 year	1	2020	2020	"Aug., 2020"	Aug-20	866	Not Applicable	Not Applicable
+	< 1 year	1	2020	2020	"Sep., 2020"	Sep-20	918	Not Applicable	Not Applicable
+	< 1 year	1	2020	2020	"Oct., 2020"	Oct-20	869	Not Applicable	Not Applicable
+	< 1 year	1	2020	2020	"Nov., 2020"	Nov-20	845	Not Applicable	Not Applicable
+	< 1 year	1	2020	2020	"Dec., 2020"	Dec-20	872	Not Applicable	Not Applicable
+	< 1 year	1	2021 (provisional)	2021	"Jan., 2021 (provisional)"	Jan-21	917	Not Applicable	Not Applicable
+	< 1 year	1	2021 (provisional)	2021	"Feb., 2021 (provisional)"	Feb-21	800	Not Applicable	Not Applicable
+	< 1 year	1	2021 (provisional)	2021	"Mar., 2021 (provisional)"	Mar-21	908	Not Applicable	Not Applicable
+	< 1 year	1	2021 (provisional)	2021	"Apr., 2021 (provisional)"	Apr-21	854	Not Applicable	Not Applicable
+	< 1 year	1	2021 (provisional)	2021	"May, 2021 (provisional)"	May-21	950	Not Applicable	Not Applicable
+	< 1 year	1	2021 (provisional)	2021	"Jun., 2021 (provisional)"	Jun-21	898	Not Applicable	Not Applicable
+	< 1 year	1	2021 (provisional)	2021	"Jul., 2021 (provisional)"	Jul-21	937	Not Applicable	Not Applicable
+	< 1 year	1	2021 (provisional)	2021	"Aug., 2021 (provisional)"	Aug-21	936	Not Applicable	Not Applicable
+	< 1 year	1	2021 (provisional)	2021	"Sep., 2021 (provisional)"	Sep-21	897	Not Applicable	Not Applicable
+	< 1 year	1	2021 (provisional)	2021	"Oct., 2021 (provisional)"	Oct-21	927	Not Applicable	Not Applicable
+	< 1 year	1	2021 (provisional)	2021	"Nov., 2021 (provisional)"	Nov-21	902	Not Applicable	Not Applicable
+	< 1 year	1	2021 (provisional)	2021	"Dec., 2021 (provisional)"	Dec-21	983	Not Applicable	Not Applicable
+	< 1 year	1	2022 (provisional and partial)	2022	"Jan., 2022 (provisional)"	Jan-22	919	Not Applicable	Not Applicable
+	< 1 year	1	2022 (provisional and partial)	2022	"Feb., 2022 (provisional)"	Feb-22	804	Not Applicable	Not Applicable
+	< 1 year	1	2022 (provisional and partial)	2022	"Mar., 2022 (provisional)"	Mar-22	952	Not Applicable	Not Applicable
+	< 1 year	1	2022 (provisional and partial)	2022	"Apr., 2022 (provisional)"	Apr-22	934	Not Applicable	Not Applicable
+	< 1 year	1	2022 (provisional and partial)	2022	"May, 2022 (provisional)"	May-22	900	Not Applicable	Not Applicable
+	< 1 year	1	2022 (provisional and partial)	2022	"Jun., 2022 (provisional)"	Jun-22	895	Not Applicable	Not Applicable
+	< 1 year	1	2022 (provisional and partial)	2022	"Jul., 2022 (provisional)"	Jul-22	898	Not Applicable	Not Applicable
+	< 1 year	1	2022 (provisional and partial)	2022	"Aug., 2022 (provisional)"	Aug-22	850	Not Applicable	Not Applicable
+	< 1 year	1	2022 (provisional and partial)	2022	"Sep., 2022 (provisional)"	Sep-22	486	Not Applicable	Not Applicable
+	< 1 year	1	2022 (provisional and partial)	2022	"Oct., 2022 (provisional and partial)"	Oct-22	Suppressed	Not Applicable	Not Applicable
+	1-4 years	1-4	2018	2018	"Jan., 2018"	Jan-18	194	Not Applicable	Not Applicable
+	1-4 years	1-4	2018	2018	"Feb., 2018"	Feb-18	175	Not Applicable	Not Applicable
+	1-4 years	1-4	2018	2018	"Mar., 2018"	Mar-18	196	Not Applicable	Not Applicable
+	1-4 years	1-4	2018	2018	"Apr., 2018"	Apr-18	158	Not Applicable	Not Applicable
+	1-4 years	1-4	2018	2018	"May, 2018"	May-18	234	Not Applicable	Not Applicable
+	1-4 years	1-4	2018	2018	"Jun., 2018"	Jun-18	188	Not Applicable	Not Applicable
+	1-4 years	1-4	2018	2018	"Jul., 2018"	Jul-18	218	Not Applicable	Not Applicable
+	1-4 years	1-4	2018	2018	"Aug., 2018"	Aug-18	197	Not Applicable	Not Applicable
+	1-4 years	1-4	2018	2018	"Sep., 2018"	Sep-18	187	Not Applicable	Not Applicable
+	1-4 years	1-4	2018	2018	"Oct., 2018"	Oct-18	156	Not Applicable	Not Applicable
+	1-4 years	1-4	2018	2018	"Nov., 2018"	Nov-18	179	Not Applicable	Not Applicable
+	1-4 years	1-4	2018	2018	"Dec., 2018"	Dec-18	161	Not Applicable	Not Applicable
+	1-4 years	1-4	2019	2019	"Jan., 2019"	Jan-19	165	Not Applicable	Not Applicable
+	1-4 years	1-4	2019	2019	"Feb., 2019"	Feb-19	161	Not Applicable	Not Applicable
+	1-4 years	1-4	2019	2019	"Mar., 2019"	Mar-19	147	Not Applicable	Not Applicable
+	1-4 years	1-4	2019	2019	"Apr., 2019"	Apr-19	184	Not Applicable	Not Applicable
+	1-4 years	1-4	2019	2019	"May, 2019"	May-19	187	Not Applicable	Not Applicable
+	1-4 years	1-4	2019	2019	"Jun., 2019"	Jun-19	191	Not Applicable	Not Applicable
+	1-4 years	1-4	2019	2019	"Jul., 2019"	Jul-19	198	Not Applicable	Not Applicable
+	1-4 years	1-4	2019	2019	"Aug., 2019"	Aug-19	163	Not Applicable	Not Applicable
+	1-4 years	1-4	2019	2019	"Sep., 2019"	Sep-19	155	Not Applicable	Not Applicable
+	1-4 years	1-4	2019	2019	"Oct., 2019"	Oct-19	168	Not Applicable	Not Applicable
+	1-4 years	1-4	2019	2019	"Nov., 2019"	Nov-19	131	Not Applicable	Not Applicable
+	1-4 years	1-4	2019	2019	"Dec., 2019"	Dec-19	191	Not Applicable	Not Applicable
+	1-4 years	1-4	2020	2020	"Jan., 2020"	Jan-20	165	Not Applicable	Not Applicable
+	1-4 years	1-4	2020	2020	"Feb., 2020"	Feb-20	177	Not Applicable	Not Applicable
+	1-4 years	1-4	2020	2020	"Mar., 2020"	Mar-20	197	Not Applicable	Not Applicable
+	1-4 years	1-4	2020	2020	"Apr., 2020"	Apr-20	141	Not Applicable	Not Applicable
+	1-4 years	1-4	2020	2020	"May, 2020"	May-20	191	Not Applicable	Not Applicable
+	1-4 years	1-4	2020	2020	"Jun., 2020"	Jun-20	187	Not Applicable	Not Applicable
+	1-4 years	1-4	2020	2020	"Jul., 2020"	Jul-20	198	Not Applicable	Not Applicable
+	1-4 years	1-4	2020	2020	"Aug., 2020"	Aug-20	156	Not Applicable	Not Applicable
+	1-4 years	1-4	2020	2020	"Sep., 2020"	Sep-20	162	Not Applicable	Not Applicable
+	1-4 years	1-4	2020	2020	"Oct., 2020"	Oct-20	165	Not Applicable	Not Applicable
+	1-4 years	1-4	2020	2020	"Nov., 2020"	Nov-20	144	Not Applicable	Not Applicable
+	1-4 years	1-4	2020	2020	"Dec., 2020"	Dec-20	143	Not Applicable	Not Applicable
+	1-4 years	1-4	2021 (provisional)	2021	"Jan., 2021 (provisional)"	Jan-21	138	Not Applicable	Not Applicable
+	1-4 years	1-4	2021 (provisional)	2021	"Feb., 2021 (provisional)"	Feb-21	140	Not Applicable	Not Applicable
+	1-4 years	1-4	2021 (provisional)	2021	"Mar., 2021 (provisional)"	Mar-21	150	Not Applicable	Not Applicable
+	1-4 years	1-4	2021 (provisional)	2021	"Apr., 2021 (provisional)"	Apr-21	173	Not Applicable	Not Applicable
+	1-4 years	1-4	2021 (provisional)	2021	"May, 2021 (provisional)"	May-21	194	Not Applicable	Not Applicable
+	1-4 years	1-4	2021 (provisional)	2021	"Jun., 2021 (provisional)"	Jun-21	200	Not Applicable	Not Applicable
+	1-4 years	1-4	2021 (provisional)	2021	"Jul., 2021 (provisional)"	Jul-21	196	Not Applicable	Not Applicable
+	1-4 years	1-4	2021 (provisional)	2021	"Aug., 2021 (provisional)"	Aug-21	189	Not Applicable	Not Applicable
+	1-4 years	1-4	2021 (provisional)	2021	"Sep., 2021 (provisional)"	Sep-21	192	Not Applicable	Not Applicable
+	1-4 years	1-4	2021 (provisional)	2021	"Oct., 2021 (provisional)"	Oct-21	171	Not Applicable	Not Applicable
+	1-4 years	1-4	2021 (provisional)	2021	"Nov., 2021 (provisional)"	Nov-21	169	Not Applicable	Not Applicable
+	1-4 years	1-4	2021 (provisional)	2021	"Dec., 2021 (provisional)"	Dec-21	193	Not Applicable	Not Applicable
+	1-4 years	1-4	2022 (provisional and partial)	2022	"Jan., 2022 (provisional)"	Jan-22	168	Not Applicable	Not Applicable
+	1-4 years	1-4	2022 (provisional and partial)	2022	"Feb., 2022 (provisional)"	Feb-22	178	Not Applicable	Not Applicable
+	1-4 years	1-4	2022 (provisional and partial)	2022	"Mar., 2022 (provisional)"	Mar-22	188	Not Applicable	Not Applicable
+	1-4 years	1-4	2022 (provisional and partial)	2022	"Apr., 2022 (provisional)"	Apr-22	180	Not Applicable	Not Applicable
+	1-4 years	1-4	2022 (provisional and partial)	2022	"May, 2022 (provisional)"	May-22	202	Not Applicable	Not Applicable
+	1-4 years	1-4	2022 (provisional and partial)	2022	"Jun., 2022 (provisional)"	Jun-22	230	Not Applicable	Not Applicable
+	1-4 years	1-4	2022 (provisional and partial)	2022	"Jul., 2022 (provisional)"	Jul-22	211	Not Applicable	Not Applicable
+	1-4 years	1-4	2022 (provisional and partial)	2022	"Aug., 2022 (provisional)"	Aug-22	156	Not Applicable	Not Applicable
+	1-4 years	1-4	2022 (provisional and partial)	2022	"Sep., 2022 (provisional)"	Sep-22	96	Not Applicable	Not Applicable
+	1-4 years	1-4	2022 (provisional and partial)	2022	"Oct., 2022 (provisional and partial)"	Oct-22	Suppressed	Not Applicable	Not Applicable
+	5-14 years	5-14	2018	2018	"Jan., 2018"	Jan-18	272	Not Applicable	Not Applicable
+	5-14 years	5-14	2018	2018	"Feb., 2018"	Feb-18	245	Not Applicable	Not Applicable
+	5-14 years	5-14	2018	2018	"Mar., 2018"	Mar-18	268	Not Applicable	Not Applicable
+	5-14 years	5-14	2018	2018	"Apr., 2018"	Apr-18	241	Not Applicable	Not Applicable
+	5-14 years	5-14	2018	2018	"May, 2018"	May-18	267	Not Applicable	Not Applicable
+	5-14 years	5-14	2018	2018	"Jun., 2018"	Jun-18	286	Not Applicable	Not Applicable
+	5-14 years	5-14	2018	2018	"Jul., 2018"	Jul-18	279	Not Applicable	Not Applicable
+	5-14 years	5-14	2018	2018	"Aug., 2018"	Aug-18	252	Not Applicable	Not Applicable
+	5-14 years	5-14	2018	2018	"Sep., 2018"	Sep-18	234	Not Applicable	Not Applicable
+	5-14 years	5-14	2018	2018	"Oct., 2018"	Oct-18	251	Not Applicable	Not Applicable
+	5-14 years	5-14	2018	2018	"Nov., 2018"	Nov-18	251	Not Applicable	Not Applicable
+	5-14 years	5-14	2018	2018	"Dec., 2018"	Dec-18	235	Not Applicable	Not Applicable
+	5-14 years	5-14	2019	2019	"Jan., 2019"	Jan-19	272	Not Applicable	Not Applicable
+	5-14 years	5-14	2019	2019	"Feb., 2019"	Feb-19	232	Not Applicable	Not Applicable
+	5-14 years	5-14	2019	2019	"Mar., 2019"	Mar-19	274	Not Applicable	Not Applicable
+	5-14 years	5-14	2019	2019	"Apr., 2019"	Apr-19	251	Not Applicable	Not Applicable
+	5-14 years	5-14	2019	2019	"May, 2019"	May-19	270	Not Applicable	Not Applicable
+	5-14 years	5-14	2019	2019	"Jun., 2019"	Jun-19	287	Not Applicable	Not Applicable
+	5-14 years	5-14	2019	2019	"Jul., 2019"	Jul-19	290	Not Applicable	Not Applicable
+	5-14 years	5-14	2019	2019	"Aug., 2019"	Aug-19	253	Not Applicable	Not Applicable
+	5-14 years	5-14	2019	2019	"Sep., 2019"	Sep-19	254	Not Applicable	Not Applicable
+	5-14 years	5-14	2019	2019	"Oct., 2019"	Oct-19	239	Not Applicable	Not Applicable
+	5-14 years	5-14	2019	2019	"Nov., 2019"	Nov-19	269	Not Applicable	Not Applicable
+	5-14 years	5-14	2019	2019	"Dec., 2019"	Dec-19	295	Not Applicable	Not Applicable
+	5-14 years	5-14	2020	2020	"Jan., 2020"	Jan-20	271	Not Applicable	Not Applicable
+	5-14 years	5-14	2020	2020	"Feb., 2020"	Feb-20	265	Not Applicable	Not Applicable
+	5-14 years	5-14	2020	2020	"Mar., 2020"	Mar-20	251	Not Applicable	Not Applicable
+	5-14 years	5-14	2020	2020	"Apr., 2020"	Apr-20	255	Not Applicable	Not Applicable
+	5-14 years	5-14	2020	2020	"May, 2020"	May-20	301	Not Applicable	Not Applicable
+	5-14 years	5-14	2020	2020	"Jun., 2020"	Jun-20	299	Not Applicable	Not Applicable
+	5-14 years	5-14	2020	2020	"Jul., 2020"	Jul-20	317	Not Applicable	Not Applicable
+	5-14 years	5-14	2020	2020	"Aug., 2020"	Aug-20	270	Not Applicable	Not Applicable
+	5-14 years	5-14	2020	2020	"Sep., 2020"	Sep-20	293	Not Applicable	Not Applicable
+	5-14 years	5-14	2020	2020	"Oct., 2020"	Oct-20	299	Not Applicable	Not Applicable
+	5-14 years	5-14	2020	2020	"Nov., 2020"	Nov-20	298	Not Applicable	Not Applicable
+	5-14 years	5-14	2020	2020	"Dec., 2020"	Dec-20	243	Not Applicable	Not Applicable
+	5-14 years	5-14	2021 (provisional)	2021	"Jan., 2021 (provisional)"	Jan-21	257	Not Applicable	Not Applicable
+	5-14 years	5-14	2021 (provisional)	2021	"Feb., 2021 (provisional)"	Feb-21	235	Not Applicable	Not Applicable
+	5-14 years	5-14	2021 (provisional)	2021	"Mar., 2021 (provisional)"	Mar-21	292	Not Applicable	Not Applicable
+	5-14 years	5-14	2021 (provisional)	2021	"Apr., 2021 (provisional)"	Apr-21	271	Not Applicable	Not Applicable
+	5-14 years	5-14	2021 (provisional)	2021	"May, 2021 (provisional)"	May-21	310	Not Applicable	Not Applicable
+	5-14 years	5-14	2021 (provisional)	2021	"Jun., 2021 (provisional)"	Jun-21	320	Not Applicable	Not Applicable
+	5-14 years	5-14	2021 (provisional)	2021	"Jul., 2021 (provisional)"	Jul-21	320	Not Applicable	Not Applicable
+	5-14 years	5-14	2021 (provisional)	2021	"Aug., 2021 (provisional)"	Aug-21	301	Not Applicable	Not Applicable
+	5-14 years	5-14	2021 (provisional)	2021	"Sep., 2021 (provisional)"	Sep-21	308	Not Applicable	Not Applicable
+	5-14 years	5-14	2021 (provisional)	2021	"Oct., 2021 (provisional)"	Oct-21	288	Not Applicable	Not Applicable
+	5-14 years	5-14	2021 (provisional)	2021	"Nov., 2021 (provisional)"	Nov-21	280	Not Applicable	Not Applicable
+	5-14 years	5-14	2021 (provisional)	2021	"Dec., 2021 (provisional)"	Dec-21	312	Not Applicable	Not Applicable
+	5-14 years	5-14	2022 (provisional and partial)	2022	"Jan., 2022 (provisional)"	Jan-22	266	Not Applicable	Not Applicable
+	5-14 years	5-14	2022 (provisional and partial)	2022	"Feb., 2022 (provisional)"	Feb-22	262	Not Applicable	Not Applicable
+	5-14 years	5-14	2022 (provisional and partial)	2022	"Mar., 2022 (provisional)"	Mar-22	296	Not Applicable	Not Applicable
+	5-14 years	5-14	2022 (provisional and partial)	2022	"Apr., 2022 (provisional)"	Apr-22	280	Not Applicable	Not Applicable
+	5-14 years	5-14	2022 (provisional and partial)	2022	"May, 2022 (provisional)"	May-22	308	Not Applicable	Not Applicable
+	5-14 years	5-14	2022 (provisional and partial)	2022	"Jun., 2022 (provisional)"	Jun-22	325	Not Applicable	Not Applicable
+	5-14 years	5-14	2022 (provisional and partial)	2022	"Jul., 2022 (provisional)"	Jul-22	331	Not Applicable	Not Applicable
+	5-14 years	5-14	2022 (provisional and partial)	2022	"Aug., 2022 (provisional)"	Aug-22	271	Not Applicable	Not Applicable
+	5-14 years	5-14	2022 (provisional and partial)	2022	"Sep., 2022 (provisional)"	Sep-22	150	Not Applicable	Not Applicable
+	5-14 years	5-14	2022 (provisional and partial)	2022	"Oct., 2022 (provisional and partial)"	Oct-22	Suppressed	Not Applicable	Not Applicable
+	15-24 years	15-24	2018	2018	"Jan., 2018"	Jan-18	1895	Not Applicable	Not Applicable
+	15-24 years	15-24	2018	2018	"Feb., 2018"	Feb-18	1626	Not Applicable	Not Applicable
+	15-24 years	15-24	2018	2018	"Mar., 2018"	Mar-18	1801	Not Applicable	Not Applicable
+	15-24 years	15-24	2018	2018	"Apr., 2018"	Apr-18	1727	Not Applicable	Not Applicable
+	15-24 years	15-24	2018	2018	"May, 2018"	May-18	1981	Not Applicable	Not Applicable
+	15-24 years	15-24	2018	2018	"Jun., 2018"	Jun-18	1914	Not Applicable	Not Applicable
+	15-24 years	15-24	2018	2018	"Jul., 2018"	Jul-18	1991	Not Applicable	Not Applicable
+	15-24 years	15-24	2018	2018	"Aug., 2018"	Aug-18	1872	Not Applicable	Not Applicable
+	15-24 years	15-24	2018	2018	"Sep., 2018"	Sep-18	1869	Not Applicable	Not Applicable
+	15-24 years	15-24	2018	2018	"Oct., 2018"	Oct-18	1904	Not Applicable	Not Applicable
+	15-24 years	15-24	2018	2018	"Nov., 2018"	Nov-18	1719	Not Applicable	Not Applicable
+	15-24 years	15-24	2018	2018	"Dec., 2018"	Dec-18	1709	Not Applicable	Not Applicable
+	15-24 years	15-24	2019	2019	"Jan., 2019"	Jan-19	1683	Not Applicable	Not Applicable
+	15-24 years	15-24	2019	2019	"Feb., 2019"	Feb-19	1516	Not Applicable	Not Applicable
+	15-24 years	15-24	2019	2019	"Mar., 2019"	Mar-19	1761	Not Applicable	Not Applicable
+	15-24 years	15-24	2019	2019	"Apr., 2019"	Apr-19	1652	Not Applicable	Not Applicable
+	15-24 years	15-24	2019	2019	"May, 2019"	May-19	1919	Not Applicable	Not Applicable
+	15-24 years	15-24	2019	2019	"Jun., 2019"	Jun-19	1857	Not Applicable	Not Applicable
+	15-24 years	15-24	2019	2019	"Jul., 2019"	Jul-19	1973	Not Applicable	Not Applicable
+	15-24 years	15-24	2019	2019	"Aug., 2019"	Aug-19	1888	Not Applicable	Not Applicable
+	15-24 years	15-24	2019	2019	"Sep., 2019"	Sep-19	1864	Not Applicable	Not Applicable
+	15-24 years	15-24	2019	2019	"Oct., 2019"	Oct-19	1878	Not Applicable	Not Applicable
+	15-24 years	15-24	2019	2019	"Nov., 2019"	Nov-19	1854	Not Applicable	Not Applicable
+	15-24 years	15-24	2019	2019	"Dec., 2019"	Dec-19	1903	Not Applicable	Not Applicable
+	15-24 years	15-24	2020	2020	"Jan., 2020"	Jan-20	1875	Not Applicable	Not Applicable
+	15-24 years	15-24	2020	2020	"Feb., 2020"	Feb-20	1725	Not Applicable	Not Applicable
+	15-24 years	15-24	2020	2020	"Mar., 2020"	Mar-20	1963	Not Applicable	Not Applicable
+	15-24 years	15-24	2020	2020	"Apr., 2020"	Apr-20	2072	Not Applicable	Not Applicable
+	15-24 years	15-24	2020	2020	"May, 2020"	May-20	2288	Not Applicable	Not Applicable
+	15-24 years	15-24	2020	2020	"Jun., 2020"	Jun-20	2391	Not Applicable	Not Applicable
+	15-24 years	15-24	2020	2020	"Jul., 2020"	Jul-20	2613	Not Applicable	Not Applicable
+	15-24 years	15-24	2020	2020	"Aug., 2020"	Aug-20	2487	Not Applicable	Not Applicable
+	15-24 years	15-24	2020	2020	"Sep., 2020"	Sep-20	2327	Not Applicable	Not Applicable
+	15-24 years	15-24	2020	2020	"Oct., 2020"	Oct-20	2267	Not Applicable	Not Applicable
+	15-24 years	15-24	2020	2020	"Nov., 2020"	Nov-20	2193	Not Applicable	Not Applicable
+	15-24 years	15-24	2020	2020	"Dec., 2020"	Dec-20	2283	Not Applicable	Not Applicable
+	15-24 years	15-24	2021 (provisional)	2021	"Jan., 2021 (provisional)"	Jan-21	2271	Not Applicable	Not Applicable
+	15-24 years	15-24	2021 (provisional)	2021	"Feb., 2021 (provisional)"	Feb-21	1862	Not Applicable	Not Applicable
+	15-24 years	15-24	2021 (provisional)	2021	"Mar., 2021 (provisional)"	Mar-21	2253	Not Applicable	Not Applicable
+	15-24 years	15-24	2021 (provisional)	2021	"Apr., 2021 (provisional)"	Apr-21	2331	Not Applicable	Not Applicable
+	15-24 years	15-24	2021 (provisional)	2021	"May, 2021 (provisional)"	May-21	2487	Not Applicable	Not Applicable
+	15-24 years	15-24	2021 (provisional)	2021	"Jun., 2021 (provisional)"	Jun-21	2446	Not Applicable	Not Applicable
+	15-24 years	15-24	2021 (provisional)	2021	"Jul., 2021 (provisional)"	Jul-21	2454	Not Applicable	Not Applicable
+	15-24 years	15-24	2021 (provisional)	2021	"Aug., 2021 (provisional)"	Aug-21	2462	Not Applicable	Not Applicable
+	15-24 years	15-24	2021 (provisional)	2021	"Sep., 2021 (provisional)"	Sep-21	2442	Not Applicable	Not Applicable
+	15-24 years	15-24	2021 (provisional)	2021	"Oct., 2021 (provisional)"	Oct-21	2495	Not Applicable	Not Applicable
+	15-24 years	15-24	2021 (provisional)	2021	"Nov., 2021 (provisional)"	Nov-21	2201	Not Applicable	Not Applicable
+	15-24 years	15-24	2021 (provisional)	2021	"Dec., 2021 (provisional)"	Dec-21	2207	Not Applicable	Not Applicable
+	15-24 years	15-24	2022 (provisional and partial)	2022	"Jan., 2022 (provisional)"	Jan-22	2166	Not Applicable	Not Applicable
+	15-24 years	15-24	2022 (provisional and partial)	2022	"Feb., 2022 (provisional)"	Feb-22	1974	Not Applicable	Not Applicable
+	15-24 years	15-24	2022 (provisional and partial)	2022	"Mar., 2022 (provisional)"	Mar-22	2066	Not Applicable	Not Applicable
+	15-24 years	15-24	2022 (provisional and partial)	2022	"Apr., 2022 (provisional)"	Apr-22	1987	Not Applicable	Not Applicable
+	15-24 years	15-24	2022 (provisional and partial)	2022	"May, 2022 (provisional)"	May-22	2216	Not Applicable	Not Applicable
+	15-24 years	15-24	2022 (provisional and partial)	2022	"Jun., 2022 (provisional)"	Jun-22	2229	Not Applicable	Not Applicable
+	15-24 years	15-24	2022 (provisional and partial)	2022	"Jul., 2022 (provisional)"	Jul-22	2260	Not Applicable	Not Applicable
+	15-24 years	15-24	2022 (provisional and partial)	2022	"Aug., 2022 (provisional)"	Aug-22	2011	Not Applicable	Not Applicable
+	15-24 years	15-24	2022 (provisional and partial)	2022	"Sep., 2022 (provisional)"	Sep-22	984	Not Applicable	Not Applicable
+	15-24 years	15-24	2022 (provisional and partial)	2022	"Oct., 2022 (provisional and partial)"	Oct-22	Suppressed	Not Applicable	Not Applicable
+	25-34 years	25-34	2018	2018	"Jan., 2018"	Jan-18	3455	Not Applicable	Not Applicable
+	25-34 years	25-34	2018	2018	"Feb., 2018"	Feb-18	2984	Not Applicable	Not Applicable
+	25-34 years	25-34	2018	2018	"Mar., 2018"	Mar-18	3432	Not Applicable	Not Applicable
+	25-34 years	25-34	2018	2018	"Apr., 2018"	Apr-18	3299	Not Applicable	Not Applicable
+	25-34 years	25-34	2018	2018	"May, 2018"	May-18	3527	Not Applicable	Not Applicable
+	25-34 years	25-34	2018	2018	"Jun., 2018"	Jun-18	3543	Not Applicable	Not Applicable
+	25-34 years	25-34	2018	2018	"Jul., 2018"	Jul-18	3657	Not Applicable	Not Applicable
+	25-34 years	25-34	2018	2018	"Aug., 2018"	Aug-18	3533	Not Applicable	Not Applicable
+	25-34 years	25-34	2018	2018	"Sep., 2018"	Sep-18	3496	Not Applicable	Not Applicable
+	25-34 years	25-34	2018	2018	"Oct., 2018"	Oct-18	3386	Not Applicable	Not Applicable
+	25-34 years	25-34	2018	2018	"Nov., 2018"	Nov-18	3216	Not Applicable	Not Applicable
+	25-34 years	25-34	2018	2018	"Dec., 2018"	Dec-18	3336	Not Applicable	Not Applicable
+	25-34 years	25-34	2019	2019	"Jan., 2019"	Jan-19	3163	Not Applicable	Not Applicable
+	25-34 years	25-34	2019	2019	"Feb., 2019"	Feb-19	3041	Not Applicable	Not Applicable
+	25-34 years	25-34	2019	2019	"Mar., 2019"	Mar-19	3484	Not Applicable	Not Applicable
+	25-34 years	25-34	2019	2019	"Apr., 2019"	Apr-19	3331	Not Applicable	Not Applicable
+	25-34 years	25-34	2019	2019	"May, 2019"	May-19	3481	Not Applicable	Not Applicable
+	25-34 years	25-34	2019	2019	"Jun., 2019"	Jun-19	3495	Not Applicable	Not Applicable
+	25-34 years	25-34	2019	2019	"Jul., 2019"	Jul-19	3697	Not Applicable	Not Applicable
+	25-34 years	25-34	2019	2019	"Aug., 2019"	Aug-19	3651	Not Applicable	Not Applicable
+	25-34 years	25-34	2019	2019	"Sep., 2019"	Sep-19	3481	Not Applicable	Not Applicable
+	25-34 years	25-34	2019	2019	"Oct., 2019"	Oct-19	3507	Not Applicable	Not Applicable
+	25-34 years	25-34	2019	2019	"Nov., 2019"	Nov-19	3391	Not Applicable	Not Applicable
+	25-34 years	25-34	2019	2019	"Dec., 2019"	Dec-19	3629	Not Applicable	Not Applicable
+	25-34 years	25-34	2020	2020	"Jan., 2020"	Jan-20	3614	Not Applicable	Not Applicable
+	25-34 years	25-34	2020	2020	"Feb., 2020"	Feb-20	3472	Not Applicable	Not Applicable
+	25-34 years	25-34	2020	2020	"Mar., 2020"	Mar-20	3760	Not Applicable	Not Applicable
+	25-34 years	25-34	2020	2020	"Apr., 2020"	Apr-20	4319	Not Applicable	Not Applicable
+	25-34 years	25-34	2020	2020	"May, 2020"	May-20	4682	Not Applicable	Not Applicable
+	25-34 years	25-34	2020	2020	"Jun., 2020"	Jun-20	4696	Not Applicable	Not Applicable
+	25-34 years	25-34	2020	2020	"Jul., 2020"	Jul-20	4864	Not Applicable	Not Applicable
+	25-34 years	25-34	2020	2020	"Aug., 2020"	Aug-20	4794	Not Applicable	Not Applicable
+	25-34 years	25-34	2020	2020	"Sep., 2020"	Sep-20	4308	Not Applicable	Not Applicable
+	25-34 years	25-34	2020	2020	"Oct., 2020"	Oct-20	4401	Not Applicable	Not Applicable
+	25-34 years	25-34	2020	2020	"Nov., 2020"	Nov-20	4359	Not Applicable	Not Applicable
+	25-34 years	25-34	2020	2020	"Dec., 2020"	Dec-20	4563	Not Applicable	Not Applicable
+	25-34 years	25-34	2021 (provisional)	2021	"Jan., 2021 (provisional)"	Jan-21	4774	Not Applicable	Not Applicable
+	25-34 years	25-34	2021 (provisional)	2021	"Feb., 2021 (provisional)"	Feb-21	4056	Not Applicable	Not Applicable
+	25-34 years	25-34	2021 (provisional)	2021	"Mar., 2021 (provisional)"	Mar-21	4436	Not Applicable	Not Applicable
+	25-34 years	25-34	2021 (provisional)	2021	"Apr., 2021 (provisional)"	Apr-21	4541	Not Applicable	Not Applicable
+	25-34 years	25-34	2021 (provisional)	2021	"May, 2021 (provisional)"	May-21	4806	Not Applicable	Not Applicable
+	25-34 years	25-34	2021 (provisional)	2021	"Jun., 2021 (provisional)"	Jun-21	4723	Not Applicable	Not Applicable
+	25-34 years	25-34	2021 (provisional)	2021	"Jul., 2021 (provisional)"	Jul-21	4921	Not Applicable	Not Applicable
+	25-34 years	25-34	2021 (provisional)	2021	"Aug., 2021 (provisional)"	Aug-21	5675	Not Applicable	Not Applicable
+	25-34 years	25-34	2021 (provisional)	2021	"Sep., 2021 (provisional)"	Sep-21	5472	Not Applicable	Not Applicable
+	25-34 years	25-34	2021 (provisional)	2021	"Oct., 2021 (provisional)"	Oct-21	5103	Not Applicable	Not Applicable
+	25-34 years	25-34	2021 (provisional)	2021	"Nov., 2021 (provisional)"	Nov-21	4514	Not Applicable	Not Applicable
+	25-34 years	25-34	2021 (provisional)	2021	"Dec., 2021 (provisional)"	Dec-21	4889	Not Applicable	Not Applicable
+	25-34 years	25-34	2022 (provisional and partial)	2022	"Jan., 2022 (provisional)"	Jan-22	4845	Not Applicable	Not Applicable
+	25-34 years	25-34	2022 (provisional and partial)	2022	"Feb., 2022 (provisional)"	Feb-22	4090	Not Applicable	Not Applicable
+	25-34 years	25-34	2022 (provisional and partial)	2022	"Mar., 2022 (provisional)"	Mar-22	4396	Not Applicable	Not Applicable
+	25-34 years	25-34	2022 (provisional and partial)	2022	"Apr., 2022 (provisional)"	Apr-22	4194	Not Applicable	Not Applicable
+	25-34 years	25-34	2022 (provisional and partial)	2022	"May, 2022 (provisional)"	May-22	4210	Not Applicable	Not Applicable
+	25-34 years	25-34	2022 (provisional and partial)	2022	"Jun., 2022 (provisional)"	Jun-22	4324	Not Applicable	Not Applicable
+	25-34 years	25-34	2022 (provisional and partial)	2022	"Jul., 2022 (provisional)"	Jul-22	4497	Not Applicable	Not Applicable
+	25-34 years	25-34	2022 (provisional and partial)	2022	"Aug., 2022 (provisional)"	Aug-22	4115	Not Applicable	Not Applicable
+	25-34 years	25-34	2022 (provisional and partial)	2022	"Sep., 2022 (provisional)"	Sep-22	2361	Not Applicable	Not Applicable
+	25-34 years	25-34	2022 (provisional and partial)	2022	"Oct., 2022 (provisional and partial)"	Oct-22	Suppressed	Not Applicable	Not Applicable
+	35-44 years	35-44	2018	2018	"Jan., 2018"	Jan-18	4406	Not Applicable	Not Applicable
+	35-44 years	35-44	2018	2018	"Feb., 2018"	Feb-18	3925	Not Applicable	Not Applicable
+	35-44 years	35-44	2018	2018	"Mar., 2018"	Mar-18	4282	Not Applicable	Not Applicable
+	35-44 years	35-44	2018	2018	"Apr., 2018"	Apr-18	4082	Not Applicable	Not Applicable
+	35-44 years	35-44	2018	2018	"May, 2018"	May-18	4245	Not Applicable	Not Applicable
+	35-44 years	35-44	2018	2018	"Jun., 2018"	Jun-18	4453	Not Applicable	Not Applicable
+	35-44 years	35-44	2018	2018	"Jul., 2018"	Jul-18	4441	Not Applicable	Not Applicable
+	35-44 years	35-44	2018	2018	"Aug., 2018"	Aug-18	4467	Not Applicable	Not Applicable
+	35-44 years	35-44	2018	2018	"Sep., 2018"	Sep-18	4258	Not Applicable	Not Applicable
+	35-44 years	35-44	2018	2018	"Oct., 2018"	Oct-18	4277	Not Applicable	Not Applicable
+	35-44 years	35-44	2018	2018	"Nov., 2018"	Nov-18	4154	Not Applicable	Not Applicable
+	35-44 years	35-44	2018	2018	"Dec., 2018"	Dec-18	4386	Not Applicable	Not Applicable
+	35-44 years	35-44	2019	2019	"Jan., 2019"	Jan-19	4391	Not Applicable	Not Applicable
+	35-44 years	35-44	2019	2019	"Feb., 2019"	Feb-19	3943	Not Applicable	Not Applicable
+	35-44 years	35-44	2019	2019	"Mar., 2019"	Mar-19	4513	Not Applicable	Not Applicable
+	35-44 years	35-44	2019	2019	"Apr., 2019"	Apr-19	4335	Not Applicable	Not Applicable
+	35-44 years	35-44	2019	2019	"May, 2019"	May-19	4504	Not Applicable	Not Applicable
+	35-44 years	35-44	2019	2019	"Jun., 2019"	Jun-19	4447	Not Applicable	Not Applicable
+	35-44 years	35-44	2019	2019	"Jul., 2019"	Jul-19	4627	Not Applicable	Not Applicable
+	35-44 years	35-44	2019	2019	"Aug., 2019"	Aug-19	4545	Not Applicable	Not Applicable
+	35-44 years	35-44	2019	2019	"Sep., 2019"	Sep-19	4500	Not Applicable	Not Applicable
+	35-44 years	35-44	2019	2019	"Oct., 2019"	Oct-19	4419	Not Applicable	Not Applicable
+	35-44 years	35-44	2019	2019	"Nov., 2019"	Nov-19	4501	Not Applicable	Not Applicable
+	35-44 years	35-44	2019	2019	"Dec., 2019"	Dec-19	4711	Not Applicable	Not Applicable
+	35-44 years	35-44	2020	2020	"Jan., 2020"	Jan-20	4855	Not Applicable	Not Applicable
+	35-44 years	35-44	2020	2020	"Feb., 2020"	Feb-20	4441	Not Applicable	Not Applicable
+	35-44 years	35-44	2020	2020	"Mar., 2020"	Mar-20	5176	Not Applicable	Not Applicable
+	35-44 years	35-44	2020	2020	"Apr., 2020"	Apr-20	5992	Not Applicable	Not Applicable
+	35-44 years	35-44	2020	2020	"May, 2020"	May-20	6175	Not Applicable	Not Applicable
+	35-44 years	35-44	2020	2020	"Jun., 2020"	Jun-20	5652	Not Applicable	Not Applicable
+	35-44 years	35-44	2020	2020	"Jul., 2020"	Jul-20	6601	Not Applicable	Not Applicable
+	35-44 years	35-44	2020	2020	"Aug., 2020"	Aug-20	6204	Not Applicable	Not Applicable
+	35-44 years	35-44	2020	2020	"Sep., 2020"	Sep-20	5553	Not Applicable	Not Applicable
+	35-44 years	35-44	2020	2020	"Oct., 2020"	Oct-20	5656	Not Applicable	Not Applicable
+	35-44 years	35-44	2020	2020	"Nov., 2020"	Nov-20	5847	Not Applicable	Not Applicable
+	35-44 years	35-44	2020	2020	"Dec., 2020"	Dec-20	6342	Not Applicable	Not Applicable
+	35-44 years	35-44	2021 (provisional)	2021	"Jan., 2021 (provisional)"	Jan-21	6866	Not Applicable	Not Applicable
+	35-44 years	35-44	2021 (provisional)	2021	"Feb., 2021 (provisional)"	Feb-21	5577	Not Applicable	Not Applicable
+	35-44 years	35-44	2021 (provisional)	2021	"Mar., 2021 (provisional)"	Mar-21	5978	Not Applicable	Not Applicable
+	35-44 years	35-44	2021 (provisional)	2021	"Apr., 2021 (provisional)"	Apr-21	6084	Not Applicable	Not Applicable
+	35-44 years	35-44	2021 (provisional)	2021	"May, 2021 (provisional)"	May-21	6236	Not Applicable	Not Applicable
+	35-44 years	35-44	2021 (provisional)	2021	"Jun., 2021 (provisional)"	Jun-21	6387	Not Applicable	Not Applicable
+	35-44 years	35-44	2021 (provisional)	2021	"Jul., 2021 (provisional)"	Jul-21	6564	Not Applicable	Not Applicable
+	35-44 years	35-44	2021 (provisional)	2021	"Aug., 2021 (provisional)"	Aug-21	8099	Not Applicable	Not Applicable
+	35-44 years	35-44	2021 (provisional)	2021	"Sep., 2021 (provisional)"	Sep-21	8449	Not Applicable	Not Applicable
+	35-44 years	35-44	2021 (provisional)	2021	"Oct., 2021 (provisional)"	Oct-21	7423	Not Applicable	Not Applicable
+	35-44 years	35-44	2021 (provisional)	2021	"Nov., 2021 (provisional)"	Nov-21	6749	Not Applicable	Not Applicable
+	35-44 years	35-44	2021 (provisional)	2021	"Dec., 2021 (provisional)"	Dec-21	7177	Not Applicable	Not Applicable
+	35-44 years	35-44	2022 (provisional and partial)	2022	"Jan., 2022 (provisional)"	Jan-22	7420	Not Applicable	Not Applicable
+	35-44 years	35-44	2022 (provisional and partial)	2022	"Feb., 2022 (provisional)"	Feb-22	5900	Not Applicable	Not Applicable
+	35-44 years	35-44	2022 (provisional and partial)	2022	"Mar., 2022 (provisional)"	Mar-22	5882	Not Applicable	Not Applicable
+	35-44 years	35-44	2022 (provisional and partial)	2022	"Apr., 2022 (provisional)"	Apr-22	5616	Not Applicable	Not Applicable
+	35-44 years	35-44	2022 (provisional and partial)	2022	"May, 2022 (provisional)"	May-22	5996	Not Applicable	Not Applicable
+	35-44 years	35-44	2022 (provisional and partial)	2022	"Jun., 2022 (provisional)"	Jun-22	5887	Not Applicable	Not Applicable
+	35-44 years	35-44	2022 (provisional and partial)	2022	"Jul., 2022 (provisional)"	Jul-22	6051	Not Applicable	Not Applicable
+	35-44 years	35-44	2022 (provisional and partial)	2022	"Aug., 2022 (provisional)"	Aug-22	5604	Not Applicable	Not Applicable
+	35-44 years	35-44	2022 (provisional and partial)	2022	"Sep., 2022 (provisional)"	Sep-22	3420	Not Applicable	Not Applicable
+	35-44 years	35-44	2022 (provisional and partial)	2022	"Oct., 2022 (provisional and partial)"	Oct-22	Suppressed	Not Applicable	Not Applicable
+	45-54 years	45-54	2018	2018	"Jan., 2018"	Jan-18	9534	Not Applicable	Not Applicable
+	45-54 years	45-54	2018	2018	"Feb., 2018"	Feb-18	8052	Not Applicable	Not Applicable
+	45-54 years	45-54	2018	2018	"Mar., 2018"	Mar-18	8861	Not Applicable	Not Applicable
+	45-54 years	45-54	2018	2018	"Apr., 2018"	Apr-18	8158	Not Applicable	Not Applicable
+	45-54 years	45-54	2018	2018	"May, 2018"	May-18	8408	Not Applicable	Not Applicable
+	45-54 years	45-54	2018	2018	"Jun., 2018"	Jun-18	8209	Not Applicable	Not Applicable
+	45-54 years	45-54	2018	2018	"Jul., 2018"	Jul-18	8588	Not Applicable	Not Applicable
+	45-54 years	45-54	2018	2018	"Aug., 2018"	Aug-18	8330	Not Applicable	Not Applicable
+	45-54 years	45-54	2018	2018	"Sep., 2018"	Sep-18	8077	Not Applicable	Not Applicable
+	45-54 years	45-54	2018	2018	"Oct., 2018"	Oct-18	8222	Not Applicable	Not Applicable
+	45-54 years	45-54	2018	2018	"Nov., 2018"	Nov-18	7925	Not Applicable	Not Applicable
+	45-54 years	45-54	2018	2018	"Dec., 2018"	Dec-18	8666	Not Applicable	Not Applicable
+	45-54 years	45-54	2019	2019	"Jan., 2019"	Jan-19	8801	Not Applicable	Not Applicable
+	45-54 years	45-54	2019	2019	"Feb., 2019"	Feb-19	7981	Not Applicable	Not Applicable
+	45-54 years	45-54	2019	2019	"Mar., 2019"	Mar-19	8663	Not Applicable	Not Applicable
+	45-54 years	45-54	2019	2019	"Apr., 2019"	Apr-19	8010	Not Applicable	Not Applicable
+	45-54 years	45-54	2019	2019	"May, 2019"	May-19	8282	Not Applicable	Not Applicable
+	45-54 years	45-54	2019	2019	"Jun., 2019"	Jun-19	8126	Not Applicable	Not Applicable
+	45-54 years	45-54	2019	2019	"Jul., 2019"	Jul-19	8431	Not Applicable	Not Applicable
+	45-54 years	45-54	2019	2019	"Aug., 2019"	Aug-19	8045	Not Applicable	Not Applicable
+	45-54 years	45-54	2019	2019	"Sep., 2019"	Sep-19	7794	Not Applicable	Not Applicable
+	45-54 years	45-54	2019	2019	"Oct., 2019"	Oct-19	8132	Not Applicable	Not Applicable
+	45-54 years	45-54	2019	2019	"Nov., 2019"	Nov-19	8025	Not Applicable	Not Applicable
+	45-54 years	45-54	2019	2019	"Dec., 2019"	Dec-19	8557	Not Applicable	Not Applicable
+	45-54 years	45-54	2020	2020	"Jan., 2020"	Jan-20	8802	Not Applicable	Not Applicable
+	45-54 years	45-54	2020	2020	"Feb., 2020"	Feb-20	8137	Not Applicable	Not Applicable
+	45-54 years	45-54	2020	2020	"Mar., 2020"	Mar-20	9072	Not Applicable	Not Applicable
+	45-54 years	45-54	2020	2020	"Apr., 2020"	Apr-20	11045	Not Applicable	Not Applicable
+	45-54 years	45-54	2020	2020	"May, 2020"	May-20	10601	Not Applicable	Not Applicable
+	45-54 years	45-54	2020	2020	"Jun., 2020"	Jun-20	9890	Not Applicable	Not Applicable
+	45-54 years	45-54	2020	2020	"Jul., 2020"	Jul-20	10773	Not Applicable	Not Applicable
+	45-54 years	45-54	2020	2020	"Aug., 2020"	Aug-20	10412	Not Applicable	Not Applicable
+	45-54 years	45-54	2020	2020	"Sep., 2020"	Sep-20	9513	Not Applicable	Not Applicable
+	45-54 years	45-54	2020	2020	"Oct., 2020"	Oct-20	9573	Not Applicable	Not Applicable
+	45-54 years	45-54	2020	2020	"Nov., 2020"	Nov-20	9944	Not Applicable	Not Applicable
+	45-54 years	45-54	2020	2020	"Dec., 2020"	Dec-20	12082	Not Applicable	Not Applicable
+	45-54 years	45-54	2021 (provisional)	2021	"Jan., 2021 (provisional)"	Jan-21	12641	Not Applicable	Not Applicable
+	45-54 years	45-54	2021 (provisional)	2021	"Feb., 2021 (provisional)"	Feb-21	10083	Not Applicable	Not Applicable
+	45-54 years	45-54	2021 (provisional)	2021	"Mar., 2021 (provisional)"	Mar-21	10287	Not Applicable	Not Applicable
+	45-54 years	45-54	2021 (provisional)	2021	"Apr., 2021 (provisional)"	Apr-21	10061	Not Applicable	Not Applicable
+	45-54 years	45-54	2021 (provisional)	2021	"May, 2021 (provisional)"	May-21	10082	Not Applicable	Not Applicable
+	45-54 years	45-54	2021 (provisional)	2021	"Jun., 2021 (provisional)"	Jun-21	9608	Not Applicable	Not Applicable
+	45-54 years	45-54	2021 (provisional)	2021	"Jul., 2021 (provisional)"	Jul-21	10276	Not Applicable	Not Applicable
+	45-54 years	45-54	2021 (provisional)	2021	"Aug., 2021 (provisional)"	Aug-21	13412	Not Applicable	Not Applicable
+	45-54 years	45-54	2021 (provisional)	2021	"Sep., 2021 (provisional)"	Sep-21	14173	Not Applicable	Not Applicable
+	45-54 years	45-54	2021 (provisional)	2021	"Oct., 2021 (provisional)"	Oct-21	12281	Not Applicable	Not Applicable
+	45-54 years	45-54	2021 (provisional)	2021	"Nov., 2021 (provisional)"	Nov-21	10802	Not Applicable	Not Applicable
+	45-54 years	45-54	2021 (provisional)	2021	"Dec., 2021 (provisional)"	Dec-21	12068	Not Applicable	Not Applicable
+	45-54 years	45-54	2022 (provisional and partial)	2022	"Jan., 2022 (provisional)"	Jan-22	12948	Not Applicable	Not Applicable
+	45-54 years	45-54	2022 (provisional and partial)	2022	"Feb., 2022 (provisional)"	Feb-22	9945	Not Applicable	Not Applicable
+	45-54 years	45-54	2022 (provisional and partial)	2022	"Mar., 2022 (provisional)"	Mar-22	9370	Not Applicable	Not Applicable
+	45-54 years	45-54	2022 (provisional and partial)	2022	"Apr., 2022 (provisional)"	Apr-22	8630	Not Applicable	Not Applicable
+	45-54 years	45-54	2022 (provisional and partial)	2022	"May, 2022 (provisional)"	May-22	9009	Not Applicable	Not Applicable
+	45-54 years	45-54	2022 (provisional and partial)	2022	"Jun., 2022 (provisional)"	Jun-22	8881	Not Applicable	Not Applicable
+	45-54 years	45-54	2022 (provisional and partial)	2022	"Jul., 2022 (provisional)"	Jul-22	9275	Not Applicable	Not Applicable
+	45-54 years	45-54	2022 (provisional and partial)	2022	"Aug., 2022 (provisional)"	Aug-22	8585	Not Applicable	Not Applicable
+	45-54 years	45-54	2022 (provisional and partial)	2022	"Sep., 2022 (provisional)"	Sep-22	5600	Not Applicable	Not Applicable
+	45-54 years	45-54	2022 (provisional and partial)	2022	"Oct., 2022 (provisional and partial)"	Oct-22	Suppressed	Not Applicable	Not Applicable
+	55-64 years	55-64	2018	2018	"Jan., 2018"	Jan-18	21925	Not Applicable	Not Applicable
+	55-64 years	55-64	2018	2018	"Feb., 2018"	Feb-18	18500	Not Applicable	Not Applicable
+	55-64 years	55-64	2018	2018	"Mar., 2018"	Mar-18	19651	Not Applicable	Not Applicable
+	55-64 years	55-64	2018	2018	"Apr., 2018"	Apr-18	18501	Not Applicable	Not Applicable
+	55-64 years	55-64	2018	2018	"May, 2018"	May-18	18793	Not Applicable	Not Applicable
+	55-64 years	55-64	2018	2018	"Jun., 2018"	Jun-18	18247	Not Applicable	Not Applicable
+	55-64 years	55-64	2018	2018	"Jul., 2018"	Jul-18	18718	Not Applicable	Not Applicable
+	55-64 years	55-64	2018	2018	"Aug., 2018"	Aug-18	18666	Not Applicable	Not Applicable
+	55-64 years	55-64	2018	2018	"Sep., 2018"	Sep-18	17781	Not Applicable	Not Applicable
+	55-64 years	55-64	2018	2018	"Oct., 2018"	Oct-18	18969	Not Applicable	Not Applicable
+	55-64 years	55-64	2018	2018	"Nov., 2018"	Nov-18	18713	Not Applicable	Not Applicable
+	55-64 years	55-64	2018	2018	"Dec., 2018"	Dec-18	19809	Not Applicable	Not Applicable
+	55-64 years	55-64	2019	2019	"Jan., 2019"	Jan-19	20479	Not Applicable	Not Applicable
+	55-64 years	55-64	2019	2019	"Feb., 2019"	Feb-19	18600	Not Applicable	Not Applicable
+	55-64 years	55-64	2019	2019	"Mar., 2019"	Mar-19	19952	Not Applicable	Not Applicable
+	55-64 years	55-64	2019	2019	"Apr., 2019"	Apr-19	18623	Not Applicable	Not Applicable
+	55-64 years	55-64	2019	2019	"May, 2019"	May-19	19007	Not Applicable	Not Applicable
+	55-64 years	55-64	2019	2019	"Jun., 2019"	Jun-19	18263	Not Applicable	Not Applicable
+	55-64 years	55-64	2019	2019	"Jul., 2019"	Jul-19	18813	Not Applicable	Not Applicable
+	55-64 years	55-64	2019	2019	"Aug., 2019"	Aug-19	18475	Not Applicable	Not Applicable
+	55-64 years	55-64	2019	2019	"Sep., 2019"	Sep-19	17994	Not Applicable	Not Applicable
+	55-64 years	55-64	2019	2019	"Oct., 2019"	Oct-19	18772	Not Applicable	Not Applicable
+	55-64 years	55-64	2019	2019	"Nov., 2019"	Nov-19	18892	Not Applicable	Not Applicable
+	55-64 years	55-64	2019	2019	"Dec., 2019"	Dec-19	20055	Not Applicable	Not Applicable
+	55-64 years	55-64	2020	2020	"Jan., 2020"	Jan-20	20663	Not Applicable	Not Applicable
+	55-64 years	55-64	2020	2020	"Feb., 2020"	Feb-20	19348	Not Applicable	Not Applicable
+	55-64 years	55-64	2020	2020	"Mar., 2020"	Mar-20	21353	Not Applicable	Not Applicable
+	55-64 years	55-64	2020	2020	"Apr., 2020"	Apr-20	25413	Not Applicable	Not Applicable
+	55-64 years	55-64	2020	2020	"May, 2020"	May-20	22881	Not Applicable	Not Applicable
+	55-64 years	55-64	2020	2020	"Jun., 2020"	Jun-20	20898	Not Applicable	Not Applicable
+	55-64 years	55-64	2020	2020	"Jul., 2020"	Jul-20	23605	Not Applicable	Not Applicable
+	55-64 years	55-64	2020	2020	"Aug., 2020"	Aug-20	22768	Not Applicable	Not Applicable
+	55-64 years	55-64	2020	2020	"Sep., 2020"	Sep-20	20830	Not Applicable	Not Applicable
+	55-64 years	55-64	2020	2020	"Oct., 2020"	Oct-20	21850	Not Applicable	Not Applicable
+	55-64 years	55-64	2020	2020	"Nov., 2020"	Nov-20	23184	Not Applicable	Not Applicable
+	55-64 years	55-64	2020	2020	"Dec., 2020"	Dec-20	28334	Not Applicable	Not Applicable
+	55-64 years	55-64	2021 (provisional)	2021	"Jan., 2021 (provisional)"	Jan-21	29883	Not Applicable	Not Applicable
+	55-64 years	55-64	2021 (provisional)	2021	"Feb., 2021 (provisional)"	Feb-21	23324	Not Applicable	Not Applicable
+	55-64 years	55-64	2021 (provisional)	2021	"Mar., 2021 (provisional)"	Mar-21	22560	Not Applicable	Not Applicable
+	55-64 years	55-64	2021 (provisional)	2021	"Apr., 2021 (provisional)"	Apr-21	22054	Not Applicable	Not Applicable
+	55-64 years	55-64	2021 (provisional)	2021	"May, 2021 (provisional)"	May-21	21874	Not Applicable	Not Applicable
+	55-64 years	55-64	2021 (provisional)	2021	"Jun., 2021 (provisional)"	Jun-21	20663	Not Applicable	Not Applicable
+	55-64 years	55-64	2021 (provisional)	2021	"Jul., 2021 (provisional)"	Jul-21	21535	Not Applicable	Not Applicable
+	55-64 years	55-64	2021 (provisional)	2021	"Aug., 2021 (provisional)"	Aug-21	26821	Not Applicable	Not Applicable
+	55-64 years	55-64	2021 (provisional)	2021	"Sep., 2021 (provisional)"	Sep-21	28071	Not Applicable	Not Applicable
+	55-64 years	55-64	2021 (provisional)	2021	"Oct., 2021 (provisional)"	Oct-21	25681	Not Applicable	Not Applicable
+	55-64 years	55-64	2021 (provisional)	2021	"Nov., 2021 (provisional)"	Nov-21	23867	Not Applicable	Not Applicable
+	55-64 years	55-64	2021 (provisional)	2021	"Dec., 2021 (provisional)"	Dec-21	26628	Not Applicable	Not Applicable
+	55-64 years	55-64	2022 (provisional and partial)	2022	"Jan., 2022 (provisional)"	Jan-22	29860	Not Applicable	Not Applicable
+	55-64 years	55-64	2022 (provisional and partial)	2022	"Feb., 2022 (provisional)"	Feb-22	22598	Not Applicable	Not Applicable
+	55-64 years	55-64	2022 (provisional and partial)	2022	"Mar., 2022 (provisional)"	Mar-22	20989	Not Applicable	Not Applicable
+	55-64 years	55-64	2022 (provisional and partial)	2022	"Apr., 2022 (provisional)"	Apr-22	19209	Not Applicable	Not Applicable
+	55-64 years	55-64	2022 (provisional and partial)	2022	"May, 2022 (provisional)"	May-22	19738	Not Applicable	Not Applicable
+	55-64 years	55-64	2022 (provisional and partial)	2022	"Jun., 2022 (provisional)"	Jun-22	19311	Not Applicable	Not Applicable
+	55-64 years	55-64	2022 (provisional and partial)	2022	"Jul., 2022 (provisional)"	Jul-22	20075	Not Applicable	Not Applicable
+	55-64 years	55-64	2022 (provisional and partial)	2022	"Aug., 2022 (provisional)"	Aug-22	18889	Not Applicable	Not Applicable
+	55-64 years	55-64	2022 (provisional and partial)	2022	"Sep., 2022 (provisional)"	Sep-22	12644	Not Applicable	Not Applicable
+	55-64 years	55-64	2022 (provisional and partial)	2022	"Oct., 2022 (provisional and partial)"	Oct-22	Suppressed	Not Applicable	Not Applicable
+	65-74 years	65-74	2018	2018	"Jan., 2018"	Jan-18	30539	Not Applicable	Not Applicable
+	65-74 years	65-74	2018	2018	"Feb., 2018"	Feb-18	25634	Not Applicable	Not Applicable
+	65-74 years	65-74	2018	2018	"Mar., 2018"	Mar-18	27126	Not Applicable	Not Applicable
+	65-74 years	65-74	2018	2018	"Apr., 2018"	Apr-18	25800	Not Applicable	Not Applicable
+	65-74 years	65-74	2018	2018	"May, 2018"	May-18	25398	Not Applicable	Not Applicable
+	65-74 years	65-74	2018	2018	"Jun., 2018"	Jun-18	24430	Not Applicable	Not Applicable
+	65-74 years	65-74	2018	2018	"Jul., 2018"	Jul-18	25004	Not Applicable	Not Applicable
+	65-74 years	65-74	2018	2018	"Aug., 2018"	Aug-18	25156	Not Applicable	Not Applicable
+	65-74 years	65-74	2018	2018	"Sep., 2018"	Sep-18	24386	Not Applicable	Not Applicable
+	65-74 years	65-74	2018	2018	"Oct., 2018"	Oct-18	25940	Not Applicable	Not Applicable
+	65-74 years	65-74	2018	2018	"Nov., 2018"	Nov-18	25907	Not Applicable	Not Applicable
+	65-74 years	65-74	2018	2018	"Dec., 2018"	Dec-18	27591	Not Applicable	Not Applicable
+	65-74 years	65-74	2019	2019	"Jan., 2019"	Jan-19	28544	Not Applicable	Not Applicable
+	65-74 years	65-74	2019	2019	"Feb., 2019"	Feb-19	26095	Not Applicable	Not Applicable
+	65-74 years	65-74	2019	2019	"Mar., 2019"	Mar-19	28595	Not Applicable	Not Applicable
+	65-74 years	65-74	2019	2019	"Apr., 2019"	Apr-19	26150	Not Applicable	Not Applicable
+	65-74 years	65-74	2019	2019	"May, 2019"	May-19	26513	Not Applicable	Not Applicable
+	65-74 years	65-74	2019	2019	"Jun., 2019"	Jun-19	25473	Not Applicable	Not Applicable
+	65-74 years	65-74	2019	2019	"Jul., 2019"	Jul-19	25988	Not Applicable	Not Applicable
+	65-74 years	65-74	2019	2019	"Aug., 2019"	Aug-19	25880	Not Applicable	Not Applicable
+	65-74 years	65-74	2019	2019	"Sep., 2019"	Sep-19	25007	Not Applicable	Not Applicable
+	65-74 years	65-74	2019	2019	"Oct., 2019"	Oct-19	26696	Not Applicable	Not Applicable
+	65-74 years	65-74	2019	2019	"Nov., 2019"	Nov-19	27084	Not Applicable	Not Applicable
+	65-74 years	65-74	2019	2019	"Dec., 2019"	Dec-19	28222	Not Applicable	Not Applicable
+	65-74 years	65-74	2020	2020	"Jan., 2020"	Jan-20	29958	Not Applicable	Not Applicable
+	65-74 years	65-74	2020	2020	"Feb., 2020"	Feb-20	27526	Not Applicable	Not Applicable
+	65-74 years	65-74	2020	2020	"Mar., 2020"	Mar-20	30865	Not Applicable	Not Applicable
+	65-74 years	65-74	2020	2020	"Apr., 2020"	Apr-20	37530	Not Applicable	Not Applicable
+	65-74 years	65-74	2020	2020	"May, 2020"	May-20	31709	Not Applicable	Not Applicable
+	65-74 years	65-74	2020	2020	"Jun., 2020"	Jun-20	28705	Not Applicable	Not Applicable
+	65-74 years	65-74	2020	2020	"Jul., 2020"	Jul-20	32740	Not Applicable	Not Applicable
+	65-74 years	65-74	2020	2020	"Aug., 2020"	Aug-20	32534	Not Applicable	Not Applicable
+	65-74 years	65-74	2020	2020	"Sep., 2020"	Sep-20	29805	Not Applicable	Not Applicable
+	65-74 years	65-74	2020	2020	"Oct., 2020"	Oct-20	31626	Not Applicable	Not Applicable
+	65-74 years	65-74	2020	2020	"Nov., 2020"	Nov-20	35476	Not Applicable	Not Applicable
+	65-74 years	65-74	2020	2020	"Dec., 2020"	Dec-20	43525	Not Applicable	Not Applicable
+	65-74 years	65-74	2021 (provisional)	2021	"Jan., 2021 (provisional)"	Jan-21	45826	Not Applicable	Not Applicable
+	65-74 years	65-74	2021 (provisional)	2021	"Feb., 2021 (provisional)"	Feb-21	35241	Not Applicable	Not Applicable
+	65-74 years	65-74	2021 (provisional)	2021	"Mar., 2021 (provisional)"	Mar-21	32513	Not Applicable	Not Applicable
+	65-74 years	65-74	2021 (provisional)	2021	"Apr., 2021 (provisional)"	Apr-21	30872	Not Applicable	Not Applicable
+	65-74 years	65-74	2021 (provisional)	2021	"May, 2021 (provisional)"	May-21	30774	Not Applicable	Not Applicable
+	65-74 years	65-74	2021 (provisional)	2021	"Jun., 2021 (provisional)"	Jun-21	29290	Not Applicable	Not Applicable
+	65-74 years	65-74	2021 (provisional)	2021	"Jul., 2021 (provisional)"	Jul-21	30424	Not Applicable	Not Applicable
+	65-74 years	65-74	2021 (provisional)	2021	"Aug., 2021 (provisional)"	Aug-21	36517	Not Applicable	Not Applicable
+	65-74 years	65-74	2021 (provisional)	2021	"Sep., 2021 (provisional)"	Sep-21	38026	Not Applicable	Not Applicable
+	65-74 years	65-74	2021 (provisional)	2021	"Oct., 2021 (provisional)"	Oct-21	36001	Not Applicable	Not Applicable
+	65-74 years	65-74	2021 (provisional)	2021	"Nov., 2021 (provisional)"	Nov-21	34642	Not Applicable	Not Applicable
+	65-74 years	65-74	2021 (provisional)	2021	"Dec., 2021 (provisional)"	Dec-21	38815	Not Applicable	Not Applicable
+	65-74 years	65-74	2022 (provisional and partial)	2022	"Jan., 2022 (provisional)"	Jan-22	44756	Not Applicable	Not Applicable
+	65-74 years	65-74	2022 (provisional and partial)	2022	"Feb., 2022 (provisional)"	Feb-22	35176	Not Applicable	Not Applicable
+	65-74 years	65-74	2022 (provisional and partial)	2022	"Mar., 2022 (provisional)"	Mar-22	31673	Not Applicable	Not Applicable
+	65-74 years	65-74	2022 (provisional and partial)	2022	"Apr., 2022 (provisional)"	Apr-22	28552	Not Applicable	Not Applicable
+	65-74 years	65-74	2022 (provisional and partial)	2022	"May, 2022 (provisional)"	May-22	29371	Not Applicable	Not Applicable
+	65-74 years	65-74	2022 (provisional and partial)	2022	"Jun., 2022 (provisional)"	Jun-22	28546	Not Applicable	Not Applicable
+	65-74 years	65-74	2022 (provisional and partial)	2022	"Jul., 2022 (provisional)"	Jul-22	29789	Not Applicable	Not Applicable
+	65-74 years	65-74	2022 (provisional and partial)	2022	"Aug., 2022 (provisional)"	Aug-22	29332	Not Applicable	Not Applicable
+	65-74 years	65-74	2022 (provisional and partial)	2022	"Sep., 2022 (provisional)"	Sep-22	20328	Not Applicable	Not Applicable
+	65-74 years	65-74	2022 (provisional and partial)	2022	"Oct., 2022 (provisional and partial)"	Oct-22	Suppressed	Not Applicable	Not Applicable
+	75-84 years	75-84	2018	2018	"Jan., 2018"	Jan-18	35010	Not Applicable	Not Applicable
+	75-84 years	75-84	2018	2018	"Feb., 2018"	Feb-18	28929	Not Applicable	Not Applicable
+	75-84 years	75-84	2018	2018	"Mar., 2018"	Mar-18	30432	Not Applicable	Not Applicable
+	75-84 years	75-84	2018	2018	"Apr., 2018"	Apr-18	28442	Not Applicable	Not Applicable
+	75-84 years	75-84	2018	2018	"May, 2018"	May-18	27941	Not Applicable	Not Applicable
+	75-84 years	75-84	2018	2018	"Jun., 2018"	Jun-18	26421	Not Applicable	Not Applicable
+	75-84 years	75-84	2018	2018	"Jul., 2018"	Jul-18	27598	Not Applicable	Not Applicable
+	75-84 years	75-84	2018	2018	"Aug., 2018"	Aug-18	27260	Not Applicable	Not Applicable
+	75-84 years	75-84	2018	2018	"Sep., 2018"	Sep-18	26797	Not Applicable	Not Applicable
+	75-84 years	75-84	2018	2018	"Oct., 2018"	Oct-18	28703	Not Applicable	Not Applicable
+	75-84 years	75-84	2018	2018	"Nov., 2018"	Nov-18	28663	Not Applicable	Not Applicable
+	75-84 years	75-84	2018	2018	"Dec., 2018"	Dec-18	30992	Not Applicable	Not Applicable
+	75-84 years	75-84	2019	2019	"Jan., 2019"	Jan-19	32064	Not Applicable	Not Applicable
+	75-84 years	75-84	2019	2019	"Feb., 2019"	Feb-19	29149	Not Applicable	Not Applicable
+	75-84 years	75-84	2019	2019	"Mar., 2019"	Mar-19	31580	Not Applicable	Not Applicable
+	75-84 years	75-84	2019	2019	"Apr., 2019"	Apr-19	29542	Not Applicable	Not Applicable
+	75-84 years	75-84	2019	2019	"May, 2019"	May-19	29720	Not Applicable	Not Applicable
+	75-84 years	75-84	2019	2019	"Jun., 2019"	Jun-19	27793	Not Applicable	Not Applicable
+	75-84 years	75-84	2019	2019	"Jul., 2019"	Jul-19	28172	Not Applicable	Not Applicable
+	75-84 years	75-84	2019	2019	"Aug., 2019"	Aug-19	28047	Not Applicable	Not Applicable
+	75-84 years	75-84	2019	2019	"Sep., 2019"	Sep-19	27759	Not Applicable	Not Applicable
+	75-84 years	75-84	2019	2019	"Oct., 2019"	Oct-19	29675	Not Applicable	Not Applicable
+	75-84 years	75-84	2019	2019	"Nov., 2019"	Nov-19	29725	Not Applicable	Not Applicable
+	75-84 years	75-84	2019	2019	"Dec., 2019"	Dec-19	31874	Not Applicable	Not Applicable
+	75-84 years	75-84	2020	2020	"Jan., 2020"	Jan-20	33013	Not Applicable	Not Applicable
+	75-84 years	75-84	2020	2020	"Feb., 2020"	Feb-20	30541	Not Applicable	Not Applicable
+	75-84 years	75-84	2020	2020	"Mar., 2020"	Mar-20	34399	Not Applicable	Not Applicable
+	75-84 years	75-84	2020	2020	"Apr., 2020"	Apr-20	41478	Not Applicable	Not Applicable
+	75-84 years	75-84	2020	2020	"May, 2020"	May-20	34347	Not Applicable	Not Applicable
+	75-84 years	75-84	2020	2020	"Jun., 2020"	Jun-20	30460	Not Applicable	Not Applicable
+	75-84 years	75-84	2020	2020	"Jul., 2020"	Jul-20	34510	Not Applicable	Not Applicable
+	75-84 years	75-84	2020	2020	"Aug., 2020"	Aug-20	34566	Not Applicable	Not Applicable
+	75-84 years	75-84	2020	2020	"Sep., 2020"	Sep-20	31838	Not Applicable	Not Applicable
+	75-84 years	75-84	2020	2020	"Oct., 2020"	Oct-20	34527	Not Applicable	Not Applicable
+	75-84 years	75-84	2020	2020	"Nov., 2020"	Nov-20	39674	Not Applicable	Not Applicable
+	75-84 years	75-84	2020	2020	"Dec., 2020"	Dec-20	49505	Not Applicable	Not Applicable
+	75-84 years	75-84	2021 (provisional)	2021	"Jan., 2021 (provisional)"	Jan-21	50209	Not Applicable	Not Applicable
+	75-84 years	75-84	2021 (provisional)	2021	"Feb., 2021 (provisional)"	Feb-21	36703	Not Applicable	Not Applicable
+	75-84 years	75-84	2021 (provisional)	2021	"Mar., 2021 (provisional)"	Mar-21	33869	Not Applicable	Not Applicable
+	75-84 years	75-84	2021 (provisional)	2021	"Apr., 2021 (provisional)"	Apr-21	31698	Not Applicable	Not Applicable
+	75-84 years	75-84	2021 (provisional)	2021	"May, 2021 (provisional)"	May-21	31391	Not Applicable	Not Applicable
+	75-84 years	75-84	2021 (provisional)	2021	"Jun., 2021 (provisional)"	Jun-21	29560	Not Applicable	Not Applicable
+	75-84 years	75-84	2021 (provisional)	2021	"Jul., 2021 (provisional)"	Jul-21	31134	Not Applicable	Not Applicable
+	75-84 years	75-84	2021 (provisional)	2021	"Aug., 2021 (provisional)"	Aug-21	36640	Not Applicable	Not Applicable
+	75-84 years	75-84	2021 (provisional)	2021	"Sep., 2021 (provisional)"	Sep-21	37401	Not Applicable	Not Applicable
+	75-84 years	75-84	2021 (provisional)	2021	"Oct., 2021 (provisional)"	Oct-21	36701	Not Applicable	Not Applicable
+	75-84 years	75-84	2021 (provisional)	2021	"Nov., 2021 (provisional)"	Nov-21	36591	Not Applicable	Not Applicable
+	75-84 years	75-84	2021 (provisional)	2021	"Dec., 2021 (provisional)"	Dec-21	40492	Not Applicable	Not Applicable
+	75-84 years	75-84	2022 (provisional and partial)	2022	"Jan., 2022 (provisional)"	Jan-22	48931	Not Applicable	Not Applicable
+	75-84 years	75-84	2022 (provisional and partial)	2022	"Feb., 2022 (provisional)"	Feb-22	38897	Not Applicable	Not Applicable
+	75-84 years	75-84	2022 (provisional and partial)	2022	"Mar., 2022 (provisional)"	Mar-22	34596	Not Applicable	Not Applicable
+	75-84 years	75-84	2022 (provisional and partial)	2022	"Apr., 2022 (provisional)"	Apr-22	31535	Not Applicable	Not Applicable
+	75-84 years	75-84	2022 (provisional and partial)	2022	"May, 2022 (provisional)"	May-22	32718	Not Applicable	Not Applicable
+	75-84 years	75-84	2022 (provisional and partial)	2022	"Jun., 2022 (provisional)"	Jun-22	31703	Not Applicable	Not Applicable
+	75-84 years	75-84	2022 (provisional and partial)	2022	"Jul., 2022 (provisional)"	Jul-22	33281	Not Applicable	Not Applicable
+	75-84 years	75-84	2022 (provisional and partial)	2022	"Aug., 2022 (provisional)"	Aug-22	32877	Not Applicable	Not Applicable
+	75-84 years	75-84	2022 (provisional and partial)	2022	"Sep., 2022 (provisional)"	Sep-22	23261	Not Applicable	Not Applicable
+	75-84 years	75-84	2022 (provisional and partial)	2022	"Oct., 2022 (provisional and partial)"	Oct-22	Suppressed	Not Applicable	Not Applicable
+	85+ years	85+	2018	2018	"Jan., 2018"	Jan-18	35923	Not Applicable	Not Applicable
+	85+ years	85+	2018	2018	"Feb., 2018"	Feb-18	29027	Not Applicable	Not Applicable
+	85+ years	85+	2018	2018	"Mar., 2018"	Mar-18	30079	Not Applicable	Not Applicable
+	85+ years	85+	2018	2018	"Apr., 2018"	Apr-18	27935	Not Applicable	Not Applicable
+	85+ years	85+	2018	2018	"May, 2018"	May-18	26872	Not Applicable	Not Applicable
+	85+ years	85+	2018	2018	"Jun., 2018"	Jun-18	25548	Not Applicable	Not Applicable
+	85+ years	85+	2018	2018	"Jul., 2018"	Jul-18	25662	Not Applicable	Not Applicable
+	85+ years	85+	2018	2018	"Aug., 2018"	Aug-18	25739	Not Applicable	Not Applicable
+	85+ years	85+	2018	2018	"Sep., 2018"	Sep-18	25247	Not Applicable	Not Applicable
+	85+ years	85+	2018	2018	"Oct., 2018"	Oct-18	27612	Not Applicable	Not Applicable
+	85+ years	85+	2018	2018	"Nov., 2018"	Nov-18	27866	Not Applicable	Not Applicable
+	85+ years	85+	2018	2018	"Dec., 2018"	Dec-18	29808	Not Applicable	Not Applicable
+	85+ years	85+	2019	2019	"Jan., 2019"	Jan-19	31145	Not Applicable	Not Applicable
+	85+ years	85+	2019	2019	"Feb., 2019"	Feb-19	28130	Not Applicable	Not Applicable
+	85+ years	85+	2019	2019	"Mar., 2019"	Mar-19	30896	Not Applicable	Not Applicable
+	85+ years	85+	2019	2019	"Apr., 2019"	Apr-19	27830	Not Applicable	Not Applicable
+	85+ years	85+	2019	2019	"May, 2019"	May-19	27929	Not Applicable	Not Applicable
+	85+ years	85+	2019	2019	"Jun., 2019"	Jun-19	26136	Not Applicable	Not Applicable
+	85+ years	85+	2019	2019	"Jul., 2019"	Jul-19	26430	Not Applicable	Not Applicable
+	85+ years	85+	2019	2019	"Aug., 2019"	Aug-19	26431	Not Applicable	Not Applicable
+	85+ years	85+	2019	2019	"Sep., 2019"	Sep-19	25835	Not Applicable	Not Applicable
+	85+ years	85+	2019	2019	"Oct., 2019"	Oct-19	28246	Not Applicable	Not Applicable
+	85+ years	85+	2019	2019	"Nov., 2019"	Nov-19	28600	Not Applicable	Not Applicable
+	85+ years	85+	2019	2019	"Dec., 2019"	Dec-19	30557	Not Applicable	Not Applicable
+	85+ years	85+	2020	2020	"Jan., 2020"	Jan-20	31353	Not Applicable	Not Applicable
+	85+ years	85+	2020	2020	"Feb., 2020"	Feb-20	29210	Not Applicable	Not Applicable
+	85+ years	85+	2020	2020	"Mar., 2020"	Mar-20	32016	Not Applicable	Not Applicable
+	85+ years	85+	2020	2020	"Apr., 2020"	Apr-20	38935	Not Applicable	Not Applicable
+	85+ years	85+	2020	2020	"May, 2020"	May-20	31767	Not Applicable	Not Applicable
+	85+ years	85+	2020	2020	"Jun., 2020"	Jun-20	27554	Not Applicable	Not Applicable
+	85+ years	85+	2020	2020	"Jul., 2020"	Jul-20	30518	Not Applicable	Not Applicable
+	85+ years	85+	2020	2020	"Aug., 2020"	Aug-20	30309	Not Applicable	Not Applicable
+	85+ years	85+	2020	2020	"Sep., 2020"	Sep-20	28885	Not Applicable	Not Applicable
+	85+ years	85+	2020	2020	"Oct., 2020"	Oct-20	31629	Not Applicable	Not Applicable
+	85+ years	85+	2020	2020	"Nov., 2020"	Nov-20	37028	Not Applicable	Not Applicable
+	85+ years	85+	2020	2020	"Dec., 2020"	Dec-20	45716	Not Applicable	Not Applicable
+	85+ years	85+	2021 (provisional)	2021	"Jan., 2021 (provisional)"	Jan-21	44488	Not Applicable	Not Applicable
+	85+ years	85+	2021 (provisional)	2021	"Feb., 2021 (provisional)"	Feb-21	32059	Not Applicable	Not Applicable
+	85+ years	85+	2021 (provisional)	2021	"Mar., 2021 (provisional)"	Mar-21	29678	Not Applicable	Not Applicable
+	85+ years	85+	2021 (provisional)	2021	"Apr., 2021 (provisional)"	Apr-21	27365	Not Applicable	Not Applicable
+	85+ years	85+	2021 (provisional)	2021	"May, 2021 (provisional)"	May-21	27008	Not Applicable	Not Applicable
+	85+ years	85+	2021 (provisional)	2021	"Jun., 2021 (provisional)"	Jun-21	25893	Not Applicable	Not Applicable
+	85+ years	85+	2021 (provisional)	2021	"Jul., 2021 (provisional)"	Jul-21	27134	Not Applicable	Not Applicable
+	85+ years	85+	2021 (provisional)	2021	"Aug., 2021 (provisional)"	Aug-21	31059	Not Applicable	Not Applicable
+	85+ years	85+	2021 (provisional)	2021	"Sep., 2021 (provisional)"	Sep-21	31081	Not Applicable	Not Applicable
+	85+ years	85+	2021 (provisional)	2021	"Oct., 2021 (provisional)"	Oct-21	31474	Not Applicable	Not Applicable
+	85+ years	85+	2021 (provisional)	2021	"Nov., 2021 (provisional)"	Nov-21	31978	Not Applicable	Not Applicable
+	85+ years	85+	2021 (provisional)	2021	"Dec., 2021 (provisional)"	Dec-21	34837	Not Applicable	Not Applicable
+	85+ years	85+	2022 (provisional and partial)	2022	"Jan., 2022 (provisional)"	Jan-22	43003	Not Applicable	Not Applicable
+	85+ years	85+	2022 (provisional and partial)	2022	"Feb., 2022 (provisional)"	Feb-22	33192	Not Applicable	Not Applicable
+	85+ years	85+	2022 (provisional and partial)	2022	"Mar., 2022 (provisional)"	Mar-22	29767	Not Applicable	Not Applicable
+	85+ years	85+	2022 (provisional and partial)	2022	"Apr., 2022 (provisional)"	Apr-22	27103	Not Applicable	Not Applicable
+	85+ years	85+	2022 (provisional and partial)	2022	"May, 2022 (provisional)"	May-22	28241	Not Applicable	Not Applicable
+	85+ years	85+	2022 (provisional and partial)	2022	"Jun., 2022 (provisional)"	Jun-22	27134	Not Applicable	Not Applicable
+	85+ years	85+	2022 (provisional and partial)	2022	"Jul., 2022 (provisional)"	Jul-22	28536	Not Applicable	Not Applicable
+	85+ years	85+	2022 (provisional and partial)	2022	"Aug., 2022 (provisional)"	Aug-22	28665	Not Applicable	Not Applicable
+	85+ years	85+	2022 (provisional and partial)	2022	"Sep., 2022 (provisional)"	Sep-22	20406	Not Applicable	Not Applicable
+	85+ years	85+	2022 (provisional and partial)	2022	"Oct., 2022 (provisional and partial)"	Oct-22	Suppressed	Not Applicable	Not Applicable
+---									
+"Dataset: Provisional Mortality Statistics, 2018 through Last Month"									
+Query Parameters:									
+Title: USA10YrAgeGrpsYrMnth_2018+_Male									
+Gender: Male									
+Ten-Year Age Groups: < 1 year; 1-4 years; 5-14 years; 15-24 years; 25-34 years; 35-44 years; 45-54 years; 55-64 years; 65-74									
+years; 75-84 years; 85+ years									
+Group By: Ten-Year Age Groups; Year; Month									
+Show Totals: Disabled									
+Show Zero Values: True									
+Show Suppressed: True									
+"Calculate Rates Per: 1,000,000"									
+Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)									
+---									
+Help: See http://wonder.cdc.gov/wonder/help/mcd-provisional.html for more information.									
+---									
+"Query Date: Oct 18, 2022 12:12:59 PM"									
+---									
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"									
+"System, Provisional Mortality on CDC WONDER Online Database. Data are from the final Multiple Cause of Death Files, 2018-2020,"									
+"and from provisional data for years 2021-2022, as compiled from data provided by the 57 vital statistics jurisdictions through"									
+"the Vital Statistics Cooperative Program. Accessed at http://wonder.cdc.gov/mcd-icd10-provisional.html on Oct 18, 2022 12:12:59"									
+PM									
+---									
+Messages:									
+1. Totals are not available for these results due to suppression constraints. More Information:									
+http://wonder.cdc.gov/wonder/help/faq.html#Privacy.									
+---									
+Caveats:									
+"1. Population and rates are labeled 'Not Applicable' when location of Death's Occurrence, Autopsy, Place of Death, Weekday or"									
+"Month are grouped by or limited, due to lack of a valid population. More information:"									
+http://wonder.cdc.gov/wonder/help/mcd-provisional.html#NotApplicableRates.									
+2. Data are Suppressed when the data meet the criteria for confidentiality constraints. More information:									
+http://wonder.cdc.gov/wonder/help/mcd-provisional.html#Assurance of Confidentiality.									
+"3. Deaths of persons with Age ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among age groups,"									
+"so are not included in age-specific counts, age-specific rates or in any age-adjusted rates. More information:"									
+http://wonder.cdc.gov/wonder/help/mcd-provisional.html#Not Stated.									
+"4. Deaths occurring through October 01, 2022 as of October 11, 2022."									

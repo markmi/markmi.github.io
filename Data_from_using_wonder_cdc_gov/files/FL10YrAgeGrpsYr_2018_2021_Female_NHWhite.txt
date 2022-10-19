@@ -1,0 +1,98 @@
+"Notes"	"Ten-Year Age Groups"	"Ten-Year Age Groups Code"	"Year"	"Year Code"	Deaths	Population	Crude Rate
+	"< 1 year"	"1"	"2018"	"2018"	175	44861	3900.938454337
+	"< 1 year"	"1"	"2019"	"2019"	171	44408	3850.657539182
+	"< 1 year"	"1"	"2020"	"2020"	176	42955	4097.311139565
+	"< 1 year"	"1"	"2021 (provisional)"	"2021"	174	42955	4050.750785706
+	"1-4 years"	"1-4"	"2018"	"2018"	30	181435	165.348471905
+	"1-4 years"	"1-4"	"2019"	"2019"	42	181223	231.758661980
+	"1-4 years"	"1-4"	"2020"	"2020"	32	185086	172.892601277
+	"1-4 years"	"1-4"	"2021 (provisional)"	"2021"	49	185086	264.741795706
+	"5-14 years"	"5-14"	"2018"	"2018"	48	476661	100.700497838
+	"5-14 years"	"5-14"	"2019"	"2019"	42	476127	88.211758627
+	"5-14 years"	"5-14"	"2020"	"2020"	49	485533	100.920019854
+	"5-14 years"	"5-14"	"2021 (provisional)"	"2021"	50	485533	102.979612096
+	"15-24 years"	"15-24"	"2018"	"2018"	254	526108	482.790605731
+	"15-24 years"	"15-24"	"2019"	"2019"	219	520729	420.564247430
+	"15-24 years"	"15-24"	"2020"	"2020"	258	520133	496.026977715
+	"15-24 years"	"15-24"	"2021 (provisional)"	"2021"	279	520133	536.401266599
+	"25-34 years"	"25-34"	"2018"	"2018"	785	633727	1238.703732049
+	"25-34 years"	"25-34"	"2019"	"2019"	781	632905	1233.992463324
+	"25-34 years"	"25-34"	"2020"	"2020"	873	633471	1378.121492539
+	"25-34 years"	"25-34"	"2021 (provisional)"	"2021"	916	633471	1446.001474416
+	"35-44 years"	"35-44"	"2018"	"2018"	1154	577646	1997.763336022
+	"35-44 years"	"35-44"	"2019"	"2019"	1213	584015	2077.001446881
+	"35-44 years"	"35-44"	"2020"	"2020"	1421	595126	2387.729657249
+	"35-44 years"	"35-44"	"2021 (provisional)"	"2021"	1725	595126	2898.545854155
+	"45-54 years"	"45-54"	"2018"	"2018"	2659	723677	3674.291154755
+	"45-54 years"	"45-54"	"2019"	"2019"	2546	699503	3639.727063358
+	"45-54 years"	"45-54"	"2020"	"2020"	2711	682517	3972.062234347
+	"45-54 years"	"45-54"	"2021 (provisional)"	"2021"	3189	682517	4672.411090127
+	"55-64 years"	"55-64"	"2018"	"2018"	6848	931705	7349.965922690
+	"55-64 years"	"55-64"	"2019"	"2019"	6798	934357	7275.591663572
+	"55-64 years"	"55-64"	"2020"	"2020"	7360	936486	7859.167141847
+	"55-64 years"	"55-64"	"2021 (provisional)"	"2021"	8505	936486	9081.822899648
+	"65-74 years"	"65-74"	"2018"	"2018"	11915	908062	13121.350744773
+	"65-74 years"	"65-74"	"2019"	"2019"	11753	928249	12661.473376217
+	"65-74 years"	"65-74"	"2020"	"2020"	13153	950837	13833.075490331
+	"65-74 years"	"65-74"	"2021 (provisional)"	"2021"	14947	950837	15719.834209228
+	"75-84 years"	"75-84"	"2018"	"2018"	17459	551931	31632.577260563
+	"75-84 years"	"75-84"	"2019"	"2019"	17852	574709	31062.676937372
+	"75-84 years"	"75-84"	"2020"	"2020"	20008	594220	33671.030931305
+	"75-84 years"	"75-84"	"2021 (provisional)"	"2021"	21615	594220	36375.416512403
+	"85+ years"	"85+"	"2018"	"2018"	29976	254766	117660.912366642
+	"85+ years"	"85+"	"2019"	"2019"	29696	255394	116275.245307251
+	"85+ years"	"85+"	"2020"	"2020"	32586	257520	126537.744641193
+	"85+ years"	"85+"	"2021 (provisional)"	"2021"	32212	257520	125085.430257844
+"---"
+"Dataset: Provisional Mortality Statistics, 2018 through Last Month"
+"Query Parameters:"
+"Title: FL10YrAgeGrpsYr_2018_2021_Female_NHWhite"
+"Gender: Female"
+"Hispanic Origin: Not Hispanic or Latino"
+"Residence States: Florida (12)"
+"Single Race 6: White"
+"Ten-Year Age Groups: < 1 year; 1-4 years; 5-14 years; 15-24 years; 25-34 years; 35-44 years; 45-54 years; 55-64 years; 65-74"
+"years; 75-84 years; 85+ years"
+"Year/Month: 2018; 2019; 2020; 2021 (provisional)"
+"Group By: Ten-Year Age Groups; Year"
+"Show Totals: False"
+"Show Zero Values: True"
+"Show Suppressed: True"
+"Calculate Rates Per: 1,000,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/mcd-provisional.html for more information."
+"---"
+"Query Date: Aug 12, 2022 2:29:32 AM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
+"System, Provisional Mortality on CDC WONDER Online Database. Data are from the final Multiple Cause of Death Files, 2018-2020,"
+"and from provisional data for years 2021-2022, as compiled from data provided by the 57 vital statistics jurisdictions through"
+"the Vital Statistics Cooperative Program. Accessed at http://wonder.cdc.gov/mcd-icd10-provisional.html on Aug 12, 2022 2:29:32"
+"AM"
+"---"
+Caveats:
+"1. <b>NOTE: </b>On June 6, 2022, the National Vital Statistics System (NVSS) cause of death coding system began a system-wide"
+"upgrade, which required a temporary suspension of routine NVSS surveillance reporting. The upgrade required all 2022 death"
+"records to be reprocessed into the system. As routine NVSS surveillance reporting resumes, users may temporarily observe lower"
+"death counts for prior weeks in 2022 as the backlog is reprocessed and reloaded into the system."
+"2. Deaths of persons with Age ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among age groups,"
+"so are not included in age-specific counts, age-specific rates or in any age-adjusted rates. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd-provisional.html#Not Stated."
+"3. Deaths of persons with Hispanic origin ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among"
+"Hispanic Origin groups, so are not included in the Hispanic Origin specific counts and rates. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd-provisional.html#Not Stated."
+"4. Information included on the death certificate about the race and Hispanic ethnicity of the decedent is reported by the"
+"funeral director as provided by an informant, often the surviving next of kin, or, in the absence of an informant, on the basis"
+"of observation. Race and ethnicity information from the census is by self-report. To the extent that race and Hispanic origin"
+"are inconsistent between these two data sources, death rates will be biased. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd-provisional.html#Racial Differences."
+"5. The population figures for years 2021 and 2020 are single-race estimates of the July 1 resident population, from the Vintage"
+"2020 postcensal series released by the Census Bureau on July 27, 2021. The population figures for year 2019 are single-race"
+"estimates of the July 1 resident population, from the Vintage 2019 postcensal series released by the Census Bureau on June 25,"
+"2020. The population figures for year 2018 are single-race estimates of the July 1 resident population, from the Vintage 2018"
+"postcensal series released by the Census Bureau on June 20, 2019."
+"6. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/mcd-provisional.html#Age"
+"Group."
+"7. Deaths occurring through July 23, 2022 as of August 07, 2022."

@@ -1,0 +1,117 @@
+"Notes"	"Ten-Year Age Groups"	"Ten-Year Age Groups Code"	"Year"	"Year Code"	Deaths	Population	Crude Rate
+	"< 1 year"	"1"	"2015"	"2015"	13008	2035134	6391.716712511
+	"< 1 year"	"1"	"2016"	"2016"	12867	2030478	6336.931500858
+	"< 1 year"	"1"	"2017"	"2017"	12468	2015150	6187.132471528
+	"< 1 year"	"1"	"2018"	"2018"	12068	1968505	6130.540689508
+	"< 1 year"	"1"	"2019"	"2019"	11674	1935117	6032.710166879
+	"< 1 year"	"1"	"2020 "	"2020"	10859	1908141	5690.879237960
+	"1-4 years"	"1-4"	"2015"	"2015"	2281	8142467	280.136228983
+	"1-4 years"	"1-4"	"2016"	"2016"	2256	8156375	276.593462169
+	"1-4 years"	"1-4"	"2017"	"2017"	2232	8180818	272.833352362
+	"1-4 years"	"1-4"	"2018"	"2018"	2243	8163697	274.752970376
+	"1-4 years"	"1-4"	"2019"	"2019"	2041	8074090	252.783905059
+	"1-4 years"	"1-4"	"2020 "	"2020"	2026	7953016	254.746123986
+	"5-14 years"	"5-14"	"2015"	"2015"	3153	20979520	150.289425115
+	"5-14 years"	"5-14"	"2016"	"2016"	3141	20948655	149.938027048
+	"5-14 years"	"5-14"	"2017"	"2017"	3269	20973213	155.865484225
+	"5-14 years"	"5-14"	"2018"	"2018"	3081	20974830	146.890344284
+	"5-14 years"	"5-14"	"2019"	"2019"	3186	20941023	152.141564431
+	"5-14 years"	"5-14"	"2020 "	"2020"	3362	20941721	160.540769309
+	"15-24 years"	"15-24"	"2015"	"2015"	22346	22465721	994.670947796
+	"15-24 years"	"15-24"	"2016"	"2016"	24013	22292911	1077.158563994
+	"15-24 years"	"15-24"	"2017"	"2017"	23503	22149633	1061.101102668
+	"15-24 years"	"15-24"	"2018"	"2018"	22008	21976455	1001.435399840
+	"15-24 years"	"15-24"	"2019"	"2019"	21748	21810359	997.140854032
+	"15-24 years"	"15-24"	"2020 "	"2020"	26484	21727443	1218.919317842
+	"25-34 years"	"25-34"	"2015"	"2015"	35781	22299138	1604.591172986
+	"25-34 years"	"25-34"	"2016"	"2016"	40257	22599738	1781.303836354
+	"25-34 years"	"25-34"	"2017"	"2017"	42149	22991361	1833.253803461
+	"25-34 years"	"25-34"	"2018"	"2018"	40864	23210709	1760.566641889
+	"25-34 years"	"25-34"	"2019"	"2019"	41351	23359180	1770.224810974
+	"25-34 years"	"25-34"	"2020 "	"2020"	51832	23444379	2210.849773415
+	"35-44 years"	"35-44"	"2015"	"2015"	45670	20203577	2260.490803188
+	"35-44 years"	"35-44"	"2016"	"2016"	49215	20152763	2442.096897582
+	"35-44 years"	"35-44"	"2017"	"2017"	50792	20369100	2493.580963322
+	"35-44 years"	"35-44"	"2018"	"2018"	51376	20587600	2495.482717752
+	"35-44 years"	"35-44"	"2019"	"2019"	53436	20792080	2570.017044952
+	"35-44 years"	"35-44"	"2020 "	"2020"	68494	21045868	3254.510576613
+	"45-54 years"	"45-54"	"2015"	"2015"	105547	21298776	4955.542985193
+	"45-54 years"	"45-54"	"2016"	"2016"	105086	21106139	4978.930537698
+	"45-54 years"	"45-54"	"2017"	"2017"	103804	20906357	4965.188339604
+	"45-54 years"	"45-54"	"2018"	"2018"	101030	20541202	4918.407403812
+	"45-54 years"	"45-54"	"2019"	"2019"	98847	20171966	4900.216468737
+	"45-54 years"	"45-54"	"2020 "	"2020"	119844	19924692	6014.848309826
+	"55-64 years"	"55-64"	"2015"	"2015"	217626	19714747	11038.741709442
+	"55-64 years"	"55-64"	"2016"	"2016"	222384	19999038	11119.734859247
+	"55-64 years"	"55-64"	"2017"	"2017"	225335	20257803	11123.368116473
+	"55-64 years"	"55-64"	"2018"	"2018"	228273	20398863	11190.476645684
+	"55-64 years"	"55-64"	"2019"	"2019"	227925	20499219	11118.716278898
+	"55-64 years"	"55-64"	"2020 "	"2020"	271127	20489434	13232.527555422
+	"65-74 years"	"65-74"	"2015"	"2015"	282347	12892348	21900.355156407
+	"65-74 years"	"65-74"	"2016"	"2016"	292742	13391109	21860.922795864
+	"65-74 years"	"65-74"	"2017"	"2017"	303931	13877140	21901.558966761
+	"65-74 years"	"65-74"	"2018"	"2018"	312911	14246085	21964.701179306
+	"65-74 years"	"65-74"	"2019"	"2019"	320247	14699579	21786.134147107
+	"65-74 years"	"65-74"	"2020 "	"2020"	391999	15183540	25817.365383830
+	"75-84 years"	"75-84"	"2015"	"2015"	323846	6023571	53763.124897175
+	"75-84 years"	"75-84"	"2016"	"2016"	324819	6176874	52586.308219983
+	"75-84 years"	"75-84"	"2017"	"2017"	336671	6407875	52540.194682325
+	"75-84 years"	"75-84"	"2018"	"2018"	347188	6735040	51549.508243455
+	"75-84 years"	"75-84"	"2019"	"2019"	355100	6998223	50741.452508730
+	"75-84 years"	"75-84"	"2020 "	"2020"	428858	7223275	59371.683896847
+	"85+ years"	"85+"	"2015"	"2015"	321704	2174298	147957.639661169
+	"85+ years"	"85+"	"2016"	"2016"	323355	2224843	145338.345222562
+	"85+ years"	"85+"	"2017"	"2017"	334866	2279669	146892.377796952
+	"85+ years"	"85+"	"2018"	"2018"	337318	2325693	145039.779540980
+	"85+ years"	"85+"	"2019"	"2019"	338165	2376488	142296.110899781
+	"85+ years"	"85+"	"2020 "	"2020"	394920	2414693	163548.740978667
+"---"
+"Dataset: Multiple Cause of Death, 1999-2020"
+"Query Parameters:"
+"Title: USA10YrAgeGrpsYr_2015_2020_Male"
+"Gender: Male"
+"Ten-Year Age Groups: < 1 year; 1-4 years; 5-14 years; 15-24 years; 25-34 years; 35-44 years; 45-54 years; 55-64 years; 65-74"
+"years; 75-84 years; 85+ years"
+"Year/Month: 2015; 2016; 2017; 2018; 2019; 2020"
+"Group By: Ten-Year Age Groups; Year"
+"Show Totals: False"
+"Show Zero Values: True"
+"Show Suppressed: True"
+"Calculate Rates Per: 1,000,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/mcd.html for more information."
+"---"
+"Query Date: Aug 11, 2022 4:54:14 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
+"System, Mortality 1999-2020 on CDC WONDER Online Database, released in 2021. Data are from the Multiple Cause of Death Files,"
+"1999-2020, as compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative"
+"Program. Accessed at http://wonder.cdc.gov/mcd-icd10.html on Aug 11, 2022 4:54:14 PM"
+"---"
+Caveats:
+"1. Deaths of persons with Age ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among age groups,"
+"so are not included in age-specific counts, age-specific rates or in any age-adjusted rates. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#Not Stated."
+"2. The population figures for year 2020 are bridged-race estimates of the July 1 resident population, from the Vintage 2020"
+"postcensal series released by NCHS on September 22, 2021. The population figures for year 2019 are bridged-race estimates of the"
+"July 1 resident population, from the Vintage 2019 postcensal series released by NCHS on July 9, 2020. The population figures for"
+"year 2018 are bridged-race estimates of the July 1 resident population, from the Vintage 2018 postcensal series released by NCHS"
+"on June 25, 2019. The population figures for year 2017 are bridged-race estimates of the July 1 resident population, from the"
+"Vintage 2017 postcensal series released by NCHS on June 27, 2018. The population figures for year 2016 are bridged-race"
+"estimates of the July 1 resident population, from the Vintage 2016 postcensal series released by NCHS on June 26, 2017. The"
+"population figures for year 2015 are bridged-race estimates of the July 1 resident population, from the Vintage 2015 postcensal"
+"series released by NCHS on June 28, 2016. The population figures for year 2014 are bridged-race estimates of the July 1 resident"
+"population, from the Vintage 2014 postcensal series released by NCHS on June 30, 2015. The population figures for year 2013 are"
+"bridged-race estimates of the July 1 resident population, from the Vintage 2013 postcensal series released by NCHS on June 26,"
+"2014. The population figures for year 2012 are bridged-race estimates of the July 1 resident population, from the Vintage 2012"
+"postcensal series released by NCHS on June 13, 2013. Population figures for 2011 are bridged-race estimates of the July 1"
+"resident population, from the county-level postcensal Vintage 2011 series released by NCHS on July 18, 2012. Population figures"
+"for 2010 are April 1 Census counts. The population figures for years 2001 - 2009, are bridged-race estimates of the July 1"
+"resident population, from the revised intercensal county-level 2000 - 2009 series released by NCHS on October 26, 2012."
+"Population figures for 2000 are April 1 Census counts. Population figures for 1999 are from the 1990-1999 intercensal series of"
+"July 1 estimates. Population figures for Infant Age Groups are the number of live births. <br/><b>Note:</b> Rates and population"
+"figures for years 2001 - 2009 differ slightly from previously published reports, due to use of the population estimates which"
+"were available at the time of release."
+"3. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/mcd.html#Age Group."

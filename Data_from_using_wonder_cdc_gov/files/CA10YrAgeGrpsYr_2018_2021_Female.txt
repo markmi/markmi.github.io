@@ -1,0 +1,88 @@
+"Notes"	"Ten-Year Age Groups"	"Ten-Year Age Groups Code"	"Year"	"Year Code"	Deaths	Population	Crude Rate
+	"< 1 year"	"1"	"2018"	"2018"	847	233156	3632.760898283
+	"< 1 year"	"1"	"2019"	"2019"	841	225948	3722.095349372
+	"< 1 year"	"1"	"2020"	"2020"	735	218579	3362.628614826
+	"< 1 year"	"1"	"2021 (provisional)"	"2021"	783	218579	3582.228850896
+	"1-4 years"	"1-4"	"2018"	"2018"	137	958629	142.912430148
+	"1-4 years"	"1-4"	"2019"	"2019"	132	937683	140.772521204
+	"1-4 years"	"1-4"	"2020"	"2020"	131	910909	143.812389602
+	"1-4 years"	"1-4"	"2021 (provisional)"	"2021"	140	910909	153.692630109
+	"5-14 years"	"5-14"	"2018"	"2018"	221	2463135	89.723056187
+	"5-14 years"	"5-14"	"2019"	"2019"	214	2448261	87.408981314
+	"5-14 years"	"5-14"	"2020"	"2020"	229	2429645	94.252452519
+	"5-14 years"	"5-14"	"2021 (provisional)"	"2021"	243	2429645	100.014611188
+	"15-24 years"	"15-24"	"2018"	"2018"	773	2561700	301.752742320
+	"15-24 years"	"15-24"	"2019"	"2019"	742	2529044	293.391494968
+	"15-24 years"	"15-24"	"2020"	"2020"	935	2495067	374.739435855
+	"15-24 years"	"15-24"	"2021 (provisional)"	"2021"	996	2495067	399.187677124
+	"25-34 years"	"25-34"	"2018"	"2018"	1508	2924517	515.640702379
+	"25-34 years"	"25-34"	"2019"	"2019"	1541	2926700	526.531588478
+	"25-34 years"	"25-34"	"2020"	"2020"	2009	2907953	690.863985766
+	"25-34 years"	"25-34"	"2021 (provisional)"	"2021"	2159	2907953	742.446662652
+	"35-44 years"	"35-44"	"2018"	"2018"	2576	2602784	989.709480310
+	"35-44 years"	"35-44"	"2019"	"2019"	2644	2609521	1013.212769700
+	"35-44 years"	"35-44"	"2020"	"2020"	3222	2615551	1231.862808257
+	"35-44 years"	"35-44"	"2021 (provisional)"	"2021"	3822	2615551	1461.259979255
+	"45-54 years"	"45-54"	"2018"	"2018"	5708	2546303	2241.681370992
+	"45-54 years"	"45-54"	"2019"	"2019"	5518	2499374	2207.752821307
+	"45-54 years"	"45-54"	"2020"	"2020"	6663	2465013	2703.028341027
+	"45-54 years"	"45-54"	"2021 (provisional)"	"2021"	7234	2465013	2934.670121415
+	"55-64 years"	"55-64"	"2018"	"2018"	12886	2456773	5245.091833881
+	"55-64 years"	"55-64"	"2019"	"2019"	12919	2455116	5262.073156625
+	"55-64 years"	"55-64"	"2020"	"2020"	14899	2437984	6111.196792104
+	"55-64 years"	"55-64"	"2021 (provisional)"	"2021"	16178	2437984	6635.810571357
+	"65-74 years"	"65-74"	"2018"	"2018"	20379	1756338	11603.119672865
+	"65-74 years"	"65-74"	"2019"	"2019"	20350	1809935	11243.497694669
+	"65-74 years"	"65-74"	"2020"	"2020"	24320	1854268	13115.687699944
+	"65-74 years"	"65-74"	"2021 (provisional)"	"2021"	26439	1854268	14258.456706366
+	"75-84 years"	"75-84"	"2018"	"2018"	29628	922023	32133.688639004
+	"75-84 years"	"75-84"	"2019"	"2019"	29634	956230	30990.452087887
+	"75-84 years"	"75-84"	"2020"	"2020"	34618	983099	35213.137232364
+	"75-84 years"	"75-84"	"2021 (provisional)"	"2021"	35645	983099	36257.792958797
+	"85+ years"	"85+"	"2018"	"2018"	54035	468110	115432.270192903
+	"85+ years"	"85+"	"2019"	"2019"	53589	469557	114126.719439812
+	"85+ years"	"85+"	"2020"	"2020"	60250	472521	127507.560510538
+	"85+ years"	"85+"	"2021 (provisional)"	"2021"	58207	472521	123183.943147500
+"---"
+"Dataset: Provisional Mortality Statistics, 2018 through Last Month"
+"Query Parameters:"
+"Title: CA10YrAgeGrpsYr_2018_2021_Female"
+"Gender: Female"
+"Residence States: California (06)"
+"Ten-Year Age Groups: < 1 year; 1-4 years; 5-14 years; 15-24 years; 25-34 years; 35-44 years; 45-54 years; 55-64 years; 65-74"
+"years; 75-84 years; 85+ years"
+"Year/Month: 2018; 2019; 2020; 2021 (provisional)"
+"Group By: Ten-Year Age Groups; Year"
+"Show Totals: False"
+"Show Zero Values: True"
+"Show Suppressed: True"
+"Calculate Rates Per: 1,000,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/mcd-provisional.html for more information."
+"---"
+"Query Date: Aug 12, 2022 1:38:30 AM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
+"System, Provisional Mortality on CDC WONDER Online Database. Data are from the final Multiple Cause of Death Files, 2018-2020,"
+"and from provisional data for years 2021-2022, as compiled from data provided by the 57 vital statistics jurisdictions through"
+"the Vital Statistics Cooperative Program. Accessed at http://wonder.cdc.gov/mcd-icd10-provisional.html on Aug 12, 2022 1:38:30"
+"AM"
+"---"
+Caveats:
+"1. <b>NOTE: </b>On June 6, 2022, the National Vital Statistics System (NVSS) cause of death coding system began a system-wide"
+"upgrade, which required a temporary suspension of routine NVSS surveillance reporting. The upgrade required all 2022 death"
+"records to be reprocessed into the system. As routine NVSS surveillance reporting resumes, users may temporarily observe lower"
+"death counts for prior weeks in 2022 as the backlog is reprocessed and reloaded into the system."
+"2. Deaths of persons with Age ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among age groups,"
+"so are not included in age-specific counts, age-specific rates or in any age-adjusted rates. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd-provisional.html#Not Stated."
+"3. The population figures for years 2021 and 2020 are single-race estimates of the July 1 resident population, from the Vintage"
+"2020 postcensal series released by the Census Bureau on July 27, 2021. The population figures for year 2019 are single-race"
+"estimates of the July 1 resident population, from the Vintage 2019 postcensal series released by the Census Bureau on June 25,"
+"2020. The population figures for year 2018 are single-race estimates of the July 1 resident population, from the Vintage 2018"
+"postcensal series released by the Census Bureau on June 20, 2019."
+"4. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/mcd-provisional.html#Age"
+"Group."
+"5. Deaths occurring through July 23, 2022 as of August 07, 2022."
