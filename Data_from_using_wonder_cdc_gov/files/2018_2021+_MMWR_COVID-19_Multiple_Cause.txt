@@ -1,0 +1,376 @@
+"Notes"	"MMWR Week"	"MMWR Week Code"	Deaths	Population	Crude Rate
+	"2018 Week 01 ending January 06, 2018"	"2018/01"	Suppressed	Not Applicable	Not Applicable
+	"2018 Week 02 ending January 13, 2018"	"2018/02"	Suppressed	Not Applicable	Not Applicable
+	"2018 Week 03 ending January 20, 2018"	"2018/03"	Suppressed	Not Applicable	Not Applicable
+	"2018 Week 04 ending January 27, 2018"	"2018/04"	Suppressed	Not Applicable	Not Applicable
+	"2018 Week 05 ending February 03, 2018"	"2018/05"	Suppressed	Not Applicable	Not Applicable
+	"2018 Week 06 ending February 10, 2018"	"2018/06"	Suppressed	Not Applicable	Not Applicable
+	"2018 Week 07 ending February 17, 2018"	"2018/07"	Suppressed	Not Applicable	Not Applicable
+	"2018 Week 08 ending February 24, 2018"	"2018/08"	Suppressed	Not Applicable	Not Applicable
+	"2018 Week 09 ending March 03, 2018"	"2018/09"	Suppressed	Not Applicable	Not Applicable
+	"2018 Week 10 ending March 10, 2018"	"2018/10"	Suppressed	Not Applicable	Not Applicable
+	"2018 Week 11 ending March 17, 2018"	"2018/11"	Suppressed	Not Applicable	Not Applicable
+	"2018 Week 12 ending March 24, 2018"	"2018/12"	Suppressed	Not Applicable	Not Applicable
+	"2018 Week 13 ending March 31, 2018"	"2018/13"	Suppressed	Not Applicable	Not Applicable
+	"2018 Week 14 ending April 07, 2018"	"2018/14"	Suppressed	Not Applicable	Not Applicable
+	"2018 Week 15 ending April 14, 2018"	"2018/15"	Suppressed	Not Applicable	Not Applicable
+	"2018 Week 16 ending April 21, 2018"	"2018/16"	Suppressed	Not Applicable	Not Applicable
+	"2018 Week 17 ending April 28, 2018"	"2018/17"	Suppressed	Not Applicable	Not Applicable
+	"2018 Week 18 ending May 05, 2018"	"2018/18"	Suppressed	Not Applicable	Not Applicable
+	"2018 Week 19 ending May 12, 2018"	"2018/19"	Suppressed	Not Applicable	Not Applicable
+	"2018 Week 20 ending May 19, 2018"	"2018/20"	Suppressed	Not Applicable	Not Applicable
+	"2018 Week 21 ending May 26, 2018"	"2018/21"	Suppressed	Not Applicable	Not Applicable
+	"2018 Week 22 ending June 02, 2018"	"2018/22"	Suppressed	Not Applicable	Not Applicable
+	"2018 Week 23 ending June 09, 2018"	"2018/23"	Suppressed	Not Applicable	Not Applicable
+	"2018 Week 24 ending June 16, 2018"	"2018/24"	Suppressed	Not Applicable	Not Applicable
+	"2018 Week 25 ending June 23, 2018"	"2018/25"	Suppressed	Not Applicable	Not Applicable
+	"2018 Week 26 ending June 30, 2018"	"2018/26"	Suppressed	Not Applicable	Not Applicable
+	"2018 Week 27 ending July 07, 2018"	"2018/27"	Suppressed	Not Applicable	Not Applicable
+	"2018 Week 28 ending July 14, 2018"	"2018/28"	Suppressed	Not Applicable	Not Applicable
+	"2018 Week 29 ending July 21, 2018"	"2018/29"	Suppressed	Not Applicable	Not Applicable
+	"2018 Week 30 ending July 28, 2018"	"2018/30"	Suppressed	Not Applicable	Not Applicable
+	"2018 Week 31 ending August 04, 2018"	"2018/31"	Suppressed	Not Applicable	Not Applicable
+	"2018 Week 32 ending August 11, 2018"	"2018/32"	Suppressed	Not Applicable	Not Applicable
+	"2018 Week 33 ending August 18, 2018"	"2018/33"	Suppressed	Not Applicable	Not Applicable
+	"2018 Week 34 ending August 25, 2018"	"2018/34"	Suppressed	Not Applicable	Not Applicable
+	"2018 Week 35 ending September 01, 2018"	"2018/35"	Suppressed	Not Applicable	Not Applicable
+	"2018 Week 36 ending September 08, 2018"	"2018/36"	Suppressed	Not Applicable	Not Applicable
+	"2018 Week 37 ending September 15, 2018"	"2018/37"	Suppressed	Not Applicable	Not Applicable
+	"2018 Week 38 ending September 22, 2018"	"2018/38"	Suppressed	Not Applicable	Not Applicable
+	"2018 Week 39 ending September 29, 2018"	"2018/39"	Suppressed	Not Applicable	Not Applicable
+	"2018 Week 40 ending October 06, 2018"	"2018/40"	Suppressed	Not Applicable	Not Applicable
+	"2018 Week 41 ending October 13, 2018"	"2018/41"	Suppressed	Not Applicable	Not Applicable
+	"2018 Week 42 ending October 20, 2018"	"2018/42"	Suppressed	Not Applicable	Not Applicable
+	"2018 Week 43 ending October 27, 2018"	"2018/43"	Suppressed	Not Applicable	Not Applicable
+	"2018 Week 44 ending November 03, 2018"	"2018/44"	Suppressed	Not Applicable	Not Applicable
+	"2018 Week 45 ending November 10, 2018"	"2018/45"	Suppressed	Not Applicable	Not Applicable
+	"2018 Week 46 ending November 17, 2018"	"2018/46"	Suppressed	Not Applicable	Not Applicable
+	"2018 Week 47 ending November 24, 2018"	"2018/47"	Suppressed	Not Applicable	Not Applicable
+	"2018 Week 48 ending December 01, 2018"	"2018/48"	Suppressed	Not Applicable	Not Applicable
+	"2018 Week 49 ending December 08, 2018"	"2018/49"	Suppressed	Not Applicable	Not Applicable
+	"2018 Week 50 ending December 15, 2018"	"2018/50"	Suppressed	Not Applicable	Not Applicable
+	"2018 Week 51 ending December 22, 2018"	"2018/51"	Suppressed	Not Applicable	Not Applicable
+	"2018 Week 52 ending December 29, 2018"	"2018/52"	Suppressed	Not Applicable	Not Applicable
+	"2019 Week 01 ending January 05, 2019"	"2019/01"	Suppressed	Not Applicable	Not Applicable
+	"2019 Week 02 ending January 12, 2019"	"2019/02"	Suppressed	Not Applicable	Not Applicable
+	"2019 Week 03 ending January 19, 2019"	"2019/03"	Suppressed	Not Applicable	Not Applicable
+	"2019 Week 04 ending January 26, 2019"	"2019/04"	Suppressed	Not Applicable	Not Applicable
+	"2019 Week 05 ending February 02, 2019"	"2019/05"	Suppressed	Not Applicable	Not Applicable
+	"2019 Week 06 ending February 09, 2019"	"2019/06"	Suppressed	Not Applicable	Not Applicable
+	"2019 Week 07 ending February 16, 2019"	"2019/07"	Suppressed	Not Applicable	Not Applicable
+	"2019 Week 08 ending February 23, 2019"	"2019/08"	Suppressed	Not Applicable	Not Applicable
+	"2019 Week 09 ending March 02, 2019"	"2019/09"	Suppressed	Not Applicable	Not Applicable
+	"2019 Week 10 ending March 09, 2019"	"2019/10"	Suppressed	Not Applicable	Not Applicable
+	"2019 Week 11 ending March 16, 2019"	"2019/11"	Suppressed	Not Applicable	Not Applicable
+	"2019 Week 12 ending March 23, 2019"	"2019/12"	Suppressed	Not Applicable	Not Applicable
+	"2019 Week 13 ending March 30, 2019"	"2019/13"	Suppressed	Not Applicable	Not Applicable
+	"2019 Week 14 ending April 06, 2019"	"2019/14"	Suppressed	Not Applicable	Not Applicable
+	"2019 Week 15 ending April 13, 2019"	"2019/15"	Suppressed	Not Applicable	Not Applicable
+	"2019 Week 16 ending April 20, 2019"	"2019/16"	Suppressed	Not Applicable	Not Applicable
+	"2019 Week 17 ending April 27, 2019"	"2019/17"	Suppressed	Not Applicable	Not Applicable
+	"2019 Week 18 ending May 04, 2019"	"2019/18"	Suppressed	Not Applicable	Not Applicable
+	"2019 Week 19 ending May 11, 2019"	"2019/19"	Suppressed	Not Applicable	Not Applicable
+	"2019 Week 20 ending May 18, 2019"	"2019/20"	Suppressed	Not Applicable	Not Applicable
+	"2019 Week 21 ending May 25, 2019"	"2019/21"	Suppressed	Not Applicable	Not Applicable
+	"2019 Week 22 ending June 01, 2019"	"2019/22"	Suppressed	Not Applicable	Not Applicable
+	"2019 Week 23 ending June 08, 2019"	"2019/23"	Suppressed	Not Applicable	Not Applicable
+	"2019 Week 24 ending June 15, 2019"	"2019/24"	Suppressed	Not Applicable	Not Applicable
+	"2019 Week 25 ending June 22, 2019"	"2019/25"	Suppressed	Not Applicable	Not Applicable
+	"2019 Week 26 ending June 29, 2019"	"2019/26"	Suppressed	Not Applicable	Not Applicable
+	"2019 Week 27 ending July 06, 2019"	"2019/27"	Suppressed	Not Applicable	Not Applicable
+	"2019 Week 28 ending July 13, 2019"	"2019/28"	Suppressed	Not Applicable	Not Applicable
+	"2019 Week 29 ending July 20, 2019"	"2019/29"	Suppressed	Not Applicable	Not Applicable
+	"2019 Week 30 ending July 27, 2019"	"2019/30"	Suppressed	Not Applicable	Not Applicable
+	"2019 Week 31 ending August 03, 2019"	"2019/31"	Suppressed	Not Applicable	Not Applicable
+	"2019 Week 32 ending August 10, 2019"	"2019/32"	Suppressed	Not Applicable	Not Applicable
+	"2019 Week 33 ending August 17, 2019"	"2019/33"	Suppressed	Not Applicable	Not Applicable
+	"2019 Week 34 ending August 24, 2019"	"2019/34"	Suppressed	Not Applicable	Not Applicable
+	"2019 Week 35 ending August 31, 2019"	"2019/35"	Suppressed	Not Applicable	Not Applicable
+	"2019 Week 36 ending September 07, 2019"	"2019/36"	Suppressed	Not Applicable	Not Applicable
+	"2019 Week 37 ending September 14, 2019"	"2019/37"	Suppressed	Not Applicable	Not Applicable
+	"2019 Week 38 ending September 21, 2019"	"2019/38"	Suppressed	Not Applicable	Not Applicable
+	"2019 Week 39 ending September 28, 2019"	"2019/39"	Suppressed	Not Applicable	Not Applicable
+	"2019 Week 40 ending October 05, 2019"	"2019/40"	Suppressed	Not Applicable	Not Applicable
+	"2019 Week 41 ending October 12, 2019"	"2019/41"	Suppressed	Not Applicable	Not Applicable
+	"2019 Week 42 ending October 19, 2019"	"2019/42"	Suppressed	Not Applicable	Not Applicable
+	"2019 Week 43 ending October 26, 2019"	"2019/43"	Suppressed	Not Applicable	Not Applicable
+	"2019 Week 44 ending November 02, 2019"	"2019/44"	Suppressed	Not Applicable	Not Applicable
+	"2019 Week 45 ending November 09, 2019"	"2019/45"	Suppressed	Not Applicable	Not Applicable
+	"2019 Week 46 ending November 16, 2019"	"2019/46"	Suppressed	Not Applicable	Not Applicable
+	"2019 Week 47 ending November 23, 2019"	"2019/47"	Suppressed	Not Applicable	Not Applicable
+	"2019 Week 48 ending November 30, 2019"	"2019/48"	Suppressed	Not Applicable	Not Applicable
+	"2019 Week 49 ending December 07, 2019"	"2019/49"	Suppressed	Not Applicable	Not Applicable
+	"2019 Week 50 ending December 14, 2019"	"2019/50"	Suppressed	Not Applicable	Not Applicable
+	"2019 Week 51 ending December 21, 2019"	"2019/51"	Suppressed	Not Applicable	Not Applicable
+	"2019 Week 52 ending December 28, 2019"	"2019/52"	Suppressed	Not Applicable	Not Applicable
+	"2020 Week 01 ending January 04, 2020"	"2020/01"	Suppressed	Not Applicable	Not Applicable
+	"2020 Week 02 ending January 11, 2020"	"2020/02"	Suppressed	Not Applicable	Not Applicable
+	"2020 Week 03 ending January 18, 2020"	"2020/03"	Suppressed	Not Applicable	Not Applicable
+	"2020 Week 04 ending January 25, 2020"	"2020/04"	Suppressed	Not Applicable	Not Applicable
+	"2020 Week 05 ending February 01, 2020"	"2020/05"	Suppressed	Not Applicable	Not Applicable
+	"2020 Week 06 ending February 08, 2020"	"2020/06"	Suppressed	Not Applicable	Not Applicable
+	"2020 Week 07 ending February 15, 2020"	"2020/07"	Suppressed	Not Applicable	Not Applicable
+	"2020 Week 08 ending February 22, 2020"	"2020/08"	Suppressed	Not Applicable	Not Applicable
+	"2020 Week 09 ending February 29, 2020"	"2020/09"	Suppressed	Not Applicable	Not Applicable
+	"2020 Week 10 ending March 07, 2020"	"2020/10"	37	Not Applicable	Not Applicable
+	"2020 Week 11 ending March 14, 2020"	"2020/11"	60	Not Applicable	Not Applicable
+	"2020 Week 12 ending March 21, 2020"	"2020/12"	586	Not Applicable	Not Applicable
+	"2020 Week 13 ending March 28, 2020"	"2020/13"	3198	Not Applicable	Not Applicable
+	"2020 Week 14 ending April 04, 2020"	"2020/14"	10099	Not Applicable	Not Applicable
+	"2020 Week 15 ending April 11, 2020"	"2020/15"	16275	Not Applicable	Not Applicable
+	"2020 Week 16 ending April 18, 2020"	"2020/16"	17179	Not Applicable	Not Applicable
+	"2020 Week 17 ending April 25, 2020"	"2020/17"	15515	Not Applicable	Not Applicable
+	"2020 Week 18 ending May 02, 2020"	"2020/18"	13192	Not Applicable	Not Applicable
+	"2020 Week 19 ending May 09, 2020"	"2020/19"	11211	Not Applicable	Not Applicable
+	"2020 Week 20 ending May 16, 2020"	"2020/20"	9224	Not Applicable	Not Applicable
+	"2020 Week 21 ending May 23, 2020"	"2020/21"	7228	Not Applicable	Not Applicable
+	"2020 Week 22 ending May 30, 2020"	"2020/22"	6154	Not Applicable	Not Applicable
+	"2020 Week 23 ending June 06, 2020"	"2020/23"	5042	Not Applicable	Not Applicable
+	"2020 Week 24 ending June 13, 2020"	"2020/24"	4224	Not Applicable	Not Applicable
+	"2020 Week 25 ending June 20, 2020"	"2020/25"	3839	Not Applicable	Not Applicable
+	"2020 Week 26 ending June 27, 2020"	"2020/26"	3830	Not Applicable	Not Applicable
+	"2020 Week 27 ending July 04, 2020"	"2020/27"	4534	Not Applicable	Not Applicable
+	"2020 Week 28 ending July 11, 2020"	"2020/28"	5768	Not Applicable	Not Applicable
+	"2020 Week 29 ending July 18, 2020"	"2020/29"	7159	Not Applicable	Not Applicable
+	"2020 Week 30 ending July 25, 2020"	"2020/30"	8221	Not Applicable	Not Applicable
+	"2020 Week 31 ending August 01, 2020"	"2020/31"	8279	Not Applicable	Not Applicable
+	"2020 Week 32 ending August 08, 2020"	"2020/32"	7845	Not Applicable	Not Applicable
+	"2020 Week 33 ending August 15, 2020"	"2020/33"	7239	Not Applicable	Not Applicable
+	"2020 Week 34 ending August 22, 2020"	"2020/34"	6368	Not Applicable	Not Applicable
+	"2020 Week 35 ending August 29, 2020"	"2020/35"	5731	Not Applicable	Not Applicable
+	"2020 Week 36 ending September 05, 2020"	"2020/36"	5003	Not Applicable	Not Applicable
+	"2020 Week 37 ending September 12, 2020"	"2020/37"	4616	Not Applicable	Not Applicable
+	"2020 Week 38 ending September 19, 2020"	"2020/38"	4268	Not Applicable	Not Applicable
+	"2020 Week 39 ending September 26, 2020"	"2020/39"	4290	Not Applicable	Not Applicable
+	"2020 Week 40 ending October 03, 2020"	"2020/40"	4235	Not Applicable	Not Applicable
+	"2020 Week 41 ending October 10, 2020"	"2020/41"	4807	Not Applicable	Not Applicable
+	"2020 Week 42 ending October 17, 2020"	"2020/42"	5189	Not Applicable	Not Applicable
+	"2020 Week 43 ending October 24, 2020"	"2020/43"	5985	Not Applicable	Not Applicable
+	"2020 Week 44 ending October 31, 2020"	"2020/44"	7010	Not Applicable	Not Applicable
+	"2020 Week 45 ending November 07, 2020"	"2020/45"	8744	Not Applicable	Not Applicable
+	"2020 Week 46 ending November 14, 2020"	"2020/46"	10636	Not Applicable	Not Applicable
+	"2020 Week 47 ending November 21, 2020"	"2020/47"	13334	Not Applicable	Not Applicable
+	"2020 Week 48 ending November 28, 2020"	"2020/48"	15606	Not Applicable	Not Applicable
+	"2020 Week 49 ending December 05, 2020"	"2020/49"	18525	Not Applicable	Not Applicable
+	"2020 Week 50 ending December 12, 2020"	"2020/50"	20893	Not Applicable	Not Applicable
+	"2020 Week 51 ending December 19, 2020"	"2020/51"	22296	Not Applicable	Not Applicable
+	"2020 Week 52 ending December 26, 2020"	"2020/52"	23331	Not Applicable	Not Applicable
+	"2020 Week 53 ending January 02, 2021"	"2020/53"	24827	Not Applicable	Not Applicable
+	"2021 Week 01 ending January 09, 2021 (provisional)"	"2021/01"	25973	Not Applicable	Not Applicable
+	"2021 Week 02 ending January 16, 2021 (provisional)"	"2021/02"	25690	Not Applicable	Not Applicable
+	"2021 Week 03 ending January 23, 2021 (provisional)"	"2021/03"	23685	Not Applicable	Not Applicable
+	"2021 Week 04 ending January 30, 2021 (provisional)"	"2021/04"	20321	Not Applicable	Not Applicable
+	"2021 Week 05 ending February 06, 2021 (provisional)"	"2021/05"	17034	Not Applicable	Not Applicable
+	"2021 Week 06 ending February 13, 2021 (provisional)"	"2021/06"	13519	Not Applicable	Not Applicable
+	"2021 Week 07 ending February 20, 2021 (provisional)"	"2021/07"	10806	Not Applicable	Not Applicable
+	"2021 Week 08 ending February 27, 2021 (provisional)"	"2021/08"	8654	Not Applicable	Not Applicable
+	"2021 Week 09 ending March 06, 2021 (provisional)"	"2021/09"	6730	Not Applicable	Not Applicable
+	"2021 Week 10 ending March 13, 2021 (provisional)"	"2021/10"	5724	Not Applicable	Not Applicable
+	"2021 Week 11 ending March 20, 2021 (provisional)"	"2021/11"	4893	Not Applicable	Not Applicable
+	"2021 Week 12 ending March 27, 2021 (provisional)"	"2021/12"	4461	Not Applicable	Not Applicable
+	"2021 Week 13 ending April 03, 2021 (provisional)"	"2021/13"	4197	Not Applicable	Not Applicable
+	"2021 Week 14 ending April 10, 2021 (provisional)"	"2021/14"	4312	Not Applicable	Not Applicable
+	"2021 Week 15 ending April 17, 2021 (provisional)"	"2021/15"	4449	Not Applicable	Not Applicable
+	"2021 Week 16 ending April 24, 2021 (provisional)"	"2021/16"	4600	Not Applicable	Not Applicable
+	"2021 Week 17 ending May 01, 2021 (provisional)"	"2021/17"	4165	Not Applicable	Not Applicable
+	"2021 Week 18 ending May 08, 2021 (provisional)"	"2021/18"	4006	Not Applicable	Not Applicable
+	"2021 Week 19 ending May 15, 2021 (provisional)"	"2021/19"	3678	Not Applicable	Not Applicable
+	"2021 Week 20 ending May 22, 2021 (provisional)"	"2021/20"	3237	Not Applicable	Not Applicable
+	"2021 Week 21 ending May 29, 2021 (provisional)"	"2021/21"	2770	Not Applicable	Not Applicable
+	"2021 Week 22 ending June 05, 2021 (provisional)"	"2021/22"	2347	Not Applicable	Not Applicable
+	"2021 Week 23 ending June 12, 2021 (provisional)"	"2021/23"	2035	Not Applicable	Not Applicable
+	"2021 Week 24 ending June 19, 2021 (provisional)"	"2021/24"	1775	Not Applicable	Not Applicable
+	"2021 Week 25 ending June 26, 2021 (provisional)"	"2021/25"	1634	Not Applicable	Not Applicable
+	"2021 Week 26 ending July 03, 2021 (provisional)"	"2021/26"	1543	Not Applicable	Not Applicable
+	"2021 Week 27 ending July 10, 2021 (provisional)"	"2021/27"	1644	Not Applicable	Not Applicable
+	"2021 Week 28 ending July 17, 2021 (provisional)"	"2021/28"	1991	Not Applicable	Not Applicable
+	"2021 Week 29 ending July 24, 2021 (provisional)"	"2021/29"	2760	Not Applicable	Not Applicable
+	"2021 Week 30 ending July 31, 2021 (provisional)"	"2021/30"	4104	Not Applicable	Not Applicable
+	"2021 Week 31 ending August 07, 2021 (provisional)"	"2021/31"	6483	Not Applicable	Not Applicable
+	"2021 Week 32 ending August 14, 2021 (provisional)"	"2021/32"	9405	Not Applicable	Not Applicable
+	"2021 Week 33 ending August 21, 2021 (provisional)"	"2021/33"	12178	Not Applicable	Not Applicable
+	"2021 Week 34 ending August 28, 2021 (provisional)"	"2021/34"	14173	Not Applicable	Not Applicable
+	"2021 Week 35 ending September 04, 2021 (provisional)"	"2021/35"	15493	Not Applicable	Not Applicable
+	"2021 Week 36 ending September 11, 2021 (provisional)"	"2021/36"	15418	Not Applicable	Not Applicable
+	"2021 Week 37 ending September 18, 2021 (provisional)"	"2021/37"	15210	Not Applicable	Not Applicable
+	"2021 Week 38 ending September 25, 2021 (provisional)"	"2021/38"	14347	Not Applicable	Not Applicable
+	"2021 Week 39 ending October 02, 2021 (provisional)"	"2021/39"	12830	Not Applicable	Not Applicable
+	"2021 Week 40 ending October 09, 2021 (provisional)"	"2021/40"	11180	Not Applicable	Not Applicable
+	"2021 Week 41 ending October 16, 2021 (provisional)"	"2021/41"	9877	Not Applicable	Not Applicable
+	"2021 Week 42 ending October 23, 2021 (provisional)"	"2021/42"	8940	Not Applicable	Not Applicable
+	"2021 Week 43 ending October 30, 2021 (provisional)"	"2021/43"	7960	Not Applicable	Not Applicable
+	"2021 Week 44 ending November 06, 2021 (provisional)"	"2021/44"	7286	Not Applicable	Not Applicable
+	"2021 Week 45 ending November 13, 2021 (provisional)"	"2021/45"	7157	Not Applicable	Not Applicable
+	"2021 Week 46 ending November 20, 2021 (provisional)"	"2021/46"	7310	Not Applicable	Not Applicable
+	"2021 Week 47 ending November 27, 2021 (provisional)"	"2021/47"	7886	Not Applicable	Not Applicable
+	"2021 Week 48 ending December 04, 2021 (provisional)"	"2021/48"	8781	Not Applicable	Not Applicable
+	"2021 Week 49 ending December 11, 2021 (provisional)"	"2021/49"	9734	Not Applicable	Not Applicable
+	"2021 Week 50 ending December 18, 2021 (provisional)"	"2021/50"	10252	Not Applicable	Not Applicable
+	"2021 Week 51 ending December 25, 2021 (provisional)"	"2021/51"	10459	Not Applicable	Not Applicable
+	"2021 Week 52 ending January 01, 2022 (provisional)"	"2021/52"	11671	Not Applicable	Not Applicable
+	"2022 Week 01 ending January 08, 2022 (provisional)"	"2022/01"	15097	Not Applicable	Not Applicable
+	"2022 Week 02 ending January 15, 2022 (provisional)"	"2022/02"	19049	Not Applicable	Not Applicable
+	"2022 Week 03 ending January 22, 2022 (provisional)"	"2022/03"	21294	Not Applicable	Not Applicable
+	"2022 Week 04 ending January 29, 2022 (provisional)"	"2022/04"	20924	Not Applicable	Not Applicable
+	"2022 Week 05 ending February 05, 2022 (provisional)"	"2022/05"	18714	Not Applicable	Not Applicable
+	"2022 Week 06 ending February 12, 2022 (provisional)"	"2022/06"	15273	Not Applicable	Not Applicable
+	"2022 Week 07 ending February 19, 2022 (provisional)"	"2022/07"	11519	Not Applicable	Not Applicable
+	"2022 Week 08 ending February 26, 2022 (provisional)"	"2022/08"	8267	Not Applicable	Not Applicable
+	"2022 Week 09 ending March 05, 2022 (provisional)"	"2022/09"	6029	Not Applicable	Not Applicable
+	"2022 Week 10 ending March 12, 2022 (provisional)"	"2022/10"	4382	Not Applicable	Not Applicable
+	"2022 Week 11 ending March 19, 2022 (provisional)"	"2022/11"	3114	Not Applicable	Not Applicable
+	"2022 Week 12 ending March 26, 2022 (provisional)"	"2022/12"	2499	Not Applicable	Not Applicable
+	"2022 Week 13 ending April 02, 2022 (provisional)"	"2022/13"	1902	Not Applicable	Not Applicable
+	"2022 Week 14 ending April 09, 2022 (provisional)"	"2022/14"	1545	Not Applicable	Not Applicable
+	"2022 Week 15 ending April 16, 2022 (provisional)"	"2022/15"	1402	Not Applicable	Not Applicable
+	"2022 Week 16 ending April 23, 2022 (provisional)"	"2022/16"	1342	Not Applicable	Not Applicable
+	"2022 Week 17 ending April 30, 2022 (provisional)"	"2022/17"	1420	Not Applicable	Not Applicable
+	"2022 Week 18 ending May 07, 2022 (provisional)"	"2022/18"	1428	Not Applicable	Not Applicable
+	"2022 Week 19 ending May 14, 2022 (provisional)"	"2022/19"	1659	Not Applicable	Not Applicable
+	"2022 Week 20 ending May 21, 2022 (provisional)"	"2022/20"	1738	Not Applicable	Not Applicable
+	"2022 Week 21 ending May 28, 2022 (provisional)"	"2022/21"	1931	Not Applicable	Not Applicable
+	"2022 Week 22 ending June 04, 2022 (provisional)"	"2022/22"	1988	Not Applicable	Not Applicable
+	"2022 Week 23 ending June 11, 2022 (provisional)"	"2022/23"	2112	Not Applicable	Not Applicable
+	"2022 Week 24 ending June 18, 2022 (provisional)"	"2022/24"	2181	Not Applicable	Not Applicable
+	"2022 Week 25 ending June 25, 2022 (provisional)"	"2022/25"	2309	Not Applicable	Not Applicable
+	"2022 Week 26 ending July 02, 2022 (provisional)"	"2022/26"	2400	Not Applicable	Not Applicable
+	"2022 Week 27 ending July 09, 2022 (provisional)"	"2022/27"	2569	Not Applicable	Not Applicable
+	"2022 Week 28 ending July 16, 2022 (provisional)"	"2022/28"	2900	Not Applicable	Not Applicable
+	"2022 Week 29 ending July 23, 2022 (provisional)"	"2022/29"	3190	Not Applicable	Not Applicable
+	"2022 Week 30 ending July 30, 2022 (provisional)"	"2022/30"	3358	Not Applicable	Not Applicable
+	"2022 Week 31 ending August 06, 2022 (provisional)"	"2022/31"	3318	Not Applicable	Not Applicable
+	"2022 Week 32 ending August 13, 2022 (provisional)"	"2022/32"	3237	Not Applicable	Not Applicable
+	"2022 Week 33 ending August 20, 2022 (provisional)"	"2022/33"	3111	Not Applicable	Not Applicable
+	"2022 Week 34 ending August 27, 2022 (provisional)"	"2022/34"	2970	Not Applicable	Not Applicable
+	"2022 Week 35 ending September 03, 2022 (provisional)"	"2022/35"	2861	Not Applicable	Not Applicable
+	"2022 Week 36 ending September 10, 2022 (provisional)"	"2022/36"	2736	Not Applicable	Not Applicable
+	"2022 Week 37 ending September 17, 2022 (provisional)"	"2022/37"	2452	Not Applicable	Not Applicable
+	"2022 Week 38 ending September 24, 2022 (provisional)"	"2022/38"	2474	Not Applicable	Not Applicable
+	"2022 Week 39 ending October 01, 2022 (provisional)"	"2022/39"	2295	Not Applicable	Not Applicable
+	"2022 Week 40 ending October 08, 2022 (provisional)"	"2022/40"	2110	Not Applicable	Not Applicable
+	"2022 Week 41 ending October 15, 2022 (provisional)"	"2022/41"	2047	Not Applicable	Not Applicable
+	"2022 Week 42 ending October 22, 2022 (provisional)"	"2022/42"	2103	Not Applicable	Not Applicable
+	"2022 Week 43 ending October 29, 2022 (provisional)"	"2022/43"	2099	Not Applicable	Not Applicable
+	"2022 Week 44 ending November 05, 2022 (provisional)"	"2022/44"	2027	Not Applicable	Not Applicable
+	"2022 Week 45 ending November 12, 2022 (provisional)"	"2022/45"	1817	Not Applicable	Not Applicable
+	"2022 Week 46 ending November 19, 2022 (provisional)"	"2022/46"	1639	Not Applicable	Not Applicable
+"---"
+"Dataset: Provisional Mortality Statistics, 2018 through Last Month"
+"Query Parameters:"
+"Title: 2018_2021+_MMWR_COVID-19_Multiple_Cause"
+"MCD - ICD-10 Codes: U07.1 (COVID-19)"
+"MMWR Year/Week: 2018 Week 01 ending January 06, 2018; 2018 Week 02 ending January 13, 2018; 2018 Week 03 ending January 20,"
+"2018; 2018 Week 04 ending January 27, 2018; 2018 Week 05 ending February 03, 2018; 2018 Week 06 ending February 10, 2018; 2018"
+"Week 07 ending February 17, 2018; 2018 Week 08 ending February 24, 2018; 2018 Week 09 ending March 03, 2018; 2018 Week 10 ending"
+"March 10, 2018; 2018 Week 11 ending March 17, 2018; 2018 Week 12 ending March 24, 2018; 2018 Week 13 ending March 31, 2018; 2018"
+"Week 14 ending April 07, 2018; 2018 Week 15 ending April 14, 2018; 2018 Week 16 ending April 21, 2018; 2018 Week 17 ending April"
+"28, 2018; 2018 Week 18 ending May 05, 2018; 2018 Week 19 ending May 12, 2018; 2018 Week 20 ending May 19, 2018; 2018 Week 21"
+"ending May 26, 2018; 2018 Week 22 ending June 02, 2018; 2018 Week 23 ending June 09, 2018; 2018 Week 24 ending June 16, 2018;"
+"2018 Week 25 ending June 23, 2018; 2018 Week 26 ending June 30, 2018; 2018 Week 27 ending July 07, 2018; 2018 Week 28 ending"
+"July 14, 2018; 2018 Week 29 ending July 21, 2018; 2018 Week 30 ending July 28, 2018; 2018 Week 31 ending August 04, 2018; 2018"
+"Week 32 ending August 11, 2018; 2018 Week 33 ending August 18, 2018; 2018 Week 34 ending August 25, 2018; 2018 Week 35 ending"
+"September 01, 2018; 2018 Week 36 ending September 08, 2018; 2018 Week 37 ending September 15, 2018; 2018 Week 38 ending"
+"September 22, 2018; 2018 Week 39 ending September 29, 2018; 2018 Week 40 ending October 06, 2018; 2018 Week 41 ending October"
+"13, 2018; 2018 Week 42 ending October 20, 2018; 2018 Week 43 ending October 27, 2018; 2018 Week 44 ending November 03, 2018;"
+"2018 Week 45 ending November 10, 2018; 2018 Week 46 ending November 17, 2018; 2018 Week 47 ending November 24, 2018; 2018 Week"
+"48 ending December 01, 2018; 2018 Week 49 ending December 08, 2018; 2018 Week 50 ending December 15, 2018; 2018 Week 51 ending"
+"December 22, 2018; 2018 Week 52 ending December 29, 2018; 2019 Week 01 ending January 05, 2019; 2019 Week 02 ending January 12,"
+"2019; 2019 Week 03 ending January 19, 2019; 2019 Week 04 ending January 26, 2019; 2019 Week 05 ending February 02, 2019; 2019"
+"Week 06 ending February 09, 2019; 2019 Week 07 ending February 16, 2019; 2019 Week 08 ending February 23, 2019; 2019 Week 09"
+"ending March 02, 2019; 2019 Week 10 ending March 09, 2019; 2019 Week 11 ending March 16, 2019; 2019 Week 12 ending March 23,"
+"2019; 2019 Week 13 ending March 30, 2019; 2019 Week 14 ending April 06, 2019; 2019 Week 15 ending April 13, 2019; 2019 Week 16"
+"ending April 20, 2019; 2019 Week 17 ending April 27, 2019; 2019 Week 18 ending May 04, 2019; 2019 Week 19 ending May 11, 2019;"
+"2019 Week 20 ending May 18, 2019; 2019 Week 21 ending May 25, 2019; 2019 Week 22 ending June 01, 2019; 2019 Week 23 ending June"
+"08, 2019; 2019 Week 24 ending June 15, 2019; 2019 Week 25 ending June 22, 2019; 2019 Week 26 ending June 29, 2019; 2019 Week 27"
+"ending July 06, 2019; 2019 Week 28 ending July 13, 2019; 2019 Week 29 ending July 20, 2019; 2019 Week 30 ending July 27, 2019;"
+"2019 Week 31 ending August 03, 2019; 2019 Week 32 ending August 10, 2019; 2019 Week 33 ending August 17, 2019; 2019 Week 34"
+"ending August 24, 2019; 2019 Week 35 ending August 31, 2019; 2019 Week 36 ending September 07, 2019; 2019 Week 37 ending"
+"September 14, 2019; 2019 Week 38 ending September 21, 2019; 2019 Week 39 ending September 28, 2019; 2019 Week 40 ending October"
+"05, 2019; 2019 Week 41 ending October 12, 2019; 2019 Week 42 ending October 19, 2019; 2019 Week 43 ending October 26, 2019; 2019"
+"Week 44 ending November 02, 2019; 2019 Week 45 ending November 09, 2019; 2019 Week 46 ending November 16, 2019; 2019 Week 47"
+"ending November 23, 2019; 2019 Week 48 ending November 30, 2019; 2019 Week 49 ending December 07, 2019; 2019 Week 50 ending"
+"December 14, 2019; 2019 Week 51 ending December 21, 2019; 2019 Week 52 ending December 28, 2019; 2020 Week 01 ending January 04,"
+"2020; 2020 Week 02 ending January 11, 2020; 2020 Week 03 ending January 18, 2020; 2020 Week 04 ending January 25, 2020; 2020"
+"Week 05 ending February 01, 2020; 2020 Week 06 ending February 08, 2020; 2020 Week 07 ending February 15, 2020; 2020 Week 08"
+"ending February 22, 2020; 2020 Week 09 ending February 29, 2020; 2020 Week 10 ending March 07, 2020; 2020 Week 11 ending March"
+"14, 2020; 2020 Week 12 ending March 21, 2020; 2020 Week 13 ending March 28, 2020; 2020 Week 14 ending April 04, 2020; 2020 Week"
+"15 ending April 11, 2020; 2020 Week 16 ending April 18, 2020; 2020 Week 17 ending April 25, 2020; 2020 Week 18 ending May 02,"
+"2020; 2020 Week 19 ending May 09, 2020; 2020 Week 20 ending May 16, 2020; 2020 Week 21 ending May 23, 2020; 2020 Week 22 ending"
+"May 30, 2020; 2020 Week 23 ending June 06, 2020; 2020 Week 24 ending June 13, 2020; 2020 Week 25 ending June 20, 2020; 2020 Week"
+"26 ending June 27, 2020; 2020 Week 27 ending July 04, 2020; 2020 Week 28 ending July 11, 2020; 2020 Week 29 ending July 18,"
+"2020; 2020 Week 30 ending July 25, 2020; 2020 Week 31 ending August 01, 2020; 2020 Week 32 ending August 08, 2020; 2020 Week 33"
+"ending August 15, 2020; 2020 Week 34 ending August 22, 2020; 2020 Week 35 ending August 29, 2020; 2020 Week 36 ending September"
+"05, 2020; 2020 Week 37 ending September 12, 2020; 2020 Week 38 ending September 19, 2020; 2020 Week 39 ending September 26,"
+"2020; 2020 Week 40 ending October 03, 2020; 2020 Week 41 ending October 10, 2020; 2020 Week 42 ending October 17, 2020; 2020"
+"Week 43 ending October 24, 2020; 2020 Week 44 ending October 31, 2020; 2020 Week 45 ending November 07, 2020; 2020 Week 46"
+"ending November 14, 2020; 2020 Week 47 ending November 21, 2020; 2020 Week 48 ending November 28, 2020; 2020 Week 49 ending"
+"December 05, 2020; 2020 Week 50 ending December 12, 2020; 2020 Week 51 ending December 19, 2020; 2020 Week 52 ending December"
+"26, 2020; 2020 Week 53 ending January 02, 2021; 2021 Week 01 ending January 09, 2021 (provisional); 2021 Week 02 ending January"
+"16, 2021 (provisional); 2021 Week 03 ending January 23, 2021 (provisional); 2021 Week 04 ending January 30, 2021 (provisional);"
+"2021 Week 05 ending February 06, 2021 (provisional); 2021 Week 06 ending February 13, 2021 (provisional); 2021 Week 07 ending"
+"February 20, 2021 (provisional); 2021 Week 08 ending February 27, 2021 (provisional); 2021 Week 09 ending March 06, 2021"
+"(provisional); 2021 Week 10 ending March 13, 2021 (provisional); 2021 Week 11 ending March 20, 2021 (provisional); 2021 Week 12"
+"ending March 27, 2021 (provisional); 2021 Week 13 ending April 03, 2021 (provisional); 2021 Week 14 ending April 10, 2021"
+"(provisional); 2021 Week 15 ending April 17, 2021 (provisional); 2021 Week 16 ending April 24, 2021 (provisional); 2021 Week 17"
+"ending May 01, 2021 (provisional); 2021 Week 18 ending May 08, 2021 (provisional); 2021 Week 19 ending May 15, 2021"
+"(provisional); 2021 Week 20 ending May 22, 2021 (provisional); 2021 Week 21 ending May 29, 2021 (provisional); 2021 Week 22"
+"ending June 05, 2021 (provisional); 2021 Week 23 ending June 12, 2021 (provisional); 2021 Week 24 ending June 19, 2021"
+"(provisional); 2021 Week 25 ending June 26, 2021 (provisional); 2021 Week 26 ending July 03, 2021 (provisional); 2021 Week 27"
+"ending July 10, 2021 (provisional); 2021 Week 28 ending July 17, 2021 (provisional); 2021 Week 29 ending July 24, 2021"
+"(provisional); 2021 Week 30 ending July 31, 2021 (provisional); 2021 Week 31 ending August 07, 2021 (provisional); 2021 Week 32"
+"ending August 14, 2021 (provisional); 2021 Week 33 ending August 21, 2021 (provisional); 2021 Week 34 ending August 28, 2021"
+"(provisional); 2021 Week 35 ending September 04, 2021 (provisional); 2021 Week 36 ending September 11, 2021 (provisional); 2021"
+"Week 37 ending September 18, 2021 (provisional); 2021 Week 38 ending September 25, 2021 (provisional); 2021 Week 39 ending"
+"October 02, 2021 (provisional); 2021 Week 40 ending October 09, 2021 (provisional); 2021 Week 41 ending October 16, 2021"
+"(provisional); 2021 Week 42 ending October 23, 2021 (provisional); 2021 Week 43 ending October 30, 2021 (provisional); 2021 Week"
+"44 ending November 06, 2021 (provisional); 2021 Week 45 ending November 13, 2021 (provisional); 2021 Week 46 ending November 20,"
+"2021 (provisional); 2021 Week 47 ending November 27, 2021 (provisional); 2021 Week 48 ending December 04, 2021 (provisional);"
+"2021 Week 49 ending December 11, 2021 (provisional); 2021 Week 50 ending December 18, 2021 (provisional); 2021 Week 51 ending"
+"December 25, 2021 (provisional); 2021 Week 52 ending January 01, 2022 (provisional); 2022 Week 01 ending January 08, 2022"
+"(provisional); 2022 Week 02 ending January 15, 2022 (provisional); 2022 Week 03 ending January 22, 2022 (provisional); 2022 Week"
+"04 ending January 29, 2022 (provisional); 2022 Week 05 ending February 05, 2022 (provisional); 2022 Week 06 ending February 12,"
+"2022 (provisional); 2022 Week 07 ending February 19, 2022 (provisional); 2022 Week 08 ending February 26, 2022 (provisional);"
+"2022 Week 09 ending March 05, 2022 (provisional); 2022 Week 10 ending March 12, 2022 (provisional); 2022 Week 11 ending March"
+"19, 2022 (provisional); 2022 Week 12 ending March 26, 2022 (provisional); 2022 Week 13 ending April 02, 2022 (provisional); 2022"
+"Week 14 ending April 09, 2022 (provisional); 2022 Week 15 ending April 16, 2022 (provisional); 2022 Week 16 ending April 23,"
+"2022 (provisional); 2022 Week 17 ending April 30, 2022 (provisional); 2022 Week 18 ending May 07, 2022 (provisional); 2022 Week"
+"19 ending May 14, 2022 (provisional); 2022 Week 20 ending May 21, 2022 (provisional); 2022 Week 21 ending May 28, 2022"
+"(provisional); 2022 Week 22 ending June 04, 2022 (provisional); 2022 Week 23 ending June 11, 2022 (provisional); 2022 Week 24"
+"ending June 18, 2022 (provisional); 2022 Week 25 ending June 25, 2022 (provisional); 2022 Week 26 ending July 02, 2022"
+"(provisional); 2022 Week 27 ending July 09, 2022 (provisional); 2022 Week 28 ending July 16, 2022 (provisional); 2022 Week 29"
+"ending July 23, 2022 (provisional); 2022 Week 30 ending July 30, 2022 (provisional); 2022 Week 31 ending August 06, 2022"
+"(provisional); 2022 Week 32 ending August 13, 2022 (provisional); 2022 Week 33 ending August 20, 2022 (provisional); 2022 Week"
+"34 ending August 27, 2022 (provisional); 2022 Week 35 ending September 03, 2022 (provisional); 2022 Week 36 ending September 10,"
+"2022 (provisional); 2022 Week 37 ending September 17, 2022 (provisional); 2022 Week 38 ending September 24, 2022 (provisional);"
+"2022 Week 39 ending October 01, 2022 (provisional); 2022 Week 40 ending October 08, 2022 (provisional); 2022 Week 41 ending"
+"October 15, 2022 (provisional); 2022 Week 42 ending October 22, 2022 (provisional); 2022 Week 43 ending October 29, 2022"
+"(provisional); 2022 Week 44 ending November 05, 2022 (provisional); 2022 Week 45 ending November 12, 2022 (provisional); 2022"
+"Week 46 ending November 19, 2022 (provisional)"
+"Group By: MMWR Week"
+"Show Totals: False"
+"Show Zero Values: True"
+"Show Suppressed: True"
+"Calculate Rates Per: 1,000,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/mcd-provisional.html for more information."
+"---"
+"Query Date: Dec 9, 2022 11:13:53 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
+"System, Provisional Mortality on CDC WONDER Online Database. Data are from the final Multiple Cause of Death Files, 2018-2020,"
+"and from provisional data for years 2021-2022, as compiled from data provided by the 57 vital statistics jurisdictions through"
+"the Vital Statistics Cooperative Program. Accessed at http://wonder.cdc.gov/mcd-icd10-provisional.html on Dec 9, 2022 11:13:53"
+"PM"
+"---"
+Caveats:
+"1. Population and rates are labeled 'Not Applicable' when location of Death's Occurrence, Autopsy, Place of Death, Weekday or"
+"Month are grouped by or limited, due to lack of a valid population. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd-provisional.html#NotApplicableRates."
+"2. Data are Suppressed when the data meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd-provisional.html#Assurance of Confidentiality."
+"3. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd-provisional.html#Unreliable."
+"4. Changes to cause of death classification affect reporting trends. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd-provisional.html#ICD-10 Changes."
+"5. Deaths occurring through November 19, 2022 as of December 04, 2022."
