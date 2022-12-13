@@ -257,7 +257,7 @@
 "---"
 "Dataset: Provisional Mortality Statistics, 2018 through Last Month"
 "Query Parameters:"
-"Title: 2018_2021+_MMWR_COVID-19_All_Cause"
+"Title: 2018+_MMWR_COVID-19_All_Cause"
 "MMWR Year/Week: 2018 Week 01 ending January 06, 2018; 2018 Week 02 ending January 13, 2018; 2018 Week 03 ending January 20,"
 "2018; 2018 Week 04 ending January 27, 2018; 2018 Week 05 ending February 03, 2018; 2018 Week 06 ending February 10, 2018; 2018"
 "Week 07 ending February 17, 2018; 2018 Week 08 ending February 24, 2018; 2018 Week 09 ending March 03, 2018; 2018 Week 10 ending"

@@ -1,0 +1,414 @@
+AnalysisDate	Time Period	MMWRyear	MMWRweek	Weekending	RaceEthnicity	Sex	AgeGroup	Deaths (weighted)	COVID19 (weighted)	Deaths (unweighted)	COVID19 (unweighted)	Average number of deaths (weighted)	Average number of deaths (unweighted)	Number above average (weighted)	Percent above average (weighted)	Number above average (unweighted)	Percent above average (unweighted)	Footnote	Geography
+12/18/2022	2015-2019	2015	1	01/10/2015	All Race/Ethnicity Groups	All Sexes	All Ages	61882	0	61882	0	60499	60499						United States
+12/18/2022	2015-2019	2016	1	01/09/2016	All Race/Ethnicity Groups	All Sexes	All Ages	55933	0	55933	0	60499	60499						United States
+12/18/2022	2015-2019	2017	1	01/07/2017	All Race/Ethnicity Groups	All Sexes	All Ages	59898	0	59898	0	60499	60499						United States
+12/18/2022	2015-2019	2018	1	01/06/2018	All Race/Ethnicity Groups	All Sexes	All Ages	66317	0	66317	0	60499	60499						United States
+12/18/2022	2015-2019	2019	1	01/05/2019	All Race/Ethnicity Groups	All Sexes	All Ages	58463	0	58463	0	60499	60499						United States
+12/18/2022	2020	2020	1	01/04/2020	All Race/Ethnicity Groups	All Sexes	All Ages	60173	0	60173	0	60173	60173	-326	-0.5	-326	-0.5		United States
+12/18/2022	2021	2021	1	01/09/2021	All Race/Ethnicity Groups	All Sexes	All Ages	87041	25995	87041	25995	87041	87041	26542	43.9	26542	43.9	Data may be incomplete in recent weeks.	United States
+12/18/2022	2022	2022	1	01/08/2022	All Race/Ethnicity Groups	All Sexes	All Ages	79772	15133	79772	15133	79772	79772	19273	31.9	19273	31.9	Data may be incomplete in recent weeks.	United States
+12/18/2022	2015-2019	2015	2	01/17/2015	All Race/Ethnicity Groups	All Sexes	All Ages	61267	0	61267	0	60844	60844						United States
+12/18/2022	2015-2019	2016	2	01/16/2016	All Race/Ethnicity Groups	All Sexes	All Ages	55660	0	55660	0	60844	60844						United States
+12/18/2022	2015-2019	2017	2	01/14/2017	All Race/Ethnicity Groups	All Sexes	All Ages	61113	0	61113	0	60844	60844						United States
+12/18/2022	2015-2019	2018	2	01/13/2018	All Race/Ethnicity Groups	All Sexes	All Ages	67664	0	67664	0	60844	60844						United States
+12/18/2022	2015-2019	2019	2	01/12/2019	All Race/Ethnicity Groups	All Sexes	All Ages	58514	0	58514	0	60844	60844						United States
+12/18/2022	2020	2020	2	01/11/2020	All Race/Ethnicity Groups	All Sexes	All Ages	60732	1	60732	1	60732	60732	-112	-0.2	-112	-0.2		United States
+12/18/2022	2021	2021	2	01/16/2021	All Race/Ethnicity Groups	All Sexes	All Ages	87404	25715	87404	25715	87404	87404	26560	43.7	26560	43.7	Data may be incomplete in recent weeks.	United States
+12/18/2022	2022	2022	2	01/15/2022	All Race/Ethnicity Groups	All Sexes	All Ages	85059	19106	85059	19106	85059	85059	24215	39.8	24215	39.8	Data may be incomplete in recent weeks.	United States
+12/18/2022	2015-2019	2015	3	01/24/2015	All Race/Ethnicity Groups	All Sexes	All Ages	58743	0	58743	0	59329	59329						United States
+12/18/2022	2015-2019	2016	3	01/23/2016	All Race/Ethnicity Groups	All Sexes	All Ages	55285	0	55285	0	59329	59329						United States
+12/18/2022	2015-2019	2017	3	01/21/2017	All Race/Ethnicity Groups	All Sexes	All Ages	59444	0	59444	0	59329	59329						United States
+12/18/2022	2015-2019	2018	3	01/20/2018	All Race/Ethnicity Groups	All Sexes	All Ages	64820	0	64820	0	59329	59329						United States
+12/18/2022	2015-2019	2019	3	01/19/2019	All Race/Ethnicity Groups	All Sexes	All Ages	58354	0	58354	0	59329	59329						United States
+12/18/2022	2020	2020	3	01/18/2020	All Race/Ethnicity Groups	All Sexes	All Ages	59359	2	59359	2	59359	59359	30	0.1	30	0.1		United States
+12/18/2022	2021	2021	3	01/23/2021	All Race/Ethnicity Groups	All Sexes	All Ages	83675	23706	83675	23706	83675	83675	24346	41	24346	41	Data may be incomplete in recent weeks.	United States
+12/18/2022	2022	2022	3	01/22/2022	All Race/Ethnicity Groups	All Sexes	All Ages	85626	21364	85626	21364	85626	85626	26297	44.3	26297	44.3	Data may be incomplete in recent weeks.	United States
+12/18/2022	2015-2019	2015	4	01/31/2015	All Race/Ethnicity Groups	All Sexes	All Ages	57386	0	57386	0	58446	58446						United States
+12/18/2022	2015-2019	2016	4	01/30/2016	All Race/Ethnicity Groups	All Sexes	All Ages	55714	0	55714	0	58446	58446						United States
+12/18/2022	2015-2019	2017	4	01/28/2017	All Race/Ethnicity Groups	All Sexes	All Ages	58176	0	58176	0	58446	58446						United States
+12/18/2022	2015-2019	2018	4	01/27/2018	All Race/Ethnicity Groups	All Sexes	All Ages	62922	0	62922	0	58446	58446						United States
+12/18/2022	2015-2019	2019	4	01/26/2019	All Race/Ethnicity Groups	All Sexes	All Ages	58034	0	58034	0	58446	58446						United States
+12/18/2022	2020	2020	4	01/25/2020	All Race/Ethnicity Groups	All Sexes	All Ages	59158	2	59158	2	59158	59158	712	1.2	712	1.2		United States
+12/18/2022	2021	2021	4	01/30/2021	All Race/Ethnicity Groups	All Sexes	All Ages	79193	20335	79193	20335	79193	79193	20747	35.5	20747	35.5	Data may be incomplete in recent weeks.	United States
+12/18/2022	2022	2022	4	01/29/2022	All Race/Ethnicity Groups	All Sexes	All Ages	85027	20990	85027	20990	85027	85027	26581	45.5	26581	45.5	Data may be incomplete in recent weeks.	United States
+12/18/2022	2015-2019	2015	5	02/07/2015	All Race/Ethnicity Groups	All Sexes	All Ages	57398	0	57398	0	58067	58067						United States
+12/18/2022	2015-2019	2016	5	02/06/2016	All Race/Ethnicity Groups	All Sexes	All Ages	55001	0	55001	0	58067	58067						United States
+12/18/2022	2015-2019	2017	5	02/04/2017	All Race/Ethnicity Groups	All Sexes	All Ages	58535	0	58535	0	58067	58067						United States
+12/18/2022	2015-2019	2018	5	02/03/2018	All Race/Ethnicity Groups	All Sexes	All Ages	61124	0	61124	0	58067	58067						United States
+12/18/2022	2015-2019	2019	5	02/02/2019	All Race/Ethnicity Groups	All Sexes	All Ages	58278	0	58278	0	58067	58067						United States
+12/18/2022	2020	2020	5	02/01/2020	All Race/Ethnicity Groups	All Sexes	All Ages	58826	0	58826	0	58826	58826	759	1.3	759	1.3		United States
+12/18/2022	2021	2021	5	02/06/2021	All Race/Ethnicity Groups	All Sexes	All Ages	76516	17067	76516	17067	76516	76516	18449	31.8	18449	31.8	Data may be incomplete in recent weeks.	United States
+12/18/2022	2022	2022	5	02/05/2022	All Race/Ethnicity Groups	All Sexes	All Ages	81148	18761	81148	18761	81148	81148	23081	39.7	23081	39.7	Data may be incomplete in recent weeks.	United States
+12/18/2022	2015-2019	2015	6	02/14/2015	All Race/Ethnicity Groups	All Sexes	All Ages	56520	0	56520	0	58161	58161						United States
+12/18/2022	2015-2019	2016	6	02/13/2016	All Race/Ethnicity Groups	All Sexes	All Ages	55227	0	55227	0	58161	58161						United States
+12/18/2022	2015-2019	2017	6	02/11/2017	All Race/Ethnicity Groups	All Sexes	All Ages	59161	0	59161	0	58161	58161						United States
+12/18/2022	2015-2019	2018	6	02/10/2018	All Race/Ethnicity Groups	All Sexes	All Ages	61243	0	61243	0	58161	58161						United States
+12/18/2022	2015-2019	2019	6	02/09/2019	All Race/Ethnicity Groups	All Sexes	All Ages	58653	0	58653	0	58161	58161						United States
+12/18/2022	2020	2020	6	02/08/2020	All Race/Ethnicity Groups	All Sexes	All Ages	59478	3	59478	3	59478	59478	1317	2.3	1317	2.3		United States
+12/18/2022	2021	2021	6	02/13/2021	All Race/Ethnicity Groups	All Sexes	All Ages	71518	13550	71518	13550	71518	71518	13357	23	13357	23	Data may be incomplete in recent weeks.	United States
+12/18/2022	2022	2022	6	02/12/2022	All Race/Ethnicity Groups	All Sexes	All Ages	77058	15319	77058	15319	77058	77058	18897	32.5	18897	32.5	Data may be incomplete in recent weeks.	United States
+12/18/2022	2015-2019	2015	7	02/21/2015	All Race/Ethnicity Groups	All Sexes	All Ages	56467	0	56467	0	57801	57801						United States
+12/18/2022	2015-2019	2016	7	02/20/2016	All Race/Ethnicity Groups	All Sexes	All Ages	55895	0	55895	0	57801	57801						United States
+12/18/2022	2015-2019	2017	7	02/18/2017	All Race/Ethnicity Groups	All Sexes	All Ages	58590	0	58590	0	57801	57801						United States
+12/18/2022	2015-2019	2018	7	02/17/2018	All Race/Ethnicity Groups	All Sexes	All Ages	59931	0	59931	0	57801	57801						United States
+12/18/2022	2015-2019	2019	7	02/16/2019	All Race/Ethnicity Groups	All Sexes	All Ages	58120	0	58120	0	57801	57801						United States
+12/18/2022	2020	2020	7	02/15/2020	All Race/Ethnicity Groups	All Sexes	All Ages	58808	3	58808	3	58808	58808	1007	1.7	1007	1.7		United States
+12/18/2022	2021	2021	7	02/20/2021	All Race/Ethnicity Groups	All Sexes	All Ages	69520	10834	69520	10834	69520	69520	11719	20.3	11719	20.3	Data may be incomplete in recent weeks.	United States
+12/18/2022	2022	2022	7	02/19/2022	All Race/Ethnicity Groups	All Sexes	All Ages	70824	11547	70824	11547	70824	70824	13023	22.5	13023	22.5	Data may be incomplete in recent weeks.	United States
+12/18/2022	2015-2019	2015	8	02/28/2015	All Race/Ethnicity Groups	All Sexes	All Ages	55772	0	55772	0	57041	57041						United States
+12/18/2022	2015-2019	2016	8	02/27/2016	All Race/Ethnicity Groups	All Sexes	All Ages	54983	0	54983	0	57041	57041						United States
+12/18/2022	2015-2019	2017	8	02/25/2017	All Race/Ethnicity Groups	All Sexes	All Ages	58384	0	58384	0	57041	57041						United States
+12/18/2022	2015-2019	2018	8	02/24/2018	All Race/Ethnicity Groups	All Sexes	All Ages	57934	0	57934	0	57041	57041						United States
+12/18/2022	2015-2019	2019	8	02/23/2019	All Race/Ethnicity Groups	All Sexes	All Ages	58134	0	58134	0	57041	57041						United States
+12/18/2022	2020	2020	8	02/22/2020	All Race/Ethnicity Groups	All Sexes	All Ages	58906	6	58906	6	58906	58906	1865	3.3	1865	3.3		United States
+12/18/2022	2021	2021	8	02/27/2021	All Race/Ethnicity Groups	All Sexes	All Ages	66742	8674	66742	8674	66742	66742	9701	17	9701	17	Data may be incomplete in recent weeks.	United States
+12/18/2022	2022	2022	8	02/26/2022	All Race/Ethnicity Groups	All Sexes	All Ages	65997	8282	65997	8282	65997	65997	8956	15.7	8956	15.7	Data may be incomplete in recent weeks.	United States
+12/18/2022	2015-2019	2015	9	03/07/2015	All Race/Ethnicity Groups	All Sexes	All Ages	55831	0	55831	0	56817	56817						United States
+12/18/2022	2015-2019	2016	9	03/05/2016	All Race/Ethnicity Groups	All Sexes	All Ages	55991	0	55991	0	56817	56817						United States
+12/18/2022	2015-2019	2017	9	03/04/2017	All Race/Ethnicity Groups	All Sexes	All Ages	57358	0	57358	0	56817	56817						United States
+12/18/2022	2015-2019	2018	9	03/03/2018	All Race/Ethnicity Groups	All Sexes	All Ages	56829	0	56829	0	56817	56817						United States
+12/18/2022	2015-2019	2019	9	03/02/2019	All Race/Ethnicity Groups	All Sexes	All Ages	58074	0	58074	0	56817	56817						United States
+12/18/2022	2020	2020	9	02/29/2020	All Race/Ethnicity Groups	All Sexes	All Ages	59330	9	59330	9	59330	59330	2513	4.4	2513	4.4		United States
+12/18/2022	2021	2021	9	03/06/2021	All Race/Ethnicity Groups	All Sexes	All Ages	63707	6742	63707	6742	63707	63707	6890	12.1	6890	12.1	Data may be incomplete in recent weeks.	United States
+12/18/2022	2022	2022	9	03/05/2022	All Race/Ethnicity Groups	All Sexes	All Ages	64420	6045	64420	6045	64420	64420	7603	13.4	7603	13.4	Data may be incomplete in recent weeks.	United States
+12/18/2022	2015-2019	2015	10	03/14/2015	All Race/Ethnicity Groups	All Sexes	All Ages	55382	0	55382	0	57021	57021						United States
+12/18/2022	2015-2019	2016	10	03/12/2016	All Race/Ethnicity Groups	All Sexes	All Ages	56232	0	56232	0	57021	57021						United States
+12/18/2022	2015-2019	2017	10	03/11/2017	All Race/Ethnicity Groups	All Sexes	All Ages	57595	0	57595	0	57021	57021						United States
+12/18/2022	2015-2019	2018	10	03/10/2018	All Race/Ethnicity Groups	All Sexes	All Ages	57226	0	57226	0	57021	57021						United States
+12/18/2022	2015-2019	2019	10	03/09/2019	All Race/Ethnicity Groups	All Sexes	All Ages	58669	0	58669	0	57021	57021						United States
+12/18/2022	2020	2020	10	03/07/2020	All Race/Ethnicity Groups	All Sexes	All Ages	59692	38	59692	38	59692	59692	2671	4.7	2671	4.7		United States
+12/18/2022	2021	2021	10	03/13/2021	All Race/Ethnicity Groups	All Sexes	All Ages	61873	5733	61873	5733	61873	61873	4852	8.5	4852	8.5	Data may be incomplete in recent weeks.	United States
+12/18/2022	2022	2022	10	03/12/2022	All Race/Ethnicity Groups	All Sexes	All Ages	61811	4394	61811	4394	61811	61811	4790	8.4	4790	8.4	Data may be incomplete in recent weeks.	United States
+12/18/2022	2015-2019	2015	11	03/21/2015	All Race/Ethnicity Groups	All Sexes	All Ages	54375	0	54375	0	56039	56039						United States
+12/18/2022	2015-2019	2016	11	03/19/2016	All Race/Ethnicity Groups	All Sexes	All Ages	54555	0	54555	0	56039	56039						United States
+12/18/2022	2015-2019	2017	11	03/18/2017	All Race/Ethnicity Groups	All Sexes	All Ages	56779	0	56779	0	56039	56039						United States
+12/18/2022	2015-2019	2018	11	03/17/2018	All Race/Ethnicity Groups	All Sexes	All Ages	56462	0	56462	0	56039	56039						United States
+12/18/2022	2015-2019	2019	11	03/16/2019	All Race/Ethnicity Groups	All Sexes	All Ages	58023	0	58023	0	56039	56039						United States
+12/18/2022	2020	2020	11	03/14/2020	All Race/Ethnicity Groups	All Sexes	All Ages	58667	60	58667	60	58667	58667	2628	4.7	2628	4.7		United States
+12/18/2022	2021	2021	11	03/20/2021	All Race/Ethnicity Groups	All Sexes	All Ages	60376	4911	60376	4911	60376	60376	4337	7.7	4337	7.7	Data may be incomplete in recent weeks.	United States
+12/18/2022	2022	2022	11	03/19/2022	All Race/Ethnicity Groups	All Sexes	All Ages	60529	3120	60529	3120	60529	60529	4490	8	4490	8	Data may be incomplete in recent weeks.	United States
+12/18/2022	2015-2019	2015	12	03/28/2015	All Race/Ethnicity Groups	All Sexes	All Ages	53341	0	53341	0	55682	55682						United States
+12/18/2022	2015-2019	2016	12	03/26/2016	All Race/Ethnicity Groups	All Sexes	All Ages	54775	0	54775	0	55682	55682						United States
+12/18/2022	2015-2019	2017	12	03/25/2017	All Race/Ethnicity Groups	All Sexes	All Ages	57161	0	57161	0	55682	55682						United States
+12/18/2022	2015-2019	2018	12	03/24/2018	All Race/Ethnicity Groups	All Sexes	All Ages	55912	0	55912	0	55682	55682						United States
+12/18/2022	2015-2019	2019	12	03/23/2019	All Race/Ethnicity Groups	All Sexes	All Ages	57219	0	57219	0	55682	55682						United States
+12/18/2022	2020	2020	12	03/21/2020	All Race/Ethnicity Groups	All Sexes	All Ages	59216	588	59216	588	59216	59216	3534	6.3	3534	6.3		United States
+12/18/2022	2021	2021	12	03/27/2021	All Race/Ethnicity Groups	All Sexes	All Ages	60825	4464	60825	4464	60825	60825	5143	9.2	5143	9.2	Data may be incomplete in recent weeks.	United States
+12/18/2022	2022	2022	12	03/26/2022	All Race/Ethnicity Groups	All Sexes	All Ages	58549	2505	58549	2505	58549	58549	2867	5.1	2867	5.1	Data may be incomplete in recent weeks.	United States
+12/18/2022	2015-2019	2015	13	04/04/2015	All Race/Ethnicity Groups	All Sexes	All Ages	53127	0	53127	0	54952	54952						United States
+12/18/2022	2015-2019	2016	13	04/02/2016	All Race/Ethnicity Groups	All Sexes	All Ages	53986	0	53986	0	54952	54952						United States
+12/18/2022	2015-2019	2017	13	04/01/2017	All Race/Ethnicity Groups	All Sexes	All Ages	55825	0	55825	0	54952	54952						United States
+12/18/2022	2015-2019	2018	13	03/31/2018	All Race/Ethnicity Groups	All Sexes	All Ages	55045	0	55045	0	54952	54952						United States
+12/18/2022	2015-2019	2019	13	03/30/2019	All Race/Ethnicity Groups	All Sexes	All Ages	56776	0	56776	0	54952	54952						United States
+12/18/2022	2020	2020	13	03/28/2020	All Race/Ethnicity Groups	All Sexes	All Ages	63013	3216	63013	3216	63013	63013	8061	14.7	8061	14.7		United States
+12/18/2022	2021	2021	13	04/03/2021	All Race/Ethnicity Groups	All Sexes	All Ages	58707	4213	58707	4213	58707	58707	3755	6.8	3755	6.8	Data may be incomplete in recent weeks.	United States
+12/18/2022	2022	2022	13	04/02/2022	All Race/Ethnicity Groups	All Sexes	All Ages	58006	1904	58006	1904	58006	58006	3054	5.6	3054	5.6	Data may be incomplete in recent weeks.	United States
+12/18/2022	2015-2019	2015	14	04/11/2015	All Race/Ethnicity Groups	All Sexes	All Ages	52791	0	52791	0	54874	54874						United States
+12/18/2022	2015-2019	2016	14	04/09/2016	All Race/Ethnicity Groups	All Sexes	All Ages	54179	0	54179	0	54874	54874						United States
+12/18/2022	2015-2019	2017	14	04/08/2017	All Race/Ethnicity Groups	All Sexes	All Ages	55267	0	55267	0	54874	54874						United States
+12/18/2022	2015-2019	2018	14	04/07/2018	All Race/Ethnicity Groups	All Sexes	All Ages	55420	0	55420	0	54874	54874						United States
+12/18/2022	2015-2019	2019	14	04/06/2019	All Race/Ethnicity Groups	All Sexes	All Ages	56713	0	56713	0	54874	54874						United States
+12/18/2022	2020	2020	14	04/04/2020	All Race/Ethnicity Groups	All Sexes	All Ages	72281	10129	72281	10129	72281	72281	17407	31.7	17407	31.7		United States
+12/18/2022	2021	2021	14	04/10/2021	All Race/Ethnicity Groups	All Sexes	All Ages	61003	4326	61003	4326	61003	61003	6129	11.2	6129	11.2	Data may be incomplete in recent weeks.	United States
+12/18/2022	2022	2022	14	04/09/2022	All Race/Ethnicity Groups	All Sexes	All Ages	57749	1553	57749	1553	57749	57749	2875	5.2	2875	5.2	Data may be incomplete in recent weeks.	United States
+12/18/2022	2015-2019	2015	15	04/18/2015	All Race/Ethnicity Groups	All Sexes	All Ages	52947	0	52947	0	54502	54502						United States
+12/18/2022	2015-2019	2016	15	04/16/2016	All Race/Ethnicity Groups	All Sexes	All Ages	53603	0	53603	0	54502	54502						United States
+12/18/2022	2015-2019	2017	15	04/15/2017	All Race/Ethnicity Groups	All Sexes	All Ages	54969	0	54969	0	54502	54502						United States
+12/18/2022	2015-2019	2018	15	04/14/2018	All Race/Ethnicity Groups	All Sexes	All Ages	55354	0	55354	0	54502	54502						United States
+12/18/2022	2015-2019	2019	15	04/13/2019	All Race/Ethnicity Groups	All Sexes	All Ages	55635	0	55635	0	54502	54502						United States
+12/18/2022	2020	2020	15	04/11/2020	All Race/Ethnicity Groups	All Sexes	All Ages	79077	16323	79077	16323	79077	79077	24575	45.1	24575	45.1		United States
+12/18/2022	2021	2021	15	04/17/2021	All Race/Ethnicity Groups	All Sexes	All Ages	59155	4460	59155	4460	59155	59155	4653	8.5	4653	8.5	Data may be incomplete in recent weeks.	United States
+12/18/2022	2022	2022	15	04/16/2022	All Race/Ethnicity Groups	All Sexes	All Ages	57783	1403	57783	1403	57783	57783	3281	6	3281	6	Data may be incomplete in recent weeks.	United States
+12/18/2022	2015-2019	2015	16	04/25/2015	All Race/Ethnicity Groups	All Sexes	All Ages	51709	0	51709	0	53376	53376						United States
+12/18/2022	2015-2019	2016	16	04/23/2016	All Race/Ethnicity Groups	All Sexes	All Ages	53260	0	53260	0	53376	53376						United States
+12/18/2022	2015-2019	2017	16	04/22/2017	All Race/Ethnicity Groups	All Sexes	All Ages	53167	0	53167	0	53376	53376						United States
+12/18/2022	2015-2019	2018	16	04/21/2018	All Race/Ethnicity Groups	All Sexes	All Ages	54152	0	54152	0	53376	53376						United States
+12/18/2022	2015-2019	2019	16	04/20/2019	All Race/Ethnicity Groups	All Sexes	All Ages	54590	0	54590	0	53376	53376						United States
+12/18/2022	2020	2020	16	04/18/2020	All Race/Ethnicity Groups	All Sexes	All Ages	76793	17203	76793	17203	76793	76793	23417	43.9	23417	43.9		United States
+12/18/2022	2021	2021	16	04/24/2021	All Race/Ethnicity Groups	All Sexes	All Ages	60269	4614	60269	4614	60269	60269	6893	12.9	6893	12.9	Data may be incomplete in recent weeks.	United States
+12/18/2022	2022	2022	16	04/23/2022	All Race/Ethnicity Groups	All Sexes	All Ages	56718	1344	56718	1344	56718	56718	3342	6.3	3342	6.3	Data may be incomplete in recent weeks.	United States
+12/18/2022	2015-2019	2015	17	05/02/2015	All Race/Ethnicity Groups	All Sexes	All Ages	51585	0	51585	0	52754	52754						United States
+12/18/2022	2015-2019	2016	17	04/30/2016	All Race/Ethnicity Groups	All Sexes	All Ages	51164	0	51164	0	52754	52754						United States
+12/18/2022	2015-2019	2017	17	04/29/2017	All Race/Ethnicity Groups	All Sexes	All Ages	53404	0	53404	0	52754	52754						United States
+12/18/2022	2015-2019	2018	17	04/28/2018	All Race/Ethnicity Groups	All Sexes	All Ages	53848	0	53848	0	52754	52754						United States
+12/18/2022	2015-2019	2019	17	04/27/2019	All Race/Ethnicity Groups	All Sexes	All Ages	53770	0	53770	0	52754	52754						United States
+12/18/2022	2020	2020	17	04/25/2020	All Race/Ethnicity Groups	All Sexes	All Ages	73902	15553	73902	15553	73902	73902	21148	40.1	21148	40.1		United States
+12/18/2022	2021	2021	17	05/01/2021	All Race/Ethnicity Groups	All Sexes	All Ages	59834	4180	59834	4180	59834	59834	7080	13.4	7080	13.4	Data may be incomplete in recent weeks.	United States
+12/18/2022	2022	2022	17	04/30/2022	All Race/Ethnicity Groups	All Sexes	All Ages	57314	1422	57314	1422	57314	57314	4560	8.6	4560	8.6	Data may be incomplete in recent weeks.	United States
+12/18/2022	2015-2019	2015	18	05/09/2015	All Race/Ethnicity Groups	All Sexes	All Ages	51748	0	51748	0	52774	52774						United States
+12/18/2022	2015-2019	2016	18	05/07/2016	All Race/Ethnicity Groups	All Sexes	All Ages	51378	0	51378	0	52774	52774						United States
+12/18/2022	2015-2019	2017	18	05/06/2017	All Race/Ethnicity Groups	All Sexes	All Ages	52752	0	52752	0	52774	52774						United States
+12/18/2022	2015-2019	2018	18	05/05/2018	All Race/Ethnicity Groups	All Sexes	All Ages	53874	0	53874	0	52774	52774						United States
+12/18/2022	2015-2019	2019	18	05/04/2019	All Race/Ethnicity Groups	All Sexes	All Ages	54118	0	54118	0	52774	52774						United States
+12/18/2022	2020	2020	18	05/02/2020	All Race/Ethnicity Groups	All Sexes	All Ages	69293	13215	69293	13215	69293	69293	16519	31.3	16519	31.3		United States
+12/18/2022	2021	2021	18	05/08/2021	All Race/Ethnicity Groups	All Sexes	All Ages	59017	4015	59017	4015	59017	59017	6243	11.8	6243	11.8	Data may be incomplete in recent weeks.	United States
+12/18/2022	2022	2022	18	05/07/2022	All Race/Ethnicity Groups	All Sexes	All Ages	57512	1429	57512	1429	57512	57512	4738	9	4738	9	Data may be incomplete in recent weeks.	United States
+12/18/2022	2015-2019	2015	19	05/16/2015	All Race/Ethnicity Groups	All Sexes	All Ages	50775	0	50775	0	51956	51956						United States
+12/18/2022	2015-2019	2016	19	05/14/2016	All Race/Ethnicity Groups	All Sexes	All Ages	51112	0	51112	0	51956	51956						United States
+12/18/2022	2015-2019	2017	19	05/13/2017	All Race/Ethnicity Groups	All Sexes	All Ages	52076	0	52076	0	51956	51956						United States
+12/18/2022	2015-2019	2018	19	05/12/2018	All Race/Ethnicity Groups	All Sexes	All Ages	52215	0	52215	0	51956	51956						United States
+12/18/2022	2015-2019	2019	19	05/11/2019	All Race/Ethnicity Groups	All Sexes	All Ages	53602	0	53602	0	51956	51956						United States
+12/18/2022	2020	2020	19	05/09/2020	All Race/Ethnicity Groups	All Sexes	All Ages	66803	11237	66803	11237	66803	66803	14847	28.6	14847	28.6		United States
+12/18/2022	2021	2021	19	05/15/2021	All Race/Ethnicity Groups	All Sexes	All Ages	58472	3694	58472	3694	58472	58472	6516	12.5	6516	12.5	Data may be incomplete in recent weeks.	United States
+12/18/2022	2022	2022	19	05/14/2022	All Race/Ethnicity Groups	All Sexes	All Ages	57926	1663	57926	1663	57926	57926	5970	11.5	5970	11.5	Data may be incomplete in recent weeks.	United States
+12/18/2022	2015-2019	2015	20	05/23/2015	All Race/Ethnicity Groups	All Sexes	All Ages	49434	0	49434	0	51399	51399						United States
+12/18/2022	2015-2019	2016	20	05/21/2016	All Race/Ethnicity Groups	All Sexes	All Ages	50563	0	50563	0	51399	51399						United States
+12/18/2022	2015-2019	2017	20	05/20/2017	All Race/Ethnicity Groups	All Sexes	All Ages	52574	0	52574	0	51399	51399						United States
+12/18/2022	2015-2019	2018	20	05/19/2018	All Race/Ethnicity Groups	All Sexes	All Ages	50739	0	50739	0	51399	51399						United States
+12/18/2022	2015-2019	2019	20	05/18/2019	All Race/Ethnicity Groups	All Sexes	All Ages	53685	0	53685	0	51399	51399						United States
+12/18/2022	2020	2020	20	05/16/2020	All Race/Ethnicity Groups	All Sexes	All Ages	64468	9236	64468	9236	64468	64468	13069	25.4	13069	25.4		United States
+12/18/2022	2021	2021	20	05/22/2021	All Race/Ethnicity Groups	All Sexes	All Ages	58761	3245	58761	3245	58761	58761	7362	14.3	7362	14.3	Data may be incomplete in recent weeks.	United States
+12/18/2022	2022	2022	20	05/21/2022	All Race/Ethnicity Groups	All Sexes	All Ages	57705	1745	57705	1745	57705	57705	6306	12.3	6306	12.3	Data may be incomplete in recent weeks.	United States
+12/18/2022	2015-2019	2015	21	05/30/2015	All Race/Ethnicity Groups	All Sexes	All Ages	49823	0	49823	0	51279	51279						United States
+12/18/2022	2015-2019	2016	21	05/28/2016	All Race/Ethnicity Groups	All Sexes	All Ages	50591	0	50591	0	51279	51279						United States
+12/18/2022	2015-2019	2017	21	05/27/2017	All Race/Ethnicity Groups	All Sexes	All Ages	51098	0	51098	0	51279	51279						United States
+12/18/2022	2015-2019	2018	21	05/26/2018	All Race/Ethnicity Groups	All Sexes	All Ages	51055	0	51055	0	51279	51279						United States
+12/18/2022	2015-2019	2019	21	05/25/2019	All Race/Ethnicity Groups	All Sexes	All Ages	53829	0	53829	0	51279	51279						United States
+12/18/2022	2020	2020	21	05/23/2020	All Race/Ethnicity Groups	All Sexes	All Ages	61619	7248	61619	7248	61619	61619	10340	20.2	10340	20.2		United States
+12/18/2022	2021	2021	21	05/29/2021	All Race/Ethnicity Groups	All Sexes	All Ages	57350	2783	57350	2783	57350	57350	6071	11.8	6071	11.8	Data may be incomplete in recent weeks.	United States
+12/18/2022	2022	2022	21	05/28/2022	All Race/Ethnicity Groups	All Sexes	All Ages	57110	1937	57110	1937	57110	57110	5831	11.4	5831	11.4	Data may be incomplete in recent weeks.	United States
+12/18/2022	2015-2019	2015	22	06/06/2015	All Race/Ethnicity Groups	All Sexes	All Ages	49141	0	49141	0	50871	50871						United States
+12/18/2022	2015-2019	2016	22	06/04/2016	All Race/Ethnicity Groups	All Sexes	All Ages	49823	0	49823	0	50871	50871						United States
+12/18/2022	2015-2019	2017	22	06/03/2017	All Race/Ethnicity Groups	All Sexes	All Ages	51369	0	51369	0	50871	50871						United States
+12/18/2022	2015-2019	2018	22	06/02/2018	All Race/Ethnicity Groups	All Sexes	All Ages	51162	0	51162	0	50871	50871						United States
+12/18/2022	2015-2019	2019	22	06/01/2019	All Race/Ethnicity Groups	All Sexes	All Ages	52858	0	52858	0	50871	50871						United States
+12/18/2022	2020	2020	22	05/30/2020	All Race/Ethnicity Groups	All Sexes	All Ages	59655	6171	59655	6171	59655	59655	8784	17.3	8784	17.3		United States
+12/18/2022	2021	2021	22	06/05/2021	All Race/Ethnicity Groups	All Sexes	All Ages	57465	2353	57465	2353	57465	57465	6594	13	6594	13	Data may be incomplete in recent weeks.	United States
+12/18/2022	2022	2022	22	06/04/2022	All Race/Ethnicity Groups	All Sexes	All Ages	57604	1995	57604	1995	57604	57604	6733	13.2	6733	13.2	Data may be incomplete in recent weeks.	United States
+12/18/2022	2015-2019	2015	23	06/13/2015	All Race/Ethnicity Groups	All Sexes	All Ages	49855	0	49855	0	51367	51367						United States
+12/18/2022	2015-2019	2016	23	06/11/2016	All Race/Ethnicity Groups	All Sexes	All Ages	50031	0	50031	0	51367	51367						United States
+12/18/2022	2015-2019	2017	23	06/10/2017	All Race/Ethnicity Groups	All Sexes	All Ages	51524	0	51524	0	51367	51367						United States
+12/18/2022	2015-2019	2018	23	06/09/2018	All Race/Ethnicity Groups	All Sexes	All Ages	52123	0	52123	0	51367	51367						United States
+12/18/2022	2015-2019	2019	23	06/08/2019	All Race/Ethnicity Groups	All Sexes	All Ages	53300	0	53300	0	51367	51367						United States
+12/18/2022	2020	2020	23	06/06/2020	All Race/Ethnicity Groups	All Sexes	All Ages	58893	5058	58893	5058	58893	58893	7526	14.7	7526	14.7		United States
+12/18/2022	2021	2021	23	06/12/2021	All Race/Ethnicity Groups	All Sexes	All Ages	57164	2048	57164	2048	57164	57164	5797	11.3	5797	11.3	Data may be incomplete in recent weeks.	United States
+12/18/2022	2022	2022	23	06/11/2022	All Race/Ethnicity Groups	All Sexes	All Ages	58067	2118	58067	2118	58067	58067	6700	13	6700	13	Data may be incomplete in recent weeks.	United States
+12/18/2022	2015-2019	2015	24	06/20/2015	All Race/Ethnicity Groups	All Sexes	All Ages	49229	0	49229	0	50894	50894						United States
+12/18/2022	2015-2019	2016	24	06/18/2016	All Race/Ethnicity Groups	All Sexes	All Ages	50002	0	50002	0	50894	50894						United States
+12/18/2022	2015-2019	2017	24	06/17/2017	All Race/Ethnicity Groups	All Sexes	All Ages	50932	0	50932	0	50894	50894						United States
+12/18/2022	2015-2019	2018	24	06/16/2018	All Race/Ethnicity Groups	All Sexes	All Ages	51514	0	51514	0	50894	50894						United States
+12/18/2022	2015-2019	2019	24	06/15/2019	All Race/Ethnicity Groups	All Sexes	All Ages	52793	0	52793	0	50894	50894						United States
+12/18/2022	2020	2020	24	06/13/2020	All Race/Ethnicity Groups	All Sexes	All Ages	58015	4232	58015	4232	58015	58015	7121	14	7121	14		United States
+12/18/2022	2021	2021	24	06/19/2021	All Race/Ethnicity Groups	All Sexes	All Ages	57247	1783	57247	1783	57247	57247	6353	12.5	6353	12.5	Data may be incomplete in recent weeks.	United States
+12/18/2022	2022	2022	24	06/18/2022	All Race/Ethnicity Groups	All Sexes	All Ages	57804	2188	57804	2188	57804	57804	6910	13.6	6910	13.6	Data may be incomplete in recent weeks.	United States
+12/18/2022	2015-2019	2015	25	06/27/2015	All Race/Ethnicity Groups	All Sexes	All Ages	49169	0	49169	0	50770	50770						United States
+12/18/2022	2015-2019	2016	25	06/25/2016	All Race/Ethnicity Groups	All Sexes	All Ages	49723	0	49723	0	50770	50770						United States
+12/18/2022	2015-2019	2017	25	06/24/2017	All Race/Ethnicity Groups	All Sexes	All Ages	51315	0	51315	0	50770	50770						United States
+12/18/2022	2015-2019	2018	25	06/23/2018	All Race/Ethnicity Groups	All Sexes	All Ages	51221	0	51221	0	50770	50770						United States
+12/18/2022	2015-2019	2019	25	06/22/2019	All Race/Ethnicity Groups	All Sexes	All Ages	52423	0	52423	0	50770	50770						United States
+12/18/2022	2020	2020	25	06/20/2020	All Race/Ethnicity Groups	All Sexes	All Ages	57988	3851	57988	3851	57988	57988	7218	14.2	7218	14.2		United States
+12/18/2022	2021	2021	25	06/26/2021	All Race/Ethnicity Groups	All Sexes	All Ages	56938	1639	56938	1639	56938	56938	6168	12.1	6168	12.1	Data may be incomplete in recent weeks.	United States
+12/18/2022	2022	2022	25	06/25/2022	All Race/Ethnicity Groups	All Sexes	All Ages	58457	2319	58314	2317	58457	58314	7687	15.1	7544	14.9	Data may be incomplete in recent weeks.	United States
+12/18/2022	2015-2019	2015	26	07/04/2015	All Race/Ethnicity Groups	All Sexes	All Ages	49347	0	49347	0	50652	50652						United States
+12/18/2022	2015-2019	2016	26	07/02/2016	All Race/Ethnicity Groups	All Sexes	All Ages	49854	0	49854	0	50652	50652						United States
+12/18/2022	2015-2019	2017	26	07/01/2017	All Race/Ethnicity Groups	All Sexes	All Ages	50741	0	50741	0	50652	50652						United States
+12/18/2022	2015-2019	2018	26	06/30/2018	All Race/Ethnicity Groups	All Sexes	All Ages	50995	0	50995	0	50652	50652						United States
+12/18/2022	2015-2019	2019	26	06/29/2019	All Race/Ethnicity Groups	All Sexes	All Ages	52325	0	52325	0	50652	50652						United States
+12/18/2022	2020	2020	26	06/27/2020	All Race/Ethnicity Groups	All Sexes	All Ages	58504	3844	58504	3844	58504	58504	7852	15.5	7852	15.5		United States
+12/18/2022	2021	2021	26	07/03/2021	All Race/Ethnicity Groups	All Sexes	All Ages	57534	1548	57534	1548	57534	57534	6882	13.6	6882	13.6	Data may be incomplete in recent weeks.	United States
+12/18/2022	2022	2022	26	07/02/2022	All Race/Ethnicity Groups	All Sexes	All Ages	58461	2423	58115	2412	58461	58115	7809	15.4	7463	14.7	Data may be incomplete in recent weeks.	United States
+12/18/2022	2015-2019	2015	27	07/11/2015	All Race/Ethnicity Groups	All Sexes	All Ages	49026	0	49026	0	50845	50845						United States
+12/18/2022	2015-2019	2016	27	07/09/2016	All Race/Ethnicity Groups	All Sexes	All Ages	49795	0	49795	0	50845	50845						United States
+12/18/2022	2015-2019	2017	27	07/08/2017	All Race/Ethnicity Groups	All Sexes	All Ages	51089	0	51089	0	50845	50845						United States
+12/18/2022	2015-2019	2018	27	07/07/2018	All Race/Ethnicity Groups	All Sexes	All Ages	51812	0	51812	0	50845	50845						United States
+12/18/2022	2015-2019	2019	27	07/06/2019	All Race/Ethnicity Groups	All Sexes	All Ages	52505	0	52505	0	50845	50845						United States
+12/18/2022	2020	2020	27	07/04/2020	All Race/Ethnicity Groups	All Sexes	All Ages	59813	4551	59813	4551	59813	59813	8968	17.6	8968	17.6		United States
+12/18/2022	2021	2021	27	07/10/2021	All Race/Ethnicity Groups	All Sexes	All Ages	57224	1650	57224	1650	57224	57224	6379	12.5	6379	12.5	Data may be incomplete in recent weeks.	United States
+12/18/2022	2022	2022	27	07/09/2022	All Race/Ethnicity Groups	All Sexes	All Ages	58514	2582	58155	2572	58514	58155	7669	15.1	7310	14.4	Data may be incomplete in recent weeks.	United States
+12/18/2022	2015-2019	2015	28	07/18/2015	All Race/Ethnicity Groups	All Sexes	All Ages	49345	0	49345	0	50523	50523						United States
+12/18/2022	2015-2019	2016	28	07/16/2016	All Race/Ethnicity Groups	All Sexes	All Ages	49734	0	49734	0	50523	50523						United States
+12/18/2022	2015-2019	2017	28	07/15/2017	All Race/Ethnicity Groups	All Sexes	All Ages	50120	0	50120	0	50523	50523						United States
+12/18/2022	2015-2019	2018	28	07/14/2018	All Race/Ethnicity Groups	All Sexes	All Ages	51337	0	51337	0	50523	50523						United States
+12/18/2022	2015-2019	2019	28	07/13/2019	All Race/Ethnicity Groups	All Sexes	All Ages	52078	0	52078	0	50523	50523						United States
+12/18/2022	2020	2020	28	07/11/2020	All Race/Ethnicity Groups	All Sexes	All Ages	61931	5785	61931	5785	61931	61931	11408	22.6	11408	22.6		United States
+12/18/2022	2021	2021	28	07/17/2021	All Race/Ethnicity Groups	All Sexes	All Ages	57226	1995	57226	1995	57226	57226	6703	13.3	6703	13.3	Data may be incomplete in recent weeks.	United States
+12/18/2022	2022	2022	28	07/16/2022	All Race/Ethnicity Groups	All Sexes	All Ages	58807	2927	58440	2914	58807	58440	8284	16.4	7917	15.7	Data may be incomplete in recent weeks.	United States
+12/18/2022	2015-2019	2015	29	07/25/2015	All Race/Ethnicity Groups	All Sexes	All Ages	48663	0	48663	0	50160	50160						United States
+12/18/2022	2015-2019	2016	29	07/23/2016	All Race/Ethnicity Groups	All Sexes	All Ages	49382	0	49382	0	50160	50160						United States
+12/18/2022	2015-2019	2017	29	07/22/2017	All Race/Ethnicity Groups	All Sexes	All Ages	50227	0	50227	0	50160	50160						United States
+12/18/2022	2015-2019	2018	29	07/21/2018	All Race/Ethnicity Groups	All Sexes	All Ages	50730	0	50730	0	50160	50160						United States
+12/18/2022	2015-2019	2019	29	07/20/2019	All Race/Ethnicity Groups	All Sexes	All Ages	51796	0	51796	0	50160	50160						United States
+12/18/2022	2020	2020	29	07/18/2020	All Race/Ethnicity Groups	All Sexes	All Ages	63158	7197	63158	7197	63158	63158	12998	25.9	12998	25.9		United States
+12/18/2022	2021	2021	29	07/24/2021	All Race/Ethnicity Groups	All Sexes	All Ages	58448	2770	58448	2770	58448	58448	8288	16.5	8288	16.5	Data may be incomplete in recent weeks.	United States
+12/18/2022	2022	2022	29	07/23/2022	All Race/Ethnicity Groups	All Sexes	All Ages	60150	3219	59771	3204	60150	59771	9990	19.9	9611	19.2	Data may be incomplete in recent weeks.	United States
+12/18/2022	2015-2019	2015	30	08/01/2015	All Race/Ethnicity Groups	All Sexes	All Ages	48390	0	48390	0	49982	49982						United States
+12/18/2022	2015-2019	2016	30	07/30/2016	All Race/Ethnicity Groups	All Sexes	All Ages	49803	0	49803	0	49982	49982						United States
+12/18/2022	2015-2019	2017	30	07/29/2017	All Race/Ethnicity Groups	All Sexes	All Ages	49492	0	49492	0	49982	49982						United States
+12/18/2022	2015-2019	2018	30	07/28/2018	All Race/Ethnicity Groups	All Sexes	All Ages	50422	0	50422	0	49982	49982						United States
+12/18/2022	2015-2019	2019	30	07/27/2019	All Race/Ethnicity Groups	All Sexes	All Ages	51803	0	51803	0	49982	49982						United States
+12/18/2022	2020	2020	30	07/25/2020	All Race/Ethnicity Groups	All Sexes	All Ages	64239	8247	64239	8247	64239	64239	14257	28.5	14257	28.5		United States
+12/18/2022	2021	2021	30	07/31/2021	All Race/Ethnicity Groups	All Sexes	All Ages	60327	4126	60327	4126	60327	60327	10345	20.7	10345	20.7	Data may be incomplete in recent weeks.	United States
+12/18/2022	2022	2022	30	07/30/2022	All Race/Ethnicity Groups	All Sexes	All Ages	59094	3389	58700	3373	59094	58700	9112	18.2	8718	17.4	Data may be incomplete in recent weeks.	United States
+12/18/2022	2015-2019	2015	31	08/08/2015	All Race/Ethnicity Groups	All Sexes	All Ages	47871	0	47871	0	50015	50015						United States
+12/18/2022	2015-2019	2016	31	08/06/2016	All Race/Ethnicity Groups	All Sexes	All Ages	49647	0	49647	0	50015	50015						United States
+12/18/2022	2015-2019	2017	31	08/05/2017	All Race/Ethnicity Groups	All Sexes	All Ages	50208	0	50208	0	50015	50015						United States
+12/18/2022	2015-2019	2018	31	08/04/2018	All Race/Ethnicity Groups	All Sexes	All Ages	50799	0	50799	0	50015	50015						United States
+12/18/2022	2015-2019	2019	31	08/03/2019	All Race/Ethnicity Groups	All Sexes	All Ages	51549	0	51549	0	50015	50015						United States
+12/18/2022	2020	2020	31	08/01/2020	All Race/Ethnicity Groups	All Sexes	All Ages	64223	8306	64223	8306	64223	64223	14208	28.4	14208	28.4		United States
+12/18/2022	2021	2021	31	08/07/2021	All Race/Ethnicity Groups	All Sexes	All Ages	63805	6500	63805	6500	63805	63805	13790	27.6	13790	27.6	Data may be incomplete in recent weeks.	United States
+12/18/2022	2022	2022	31	08/06/2022	All Race/Ethnicity Groups	All Sexes	All Ages	59541	3352	59133	3336	59541	59133	9526	19	9118	18.2	Data may be incomplete in recent weeks.	United States
+12/18/2022	2015-2019	2015	32	08/15/2015	All Race/Ethnicity Groups	All Sexes	All Ages	48076	0	48076	0	50252	50252						United States
+12/18/2022	2015-2019	2016	32	08/13/2016	All Race/Ethnicity Groups	All Sexes	All Ages	49837	0	49837	0	50252	50252						United States
+12/18/2022	2015-2019	2017	32	08/12/2017	All Race/Ethnicity Groups	All Sexes	All Ages	50361	0	50361	0	50252	50252						United States
+12/18/2022	2015-2019	2018	32	08/11/2018	All Race/Ethnicity Groups	All Sexes	All Ages	51130	0	51130	0	50252	50252						United States
+12/18/2022	2015-2019	2019	32	08/10/2019	All Race/Ethnicity Groups	All Sexes	All Ages	51856	0	51856	0	50252	50252						United States
+12/18/2022	2020	2020	32	08/08/2020	All Race/Ethnicity Groups	All Sexes	All Ages	63701	7870	63701	7870	63701	63701	13449	26.8	13449	26.8		United States
+12/18/2022	2021	2021	32	08/14/2021	All Race/Ethnicity Groups	All Sexes	All Ages	67052	9424	67052	9424	67052	67052	16800	33.4	16800	33.4	Data may be incomplete in recent weeks.	United States
+12/18/2022	2022	2022	32	08/13/2022	All Race/Ethnicity Groups	All Sexes	All Ages	58947	3266	58521	3251	58947	58521	8695	17.3	8269	16.5	Data may be incomplete in recent weeks.	United States
+12/18/2022	2015-2019	2015	33	08/22/2015	All Race/Ethnicity Groups	All Sexes	All Ages	48557	0	48557	0	50066	50066						United States
+12/18/2022	2015-2019	2016	33	08/20/2016	All Race/Ethnicity Groups	All Sexes	All Ages	49922	0	49922	0	50066	50066						United States
+12/18/2022	2015-2019	2017	33	08/19/2017	All Race/Ethnicity Groups	All Sexes	All Ages	50296	0	50296	0	50066	50066						United States
+12/18/2022	2015-2019	2018	33	08/18/2018	All Race/Ethnicity Groups	All Sexes	All Ages	50423	0	50423	0	50066	50066						United States
+12/18/2022	2015-2019	2019	33	08/17/2019	All Race/Ethnicity Groups	All Sexes	All Ages	51132	0	51132	0	50066	50066						United States
+12/18/2022	2020	2020	33	08/15/2020	All Race/Ethnicity Groups	All Sexes	All Ages	63629	7262	63629	7262	63629	63629	13563	27.1	13563	27.1		United States
+12/18/2022	2021	2021	33	08/21/2021	All Race/Ethnicity Groups	All Sexes	All Ages	69969	12205	69969	12205	69969	69969	19903	39.8	19903	39.8	Data may be incomplete in recent weeks.	United States
+12/18/2022	2022	2022	33	08/20/2022	All Race/Ethnicity Groups	All Sexes	All Ages	58710	3141	58268	3125	58710	58268	8644	17.3	8202	16.4	Data may be incomplete in recent weeks.	United States
+12/18/2022	2015-2019	2015	34	08/29/2015	All Race/Ethnicity Groups	All Sexes	All Ages	48623	0	48623	0	49923	49923						United States
+12/18/2022	2015-2019	2016	34	08/27/2016	All Race/Ethnicity Groups	All Sexes	All Ages	49610	0	49610	0	49923	49923						United States
+12/18/2022	2015-2019	2017	34	08/26/2017	All Race/Ethnicity Groups	All Sexes	All Ages	49658	0	49658	0	49923	49923						United States
+12/18/2022	2015-2019	2018	34	08/25/2018	All Race/Ethnicity Groups	All Sexes	All Ages	50577	0	50577	0	49923	49923						United States
+12/18/2022	2015-2019	2019	34	08/24/2019	All Race/Ethnicity Groups	All Sexes	All Ages	51149	0	51149	0	49923	49923						United States
+12/18/2022	2020	2020	34	08/22/2020	All Race/Ethnicity Groups	All Sexes	All Ages	62545	6387	62545	6387	62545	62545	12622	25.3	12622	25.3		United States
+12/18/2022	2021	2021	34	08/28/2021	All Race/Ethnicity Groups	All Sexes	All Ages	72192	14208	72192	14208	72192	72192	22269	44.6	22269	44.6	Data may be incomplete in recent weeks.	United States
+12/18/2022	2022	2022	34	08/27/2022	All Race/Ethnicity Groups	All Sexes	All Ages	58486	3008	58017	2989	58486	58017	8563	17.2	8094	16.2	Data may be incomplete in recent weeks.	United States
+12/18/2022	2015-2019	2015	35	09/05/2015	All Race/Ethnicity Groups	All Sexes	All Ages	48827	0	48827	0	50303	50303						United States
+12/18/2022	2015-2019	2016	35	09/03/2016	All Race/Ethnicity Groups	All Sexes	All Ages	49691	0	49691	0	50303	50303						United States
+12/18/2022	2015-2019	2017	35	09/02/2017	All Race/Ethnicity Groups	All Sexes	All Ages	50958	0	50958	0	50303	50303						United States
+12/18/2022	2015-2019	2018	35	09/01/2018	All Race/Ethnicity Groups	All Sexes	All Ages	50745	0	50745	0	50303	50303						United States
+12/18/2022	2015-2019	2019	35	08/31/2019	All Race/Ethnicity Groups	All Sexes	All Ages	51296	0	51296	0	50303	50303						United States
+12/18/2022	2020	2020	35	08/29/2020	All Race/Ethnicity Groups	All Sexes	All Ages	61088	5752	61088	5752	61088	61088	10785	21.4	10785	21.4		United States
+12/18/2022	2021	2021	35	09/04/2021	All Race/Ethnicity Groups	All Sexes	All Ages	73529	15537	73529	15537	73529	73529	23226	46.2	23226	46.2	Data may be incomplete in recent weeks.	United States
+12/18/2022	2022	2022	35	09/03/2022	All Race/Ethnicity Groups	All Sexes	All Ages	58336	2893	57848	2874	58336	57848	8033	16	7545	15	Data may be incomplete in recent weeks.	United States
+12/18/2022	2015-2019	2015	36	09/12/2015	All Race/Ethnicity Groups	All Sexes	All Ages	48897	0	48897	0	50519	50519						United States
+12/18/2022	2015-2019	2016	36	09/10/2016	All Race/Ethnicity Groups	All Sexes	All Ages	50201	0	50201	0	50519	50519						United States
+12/18/2022	2015-2019	2017	36	09/09/2017	All Race/Ethnicity Groups	All Sexes	All Ages	51109	0	51109	0	50519	50519						United States
+12/18/2022	2015-2019	2018	36	09/08/2018	All Race/Ethnicity Groups	All Sexes	All Ages	50429	0	50429	0	50519	50519						United States
+12/18/2022	2015-2019	2019	36	09/07/2019	All Race/Ethnicity Groups	All Sexes	All Ages	51959	0	51959	0	50519	50519						United States
+12/18/2022	2020	2020	36	09/05/2020	All Race/Ethnicity Groups	All Sexes	All Ages	60231	5019	60231	5019	60231	60231	9712	19.2	9712	19.2		United States
+12/18/2022	2021	2021	36	09/11/2021	All Race/Ethnicity Groups	All Sexes	All Ages	73748	15448	73748	15448	73748	73748	23229	46	23229	46	Data may be incomplete in recent weeks.	United States
+12/18/2022	2022	2022	36	09/10/2022	All Race/Ethnicity Groups	All Sexes	All Ages	58900	2775	58374	2756	58900	58374	8381	16.6	7855	15.5	Data may be incomplete in recent weeks.	United States
+12/18/2022	2015-2019	2015	37	09/19/2015	All Race/Ethnicity Groups	All Sexes	All Ages	48939	0	48939	0	50752	50752						United States
+12/18/2022	2015-2019	2016	37	09/17/2016	All Race/Ethnicity Groups	All Sexes	All Ages	50038	0	50038	0	50752	50752						United States
+12/18/2022	2015-2019	2017	37	09/16/2017	All Race/Ethnicity Groups	All Sexes	All Ages	51818	0	51818	0	50752	50752						United States
+12/18/2022	2015-2019	2018	37	09/15/2018	All Race/Ethnicity Groups	All Sexes	All Ages	51215	0	51215	0	50752	50752						United States
+12/18/2022	2015-2019	2019	37	09/14/2019	All Race/Ethnicity Groups	All Sexes	All Ages	51748	0	51748	0	50752	50752						United States
+12/18/2022	2020	2020	37	09/12/2020	All Race/Ethnicity Groups	All Sexes	All Ages	59645	4627	59645	4627	59645	59645	8893	17.5	8893	17.5		United States
+12/18/2022	2021	2021	37	09/18/2021	All Race/Ethnicity Groups	All Sexes	All Ages	73320	15243	73320	15243	73320	73320	22568	44.5	22568	44.5	Data may be incomplete in recent weeks.	United States
+12/18/2022	2022	2022	37	09/17/2022	All Race/Ethnicity Groups	All Sexes	All Ages	58473	2487	57898	2467	58473	57898	7721	15.2	7146	14.1	Data may be incomplete in recent weeks.	United States
+12/18/2022	2015-2019	2015	38	09/26/2015	All Race/Ethnicity Groups	All Sexes	All Ages	49336	0	49336	0	50861	50861						United States
+12/18/2022	2015-2019	2016	38	09/24/2016	All Race/Ethnicity Groups	All Sexes	All Ages	49995	0	49995	0	50861	50861						United States
+12/18/2022	2015-2019	2017	38	09/23/2017	All Race/Ethnicity Groups	All Sexes	All Ages	51353	0	51353	0	50861	50861						United States
+12/18/2022	2015-2019	2018	38	09/22/2018	All Race/Ethnicity Groups	All Sexes	All Ages	51713	0	51713	0	50861	50861						United States
+12/18/2022	2015-2019	2019	38	09/21/2019	All Race/Ethnicity Groups	All Sexes	All Ages	51910	0	51910	0	50861	50861						United States
+12/18/2022	2020	2020	38	09/19/2020	All Race/Ethnicity Groups	All Sexes	All Ages	59721	4279	59721	4279	59721	59721	8860	17.4	8860	17.4		United States
+12/18/2022	2021	2021	38	09/25/2021	All Race/Ethnicity Groups	All Sexes	All Ages	72194	14375	72194	14375	72194	72194	21333	41.9	21333	41.9	Data may be incomplete in recent weeks.	United States
+12/18/2022	2022	2022	38	09/24/2022	All Race/Ethnicity Groups	All Sexes	All Ages	58961	2522	58317	2499	58961	58317	8100	15.9	7456	14.7	Data may be incomplete in recent weeks.	United States
+12/18/2022	2015-2019	2015	39	10/03/2015	All Race/Ethnicity Groups	All Sexes	All Ages	48927	0	48927	0	50946	50946						United States
+12/18/2022	2015-2019	2016	39	10/01/2016	All Race/Ethnicity Groups	All Sexes	All Ages	50371	0	50371	0	50946	50946						United States
+12/18/2022	2015-2019	2017	39	09/30/2017	All Race/Ethnicity Groups	All Sexes	All Ages	51461	0	51461	0	50946	50946						United States
+12/18/2022	2015-2019	2018	39	09/29/2018	All Race/Ethnicity Groups	All Sexes	All Ages	51098	0	51098	0	50946	50946						United States
+12/18/2022	2015-2019	2019	39	09/28/2019	All Race/Ethnicity Groups	All Sexes	All Ages	52875	0	52875	0	50946	50946						United States
+12/18/2022	2020	2020	39	09/26/2020	All Race/Ethnicity Groups	All Sexes	All Ages	60593	4301	60593	4301	60593	60593	9647	18.9	9647	18.9		United States
+12/18/2022	2021	2021	39	10/02/2021	All Race/Ethnicity Groups	All Sexes	All Ages	71354	12856	71354	12856	71354	71354	20408	40.1	20408	40.1	Data may be incomplete in recent weeks.	United States
+12/18/2022	2022	2022	39	10/01/2022	All Race/Ethnicity Groups	All Sexes	All Ages	58714	2350	57990	2325	58714	57990	7768	15.2	7044	13.8	Data may be incomplete in recent weeks.	United States
+12/18/2022	2015-2019	2015	40	10/10/2015	All Race/Ethnicity Groups	All Sexes	All Ages	51052	0	51052	0	51996	51996						United States
+12/18/2022	2015-2019	2016	40	10/08/2016	All Race/Ethnicity Groups	All Sexes	All Ages	51523	0	51523	0	51996	51996						United States
+12/18/2022	2015-2019	2017	40	10/07/2017	All Race/Ethnicity Groups	All Sexes	All Ages	52235	0	52235	0	51996	51996						United States
+12/18/2022	2015-2019	2018	40	10/06/2018	All Race/Ethnicity Groups	All Sexes	All Ages	52486	0	52486	0	51996	51996						United States
+12/18/2022	2015-2019	2019	40	10/05/2019	All Race/Ethnicity Groups	All Sexes	All Ages	52683	0	52683	0	51996	51996						United States
+12/18/2022	2020	2020	40	10/03/2020	All Race/Ethnicity Groups	All Sexes	All Ages	59775	4243	59775	4243	59775	59775	7779	15	7779	15		United States
+12/18/2022	2021	2021	40	10/09/2021	All Race/Ethnicity Groups	All Sexes	All Ages	69141	11196	69141	11196	69141	69141	17145	33	17145	33	Data may be incomplete in recent weeks.	United States
+12/18/2022	2022	2022	40	10/08/2022	All Race/Ethnicity Groups	All Sexes	All Ages	59638	2161	58789	2136	59638	58789	7642	14.7	6793	13.1	Data may be incomplete in recent weeks.	United States
+12/18/2022	2015-2019	2015	41	10/17/2015	All Race/Ethnicity Groups	All Sexes	All Ages	49943	0	49943	0	51818	51818						United States
+12/18/2022	2015-2019	2016	41	10/15/2016	All Race/Ethnicity Groups	All Sexes	All Ages	52251	0	52251	0	51818	51818						United States
+12/18/2022	2015-2019	2017	41	10/14/2017	All Race/Ethnicity Groups	All Sexes	All Ages	51702	0	51702	0	51818	51818						United States
+12/18/2022	2015-2019	2018	41	10/13/2018	All Race/Ethnicity Groups	All Sexes	All Ages	51972	0	51972	0	51818	51818						United States
+12/18/2022	2015-2019	2019	41	10/12/2019	All Race/Ethnicity Groups	All Sexes	All Ages	53220	0	53220	0	51818	51818						United States
+12/18/2022	2020	2020	41	10/10/2020	All Race/Ethnicity Groups	All Sexes	All Ages	61756	4820	61756	4820	61756	61756	9938	19.2	9938	19.2		United States
+12/18/2022	2021	2021	41	10/16/2021	All Race/Ethnicity Groups	All Sexes	All Ages	67559	9902	67559	9902	67559	67559	15741	30.4	15741	30.4	Data may be incomplete in recent weeks.	United States
+12/18/2022	2022	2022	41	10/15/2022	All Race/Ethnicity Groups	All Sexes	All Ages	59805	2107	58827	2078	59805	58827	7987	15.4	7009	13.5	Data may be incomplete in recent weeks.	United States
+12/18/2022	2015-2019	2015	42	10/24/2015	All Race/Ethnicity Groups	All Sexes	All Ages	50765	0	50765	0	52447	52447						United States
+12/18/2022	2015-2019	2016	42	10/22/2016	All Race/Ethnicity Groups	All Sexes	All Ages	51565	0	51565	0	52447	52447						United States
+12/18/2022	2015-2019	2017	42	10/21/2017	All Race/Ethnicity Groups	All Sexes	All Ages	52356	0	52356	0	52447	52447						United States
+12/18/2022	2015-2019	2018	42	10/20/2018	All Race/Ethnicity Groups	All Sexes	All Ages	53113	0	53113	0	52447	52447						United States
+12/18/2022	2015-2019	2019	42	10/19/2019	All Race/Ethnicity Groups	All Sexes	All Ages	54437	0	54437	0	52447	52447						United States
+12/18/2022	2020	2020	42	10/17/2020	All Race/Ethnicity Groups	All Sexes	All Ages	60615	5200	60615	5200	60615	60615	8168	15.6	8168	15.6		United States
+12/18/2022	2021	2021	42	10/23/2021	All Race/Ethnicity Groups	All Sexes	All Ages	67067	8957	67067	8957	67067	67067	14620	27.9	14620	27.9	Data may be incomplete in recent weeks.	United States
+12/18/2022	2022	2022	42	10/22/2022	All Race/Ethnicity Groups	All Sexes	All Ages	60203	2167	58976	2126	60203	58976	7756	14.8	6529	12.4	Data may be incomplete in recent weeks.	United States
+12/18/2022	2015-2019	2015	43	10/31/2015	All Race/Ethnicity Groups	All Sexes	All Ages	50480	0	50480	0	52632	52632						United States
+12/18/2022	2015-2019	2016	43	10/29/2016	All Race/Ethnicity Groups	All Sexes	All Ages	51971	0	51971	0	52632	52632						United States
+12/18/2022	2015-2019	2017	43	10/28/2017	All Race/Ethnicity Groups	All Sexes	All Ages	52671	0	52671	0	52632	52632						United States
+12/18/2022	2015-2019	2018	43	10/27/2018	All Race/Ethnicity Groups	All Sexes	All Ages	53881	0	53881	0	52632	52632						United States
+12/18/2022	2015-2019	2019	43	10/26/2019	All Race/Ethnicity Groups	All Sexes	All Ages	54156	0	54156	0	52632	52632						United States
+12/18/2022	2020	2020	43	10/24/2020	All Race/Ethnicity Groups	All Sexes	All Ages	62164	5996	62164	5996	62164	62164	9532	18.1	9532	18.1		United States
+12/18/2022	2021	2021	43	10/30/2021	All Race/Ethnicity Groups	All Sexes	All Ages	66486	7974	66486	7974	66486	66486	13854	26.3	13854	26.3	Data may be incomplete in recent weeks.	United States
+12/18/2022	2022	2022	43	10/29/2022	All Race/Ethnicity Groups	All Sexes	All Ages	60022	2223	58519	2172	60022	58519	7390	14	5887	11.2	Data may be incomplete in recent weeks.	United States
+12/18/2022	2015-2019	2015	44	11/07/2015	All Race/Ethnicity Groups	All Sexes	All Ages	51280	0	51280	0	52990	52990						United States
+12/18/2022	2015-2019	2016	44	11/05/2016	All Race/Ethnicity Groups	All Sexes	All Ages	51865	0	51865	0	52990	52990						United States
+12/18/2022	2015-2019	2017	44	11/04/2017	All Race/Ethnicity Groups	All Sexes	All Ages	53822	0	53822	0	52990	52990						United States
+12/18/2022	2015-2019	2018	44	11/03/2018	All Race/Ethnicity Groups	All Sexes	All Ages	53767	0	53767	0	52990	52990						United States
+12/18/2022	2015-2019	2019	44	11/02/2019	All Race/Ethnicity Groups	All Sexes	All Ages	54214	0	54214	0	52990	52990						United States
+12/18/2022	2020	2020	44	10/31/2020	All Race/Ethnicity Groups	All Sexes	All Ages	63392	7026	63392	7026	63392	63392	10402	19.6	10402	19.6		United States
+12/18/2022	2021	2021	44	11/06/2021	All Race/Ethnicity Groups	All Sexes	All Ages	66630	7302	66630	7302	66630	66630	13640	25.7	13640	25.7	Data may be incomplete in recent weeks.	United States
+12/18/2022	2022	2022	44	11/05/2022	All Race/Ethnicity Groups	All Sexes	All Ages	60643	2207	58766	2143	60643	58766	7653	14.4	5776	10.9	Data may be incomplete in recent weeks.	United States
+12/18/2022	2015-2019	2015	45	11/14/2015	All Race/Ethnicity Groups	All Sexes	All Ages	50753	0	50753	0	53254	53254						United States
+12/18/2022	2015-2019	2016	45	11/12/2016	All Race/Ethnicity Groups	All Sexes	All Ages	52639	0	52639	0	53254	53254						United States
+12/18/2022	2015-2019	2017	45	11/11/2017	All Race/Ethnicity Groups	All Sexes	All Ages	53384	0	53384	0	53254	53254						United States
+12/18/2022	2015-2019	2018	45	11/10/2018	All Race/Ethnicity Groups	All Sexes	All Ages	53692	0	53692	0	53254	53254						United States
+12/18/2022	2015-2019	2019	45	11/09/2019	All Race/Ethnicity Groups	All Sexes	All Ages	55802	0	55802	0	53254	53254						United States
+12/18/2022	2020	2020	45	11/07/2020	All Race/Ethnicity Groups	All Sexes	All Ages	67540	8762	67540	8762	67540	67540	14286	26.8	14286	26.8		United States
+12/18/2022	2021	2021	45	11/13/2021	All Race/Ethnicity Groups	All Sexes	All Ages	67474	7174	67474	7174	67474	67474	14220	26.7	14220	26.7	Data may be incomplete in recent weeks.	United States
+12/18/2022	2022	2022	45	11/12/2022	All Race/Ethnicity Groups	All Sexes	All Ages	60273	2151	57864	2069	60273	57864	7019	13.2	4610	8.7	Data may be incomplete in recent weeks.	United States
+12/18/2022	2015-2019	2015	46	11/21/2015	All Race/Ethnicity Groups	All Sexes	All Ages	51495	0	51495	0	53962	53962						United States
+12/18/2022	2015-2019	2016	46	11/19/2016	All Race/Ethnicity Groups	All Sexes	All Ages	53553	0	53553	0	53962	53962						United States
+12/18/2022	2015-2019	2017	46	11/18/2017	All Race/Ethnicity Groups	All Sexes	All Ages	53908	0	53908	0	53962	53962						United States
+12/18/2022	2015-2019	2018	46	11/17/2018	All Race/Ethnicity Groups	All Sexes	All Ages	54820	0	54820	0	53962	53962						United States
+12/18/2022	2015-2019	2019	46	11/16/2019	All Race/Ethnicity Groups	All Sexes	All Ages	56036	0	56036	0	53962	53962						United States
+12/18/2022	2020	2020	46	11/14/2020	All Race/Ethnicity Groups	All Sexes	All Ages	68793	10652	68793	10652	68793	68793	14831	27.5	14831	27.5		United States
+12/18/2022	2021	2021	46	11/20/2021	All Race/Ethnicity Groups	All Sexes	All Ages	66968	7325	66968	7325	66968	66968	13006	24.1	13006	24.1	Data may be incomplete in recent weeks.	United States
+12/18/2022	2022	2022	46	11/19/2022	All Race/Ethnicity Groups	All Sexes	All Ages	59296	2161	55894	2047	59296	55894	5334	9.9	1932	3.6	Data may be incomplete in recent weeks.	United States
+12/18/2022	2015-2019	2015	47	11/28/2015	All Race/Ethnicity Groups	All Sexes	All Ages	51300	0	51300	0	54012	54012						United States
+12/18/2022	2015-2019	2016	47	11/26/2016	All Race/Ethnicity Groups	All Sexes	All Ages	53236	0	53236	0	54012	54012						United States
+12/18/2022	2015-2019	2017	47	11/25/2017	All Race/Ethnicity Groups	All Sexes	All Ages	54225	0	54225	0	54012	54012						United States
+12/18/2022	2015-2019	2018	47	11/24/2018	All Race/Ethnicity Groups	All Sexes	All Ages	54981	0	54981	0	54012	54012						United States
+12/18/2022	2015-2019	2019	47	11/23/2019	All Race/Ethnicity Groups	All Sexes	All Ages	56318	0	56318	0	54012	54012						United States
+12/18/2022	2020	2020	47	11/21/2020	All Race/Ethnicity Groups	All Sexes	All Ages	71635	13359	71635	13359	71635	71635	17623	32.6	17623	32.6		United States
+12/18/2022	2021	2021	47	11/27/2021	All Race/Ethnicity Groups	All Sexes	All Ages	67974	7897	67974	7897	67974	67974	13962	25.8	13962	25.8	Data may be incomplete in recent weeks.	United States
+12/18/2022	2022	2022	47	11/26/2022	All Race/Ethnicity Groups	All Sexes	All Ages	59183	2292	53532	2077	59183	53532	5171	9.6	-480	-0.9	Data may be incomplete in recent weeks.	United States
+12/18/2022	2015-2019	2015	48	12/05/2015	All Race/Ethnicity Groups	All Sexes	All Ages	52094	0	52094	0	54485	54485						United States
+12/18/2022	2015-2019	2016	48	12/03/2016	All Race/Ethnicity Groups	All Sexes	All Ages	54619	0	54619	0	54485	54485						United States
+12/18/2022	2015-2019	2017	48	12/02/2017	All Race/Ethnicity Groups	All Sexes	All Ages	54901	0	54901	0	54485	54485						United States
+12/18/2022	2015-2019	2018	48	12/01/2018	All Race/Ethnicity Groups	All Sexes	All Ages	55210	0	55210	0	54485	54485						United States
+12/18/2022	2015-2019	2019	48	11/30/2019	All Race/Ethnicity Groups	All Sexes	All Ages	55601	0	55601	0	54485	54485						United States
+12/18/2022	2020	2020	48	11/28/2020	All Race/Ethnicity Groups	All Sexes	All Ages	73268	15625	73268	15625	73268	73268	18783	34.5	18783	34.5		United States
+12/18/2022	2021	2021	48	12/04/2021	All Race/Ethnicity Groups	All Sexes	All Ages	70188	8794	70188	8794	70188	70188	15703	28.8	15703	28.8	Data may be incomplete in recent weeks.	United States
+12/18/2022	2022	2022	48	12/03/2022	All Race/Ethnicity Groups	All Sexes	All Ages	59214	2337	48413	1920	59214	48413	4729	8.7	-6072	-11.1	Data may be incomplete in recent weeks.	United States
+12/18/2022	2015-2019	2015	49	12/12/2015	All Race/Ethnicity Groups	All Sexes	All Ages	53654	0	53654	0	55632	55632						United States
+12/18/2022	2015-2019	2016	49	12/10/2016	All Race/Ethnicity Groups	All Sexes	All Ages	55246	0	55246	0	55632	55632						United States
+12/18/2022	2015-2019	2017	49	12/09/2017	All Race/Ethnicity Groups	All Sexes	All Ages	55746	0	55746	0	55632	55632						United States
+12/18/2022	2015-2019	2018	49	12/08/2018	All Race/Ethnicity Groups	All Sexes	All Ages	56095	0	56095	0	55632	55632						United States
+12/18/2022	2015-2019	2019	49	12/07/2019	All Race/Ethnicity Groups	All Sexes	All Ages	57417	0	57417	0	55632	55632						United States
+12/18/2022	2020	2020	49	12/05/2020	All Race/Ethnicity Groups	All Sexes	All Ages	77384	18566	77384	18566	77384	77384	21752	39.1	21752	39.1		United States
+12/18/2022	2021	2021	49	12/11/2021	All Race/Ethnicity Groups	All Sexes	All Ages	72152	9744	72152	9744	72152	72152	16520	29.7	16520	29.7	Data may be incomplete in recent weeks.	United States
+12/18/2022	2015-2019	2015	50	12/19/2015	All Race/Ethnicity Groups	All Sexes	All Ages	51962	0	51962	0	55983	55983						United States
+12/18/2022	2015-2019	2016	50	12/17/2016	All Race/Ethnicity Groups	All Sexes	All Ages	56110	0	56110	0	55983	55983						United States
+12/18/2022	2015-2019	2017	50	12/16/2017	All Race/Ethnicity Groups	All Sexes	All Ages	57537	0	57537	0	55983	55983						United States
+12/18/2022	2015-2019	2018	50	12/15/2018	All Race/Ethnicity Groups	All Sexes	All Ages	56530	0	56530	0	55983	55983						United States
+12/18/2022	2015-2019	2019	50	12/14/2019	All Race/Ethnicity Groups	All Sexes	All Ages	57776	0	57776	0	55983	55983						United States
+12/18/2022	2020	2020	50	12/12/2020	All Race/Ethnicity Groups	All Sexes	All Ages	81955	20924	81955	20924	81955	81955	25972	46.4	25972	46.4		United States
+12/18/2022	2021	2021	50	12/18/2021	All Race/Ethnicity Groups	All Sexes	All Ages	71341	10268	71341	10268	71341	71341	15358	27.4	15358	27.4	Data may be incomplete in recent weeks.	United States
+12/18/2022	2015-2019	2015	51	12/26/2015	All Race/Ethnicity Groups	All Sexes	All Ages	52876	0	52876	0	56723	56723						United States
+12/18/2022	2015-2019	2016	51	12/24/2016	All Race/Ethnicity Groups	All Sexes	All Ages	56818	0	56818	0	56723	56723						United States
+12/18/2022	2015-2019	2017	51	12/23/2017	All Race/Ethnicity Groups	All Sexes	All Ages	59671	0	59671	0	56723	56723						United States
+12/18/2022	2015-2019	2018	51	12/22/2018	All Race/Ethnicity Groups	All Sexes	All Ages	56671	0	56671	0	56723	56723						United States
+12/18/2022	2015-2019	2019	51	12/21/2019	All Race/Ethnicity Groups	All Sexes	All Ages	57581	0	57581	0	56723	56723						United States
+12/18/2022	2020	2020	51	12/19/2020	All Race/Ethnicity Groups	All Sexes	All Ages	82872	22328	82872	22328	82872	82872	26149	46.1	26149	46.1		United States
+12/18/2022	2021	2021	51	12/25/2021	All Race/Ethnicity Groups	All Sexes	All Ages	72331	10474	72331	10474	72331	72331	15608	27.5	15608	27.5	Data may be incomplete in recent weeks.	United States
+12/18/2022	2020	2020	52	12/26/2020	All Race/Ethnicity Groups	All Sexes	All Ages	84318	23384	84318	23384	84318	84318	27030	47.2	27030	47.2		United States
+12/18/2022	2021	2021	52	01/01/2022	All Race/Ethnicity Groups	All Sexes	All Ages	74432	11694	74432	11694	74432	74432	17144	29.9	17144	29.9	Data may be incomplete in recent weeks.	United States
+12/18/2022	2015-2019	2015	52	01/02/2016	All Race/Ethnicity Groups	All Sexes	All Ages	52637	0	52637	0	57288	57288						United States
+12/18/2022	2015-2019	2016	52	12/31/2016	All Race/Ethnicity Groups	All Sexes	All Ages	57771	0	57771	0	57288	57288						United States
+12/18/2022	2015-2019	2017	52	12/30/2017	All Race/Ethnicity Groups	All Sexes	All Ages	61251	0	61251	0	57288	57288						United States
+12/18/2022	2015-2019	2018	52	12/29/2018	All Race/Ethnicity Groups	All Sexes	All Ages	56163	0	56163	0	57288	57288						United States
+12/18/2022	2015-2019	2019	52	12/28/2019	All Race/Ethnicity Groups	All Sexes	All Ages	58618	0	58618	0	57288	57288						United States
+12/18/2022	2020	2020	53	01/02/2021	All Race/Ethnicity Groups	All Sexes	All Ages	86971	24876	86971	24876	86971	86971	18261	31	18261	31		United States
