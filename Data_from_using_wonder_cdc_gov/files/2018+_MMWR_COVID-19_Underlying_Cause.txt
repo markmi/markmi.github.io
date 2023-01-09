@@ -208,52 +208,58 @@
 	"2021 Week 50 ending December 18, 2021 (provisional)"	"2021/50"	9367	Not Applicable	Not Applicable
 	"2021 Week 51 ending December 25, 2021 (provisional)"	"2021/51"	9461	Not Applicable	Not Applicable
 	"2021 Week 52 ending January 01, 2022 (provisional)"	"2021/52"	10479	Not Applicable	Not Applicable
-	"2022 Week 01 ending January 08, 2022 (provisional)"	"2022/01"	13241	Not Applicable	Not Applicable
-	"2022 Week 02 ending January 15, 2022 (provisional)"	"2022/02"	16598	Not Applicable	Not Applicable
-	"2022 Week 03 ending January 22, 2022 (provisional)"	"2022/03"	18362	Not Applicable	Not Applicable
-	"2022 Week 04 ending January 29, 2022 (provisional)"	"2022/04"	17960	Not Applicable	Not Applicable
-	"2022 Week 05 ending February 05, 2022 (provisional)"	"2022/05"	15740	Not Applicable	Not Applicable
-	"2022 Week 06 ending February 12, 2022 (provisional)"	"2022/06"	12639	Not Applicable	Not Applicable
-	"2022 Week 07 ending February 19, 2022 (provisional)"	"2022/07"	9280	Not Applicable	Not Applicable
-	"2022 Week 08 ending February 26, 2022 (provisional)"	"2022/08"	6482	Not Applicable	Not Applicable
-	"2022 Week 09 ending March 05, 2022 (provisional)"	"2022/09"	4608	Not Applicable	Not Applicable
-	"2022 Week 10 ending March 12, 2022 (provisional)"	"2022/10"	3202	Not Applicable	Not Applicable
-	"2022 Week 11 ending March 19, 2022 (provisional)"	"2022/11"	2104	Not Applicable	Not Applicable
-	"2022 Week 12 ending March 26, 2022 (provisional)"	"2022/12"	1619	Not Applicable	Not Applicable
-	"2022 Week 13 ending April 02, 2022 (provisional)"	"2022/13"	1142	Not Applicable	Not Applicable
-	"2022 Week 14 ending April 09, 2022 (provisional)"	"2022/14"	898	Not Applicable	Not Applicable
-	"2022 Week 15 ending April 16, 2022 (provisional)"	"2022/15"	803	Not Applicable	Not Applicable
-	"2022 Week 16 ending April 23, 2022 (provisional)"	"2022/16"	784	Not Applicable	Not Applicable
-	"2022 Week 17 ending April 30, 2022 (provisional)"	"2022/17"	841	Not Applicable	Not Applicable
-	"2022 Week 18 ending May 07, 2022 (provisional)"	"2022/18"	862	Not Applicable	Not Applicable
-	"2022 Week 19 ending May 14, 2022 (provisional)"	"2022/19"	1039	Not Applicable	Not Applicable
-	"2022 Week 20 ending May 21, 2022 (provisional)"	"2022/20"	1086	Not Applicable	Not Applicable
-	"2022 Week 21 ending May 28, 2022 (provisional)"	"2022/21"	1287	Not Applicable	Not Applicable
-	"2022 Week 22 ending June 04, 2022 (provisional)"	"2022/22"	1302	Not Applicable	Not Applicable
-	"2022 Week 23 ending June 11, 2022 (provisional)"	"2022/23"	1388	Not Applicable	Not Applicable
-	"2022 Week 24 ending June 18, 2022 (provisional)"	"2022/24"	1425	Not Applicable	Not Applicable
-	"2022 Week 25 ending June 25, 2022 (provisional)"	"2022/25"	1513	Not Applicable	Not Applicable
-	"2022 Week 26 ending July 02, 2022 (provisional)"	"2022/26"	1577	Not Applicable	Not Applicable
-	"2022 Week 27 ending July 09, 2022 (provisional)"	"2022/27"	1700	Not Applicable	Not Applicable
-	"2022 Week 28 ending July 16, 2022 (provisional)"	"2022/28"	1981	Not Applicable	Not Applicable
-	"2022 Week 29 ending July 23, 2022 (provisional)"	"2022/29"	2121	Not Applicable	Not Applicable
-	"2022 Week 30 ending July 30, 2022 (provisional)"	"2022/30"	2253	Not Applicable	Not Applicable
-	"2022 Week 31 ending August 06, 2022 (provisional)"	"2022/31"	2239	Not Applicable	Not Applicable
-	"2022 Week 32 ending August 13, 2022 (provisional)"	"2022/32"	2186	Not Applicable	Not Applicable
-	"2022 Week 33 ending August 20, 2022 (provisional)"	"2022/33"	2103	Not Applicable	Not Applicable
-	"2022 Week 34 ending August 27, 2022 (provisional)"	"2022/34"	1929	Not Applicable	Not Applicable
-	"2022 Week 35 ending September 03, 2022 (provisional)"	"2022/35"	1854	Not Applicable	Not Applicable
-	"2022 Week 36 ending September 10, 2022 (provisional)"	"2022/36"	1738	Not Applicable	Not Applicable
-	"2022 Week 37 ending September 17, 2022 (provisional)"	"2022/37"	1557	Not Applicable	Not Applicable
-	"2022 Week 38 ending September 24, 2022 (provisional)"	"2022/38"	1559	Not Applicable	Not Applicable
-	"2022 Week 39 ending October 01, 2022 (provisional)"	"2022/39"	1483	Not Applicable	Not Applicable
-	"2022 Week 40 ending October 08, 2022 (provisional)"	"2022/40"	1307	Not Applicable	Not Applicable
-	"2022 Week 41 ending October 15, 2022 (provisional)"	"2022/41"	1293	Not Applicable	Not Applicable
-	"2022 Week 42 ending October 22, 2022 (provisional)"	"2022/42"	1325	Not Applicable	Not Applicable
-	"2022 Week 43 ending October 29, 2022 (provisional)"	"2022/43"	1326	Not Applicable	Not Applicable
-	"2022 Week 44 ending November 05, 2022 (provisional)"	"2022/44"	1306	Not Applicable	Not Applicable
-	"2022 Week 45 ending November 12, 2022 (provisional)"	"2022/45"	1178	Not Applicable	Not Applicable
-	"2022 Week 46 ending November 19, 2022 (provisional)"	"2022/46"	1080	Not Applicable	Not Applicable
+	"2022 Week 01 ending January 08, 2022 (provisional)"	"2022/01"	13257	Not Applicable	Not Applicable
+	"2022 Week 02 ending January 15, 2022 (provisional)"	"2022/02"	16623	Not Applicable	Not Applicable
+	"2022 Week 03 ending January 22, 2022 (provisional)"	"2022/03"	18389	Not Applicable	Not Applicable
+	"2022 Week 04 ending January 29, 2022 (provisional)"	"2022/04"	17993	Not Applicable	Not Applicable
+	"2022 Week 05 ending February 05, 2022 (provisional)"	"2022/05"	15769	Not Applicable	Not Applicable
+	"2022 Week 06 ending February 12, 2022 (provisional)"	"2022/06"	12661	Not Applicable	Not Applicable
+	"2022 Week 07 ending February 19, 2022 (provisional)"	"2022/07"	9305	Not Applicable	Not Applicable
+	"2022 Week 08 ending February 26, 2022 (provisional)"	"2022/08"	6493	Not Applicable	Not Applicable
+	"2022 Week 09 ending March 05, 2022 (provisional)"	"2022/09"	4617	Not Applicable	Not Applicable
+	"2022 Week 10 ending March 12, 2022 (provisional)"	"2022/10"	3211	Not Applicable	Not Applicable
+	"2022 Week 11 ending March 19, 2022 (provisional)"	"2022/11"	2112	Not Applicable	Not Applicable
+	"2022 Week 12 ending March 26, 2022 (provisional)"	"2022/12"	1627	Not Applicable	Not Applicable
+	"2022 Week 13 ending April 02, 2022 (provisional)"	"2022/13"	1145	Not Applicable	Not Applicable
+	"2022 Week 14 ending April 09, 2022 (provisional)"	"2022/14"	902	Not Applicable	Not Applicable
+	"2022 Week 15 ending April 16, 2022 (provisional)"	"2022/15"	804	Not Applicable	Not Applicable
+	"2022 Week 16 ending April 23, 2022 (provisional)"	"2022/16"	788	Not Applicable	Not Applicable
+	"2022 Week 17 ending April 30, 2022 (provisional)"	"2022/17"	846	Not Applicable	Not Applicable
+	"2022 Week 18 ending May 07, 2022 (provisional)"	"2022/18"	868	Not Applicable	Not Applicable
+	"2022 Week 19 ending May 14, 2022 (provisional)"	"2022/19"	1043	Not Applicable	Not Applicable
+	"2022 Week 20 ending May 21, 2022 (provisional)"	"2022/20"	1089	Not Applicable	Not Applicable
+	"2022 Week 21 ending May 28, 2022 (provisional)"	"2022/21"	1294	Not Applicable	Not Applicable
+	"2022 Week 22 ending June 04, 2022 (provisional)"	"2022/22"	1306	Not Applicable	Not Applicable
+	"2022 Week 23 ending June 11, 2022 (provisional)"	"2022/23"	1399	Not Applicable	Not Applicable
+	"2022 Week 24 ending June 18, 2022 (provisional)"	"2022/24"	1428	Not Applicable	Not Applicable
+	"2022 Week 25 ending June 25, 2022 (provisional)"	"2022/25"	1523	Not Applicable	Not Applicable
+	"2022 Week 26 ending July 02, 2022 (provisional)"	"2022/26"	1587	Not Applicable	Not Applicable
+	"2022 Week 27 ending July 09, 2022 (provisional)"	"2022/27"	1711	Not Applicable	Not Applicable
+	"2022 Week 28 ending July 16, 2022 (provisional)"	"2022/28"	1992	Not Applicable	Not Applicable
+	"2022 Week 29 ending July 23, 2022 (provisional)"	"2022/29"	2134	Not Applicable	Not Applicable
+	"2022 Week 30 ending July 30, 2022 (provisional)"	"2022/30"	2266	Not Applicable	Not Applicable
+	"2022 Week 31 ending August 06, 2022 (provisional)"	"2022/31"	2254	Not Applicable	Not Applicable
+	"2022 Week 32 ending August 13, 2022 (provisional)"	"2022/32"	2204	Not Applicable	Not Applicable
+	"2022 Week 33 ending August 20, 2022 (provisional)"	"2022/33"	2120	Not Applicable	Not Applicable
+	"2022 Week 34 ending August 27, 2022 (provisional)"	"2022/34"	1952	Not Applicable	Not Applicable
+	"2022 Week 35 ending September 03, 2022 (provisional)"	"2022/35"	1868	Not Applicable	Not Applicable
+	"2022 Week 36 ending September 10, 2022 (provisional)"	"2022/36"	1755	Not Applicable	Not Applicable
+	"2022 Week 37 ending September 17, 2022 (provisional)"	"2022/37"	1572	Not Applicable	Not Applicable
+	"2022 Week 38 ending September 24, 2022 (provisional)"	"2022/38"	1583	Not Applicable	Not Applicable
+	"2022 Week 39 ending October 01, 2022 (provisional)"	"2022/39"	1506	Not Applicable	Not Applicable
+	"2022 Week 40 ending October 08, 2022 (provisional)"	"2022/40"	1333	Not Applicable	Not Applicable
+	"2022 Week 41 ending October 15, 2022 (provisional)"	"2022/41"	1319	Not Applicable	Not Applicable
+	"2022 Week 42 ending October 22, 2022 (provisional)"	"2022/42"	1350	Not Applicable	Not Applicable
+	"2022 Week 43 ending October 29, 2022 (provisional)"	"2022/43"	1375	Not Applicable	Not Applicable
+	"2022 Week 44 ending November 05, 2022 (provisional)"	"2022/44"	1390	Not Applicable	Not Applicable
+	"2022 Week 45 ending November 12, 2022 (provisional)"	"2022/45"	1344	Not Applicable	Not Applicable
+	"2022 Week 46 ending November 19, 2022 (provisional)"	"2022/46"	1389	Not Applicable	Not Applicable
+	"2022 Week 47 ending November 26, 2022 (provisional)"	"2022/47"	1526	Not Applicable	Not Applicable
+	"2022 Week 48 ending December 03, 2022 (provisional)"	"2022/48"	1501	Not Applicable	Not Applicable
+	"2022 Week 49 ending December 10, 2022 (provisional)"	"2022/49"	1683	Not Applicable	Not Applicable
+	"2022 Week 50 ending December 17, 2022 (provisional)"	"2022/50"	1525	Not Applicable	Not Applicable
+	"2022 Week 51 ending December 24, 2022 (provisional)"	"2022/51"	Suppressed	Not Applicable	Not Applicable
+	"2022 Week 52 ending December 31, 2022 (provisional)"	"2022/52"	Suppressed	Not Applicable	Not Applicable
 "---"
 "Dataset: Provisional Mortality Statistics, 2018 through Last Month"
 "Query Parameters:"
@@ -344,7 +350,9 @@
 "2022 Week 39 ending October 01, 2022 (provisional); 2022 Week 40 ending October 08, 2022 (provisional); 2022 Week 41 ending"
 "October 15, 2022 (provisional); 2022 Week 42 ending October 22, 2022 (provisional); 2022 Week 43 ending October 29, 2022"
 "(provisional); 2022 Week 44 ending November 05, 2022 (provisional); 2022 Week 45 ending November 12, 2022 (provisional); 2022"
-"Week 46 ending November 19, 2022 (provisional)"
+"Week 46 ending November 19, 2022 (provisional); 2022 Week 47 ending November 26, 2022 (provisional); 2022 Week 48 ending"
+"December 03, 2022 (provisional); 2022 Week 49 ending December 10, 2022 (provisional); 2022 Week 50 ending December 17, 2022"
+"(provisional); 2022 Week 51 ending December 24, 2022 (provisional); 2022 Week 52 ending December 31, 2022 (provisional)"
 "UCD - ICD-10 Codes: U07.1 (COVID-19)"
 "Group By: MMWR Week"
 "Show Totals: False"
@@ -355,13 +363,12 @@
 "---"
 "Help: See http://wonder.cdc.gov/wonder/help/mcd-provisional.html for more information."
 "---"
-"Query Date: Dec 9, 2022 11:05:00 PM"
+"Query Date: Jan 4, 2023 9:40:37 PM"
 "---"
 "Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
 "System, Provisional Mortality on CDC WONDER Online Database. Data are from the final Multiple Cause of Death Files, 2018-2020,"
 "and from provisional data for years 2021-2022, as compiled from data provided by the 57 vital statistics jurisdictions through"
-"the Vital Statistics Cooperative Program. Accessed at http://wonder.cdc.gov/mcd-icd10-provisional.html on Dec 9, 2022 11:05:00"
-"PM"
+"the Vital Statistics Cooperative Program. Accessed at http://wonder.cdc.gov/mcd-icd10-provisional.html on Jan 4, 2023 9:40:37 PM"
 "---"
 Caveats:
 "1. Population and rates are labeled 'Not Applicable' when location of Death's Occurrence, Autopsy, Place of Death, Weekday or"
@@ -373,4 +380,4 @@ Caveats:
 "http://wonder.cdc.gov/wonder/help/mcd-provisional.html#Unreliable."
 "4. Changes to cause of death classification affect reporting trends. More information:"
 "http://wonder.cdc.gov/wonder/help/mcd-provisional.html#ICD-10 Changes."
-"5. Deaths occurring through November 19, 2022 as of December 04, 2022."
+"5. Deaths occurring through December 17, 2022 as of January 02, 2023."
